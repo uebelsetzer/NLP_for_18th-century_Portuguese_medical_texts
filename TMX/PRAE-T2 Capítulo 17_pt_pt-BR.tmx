@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XVII.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>CAPÍTULO XVII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Unturas quaesquer que forem como se hao de applicar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>Unturas quaisquer que forem como se hão de aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>166</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>166</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>TOdas as unturas, que se fizerem no peito, seja por causa de pleuriz , empiematico , tisico, asmatico, e na bexiga , se haõ de fazer branda , e suavemente com huma gadelha de lã, e naõ com os dedos por nenhum caso.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>Todas as unturas, que se fizerem no peito, seja por causa de pleuris, empiemático, tísico, asmático, e na bexiga, se hão de fazer branda, e suavemente com uma gadelha de lã, e não com os dedos por nenhum caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>167</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>167</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>As unturas, que se fizerem no estomago por causa de fraqueza, ou de cursos, se haõ de fazer com os dedos brandamente atè encorporar a untura, de fórma, que fique sumida; o que se naõ póde conseguir, sendo com gadelha de lã.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>As unturas, que se fizerem no estômago por causa de fraqueza, ou de cursos, se hão de fazer com os dedos brandamente até incorporar a untura, de forma, que fique sumida; o que se não pode conseguir, sendo com gadelha de lã.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>168</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>168</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos hydropicos se fará a untura com a maõ, carregando-a bem , para que se encorpore; porèm se o estomago do enfermo estiver inflammado , se fará com gadelha de lã brandamente.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>Aos hidrópicos se fará a untura com a mão, carregando-a bem, para que se incorpore; porém se o estômago do enfermo estiver inflamado, se fará com gadelha de lã brandamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E para conheceres se está inflammado, observareis se a febre he grande, e ardente; se tem dor grande na parte; e em tal caso se lhe augmentará mais a queixa ao enfermo, feita a untura com os dedos ; e naõ só nesta parte, mas em qualquer , que esteja inflammada.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>E para conheceres se está inflamado, observareis se a febre é grande, e ardente; se tem dor grande na parte; e em tal caso se lhe aumentará mais a queixa ao enfermo, feita a untura com os dedos; e não só nesta parte, mas em qualquer, que esteja inflamada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>169</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>169</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Todas as unturas por regra geral, que se fizerem a hydropicos, ou em parte, que outro qualquer enfermo tiver dor , ou dureza , (naõ havendo inflammaçaõ) fareis a untura com toda a maõ ligeiramente, para que melhor se encorpore; mas com brandura , que assim se evita chamar à parte mayor queixa.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>Todas as unturas por regra geral, que se fizerem a hidrópicos, ou em parte, que outro qualquer enfermo tiver dor, ou dureza, (não havendo inflamação) fareis a untura com toda a mão ligeiramente, para que melhor se incorpore; mas com brandura, que assim se evita chamar à parte maior queixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>As que se fazem com violência saõ só as de azougue, como no seu Capitulo se declara.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>As que se fazem com violência são só as de azougue, como no seu Capítulo se declara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>170</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>170</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o figado, ou baço do enfermo estiver opilado , lhe fareis a untura com a maõ atè que se encorpore; e se nestas partes houver inflammaçaõ , evitay o encorporalla; porque com o untar, ainda que leve, por continuado se fará mais sentido.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154230Z">
+        <seg>Se o fígado, ou baço do enfermo estiver opilado, lhe fareis a untura com a mão até que se incorpore; e se nestas partes houver inflamação, evitai o incorporá-la; porque com o untar, ainda que leve, por continuado se fará mais sentido.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

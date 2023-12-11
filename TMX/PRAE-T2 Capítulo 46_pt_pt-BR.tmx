@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLVI .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>CAPÍTULO XLVI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sangrar aos enfermos como , e quando ha de ser , e regimento , que se ha de observar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Sangrar aos enfermos como, e quando há de ser, e regimento, que se há de observar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>272</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>272</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>DEve ter muito grande cuidado o Enfermeiro com os enfermos , que tem crescimentos de febres malignas , agudas , ou terçãs , naõ os deixando dormir .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Deve ter muito grande cuidado o Enfermeiro com os enfermos, que tem crescimentos de febres malignas, agudas, ou terçãs, não os deixando dormir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>273</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estes enfermos se naõ devem sangrar sem estarem livres dos crescimentos , ou ao menos na declinaçaõ delles ; que a forma de se conhecer quando está declinado o crescimento , vay declarada no Capitulo quarenta e trez .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Estes enfermos se não devem sangrar sem estarem livres dos crescimentos, ou ao menos na declinação deles; que a forma de se conhecer quando está declinado o crescimento, vai declarada no Capítulo quarenta e três.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>274</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>274</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Deve o Enfermeiro ter grande cuidado de advertir ao Sangrador , quando estiver fazendo alguma sangria no braço , o naõ levante , que he hum erro gravissimo , em que cahem muitos Sangradores ; porque quanto mais inclinado para baixo tiver o enfermo o braço , melhor .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Deve o Enfermeiro ter grande cuidado de advertir ao Sangrador, quando estiver fazendo alguma sangria no braço, o não levante, que é um erro gravíssimo, em que caem muitos Sangradores; porque quanto mais inclinado para baixo tiver o enfermo o braço, melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se a sangria for de pé , será feita fóra da cama , tendo o corpo inclinado para a parte da bacia ; advertindo ao Sangrador rompa bem a veya , que sendo pouco rasgada , naõ serve de proveito ao enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Se a sangria for de pé, será feita fora da cama, tendo o corpo inclinado para a parte da bacia; advertindo ao Sangrador rompa bem a veia, que sendo pouco rasgada, não serve de proveito ao enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>275</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>275</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo for costumado a desmayar-se , se lhe dará agoa bem fria para ter na boca em quanto se lhe faz a sangria ; e em a dita agoa se lhe aquentando na boca , a lançará fóra , e se lhe dará outra ; e quando isto naõ baste , se lhe borrife a cara ; e naõ podendo evitar o desmayo , dirá o Enfermeiro ao Sangrador tape a veya .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Se o enfermo for costumado a desmaiar-se, se lhe dará água bem fria para ter na boca em quanto se lhe faz a sangria; e em a dita água se lhe aquentando na boca, a lançará fora, e se lhe dará outra; e quando isto não baste, se lhe borrife a cara; e não podendo evitar o desmaio, dirá o Enfermeiro ao Sangrador tape a veia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>276</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>276</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Algumas vezes saõ as sangrias , que causaõ desmayo , de muito proveito para o enfermo ; porque com o desmayo se resfria todo o ambito do corpo , e fínalizaõ as febres , como costuma succeder com os suores na declinaçaõ dos crescimentos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Algumas vezes são as sangrias, que causam desmaio, de muito proveito para o enfermo; porque com o desmaio se resfria todo o âmbito do corpo, e finalizam as febres, como costuma suceder com os suores na declinação dos crescimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>277</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>277</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Advirta o Enfermeiro , que depois que o Medico sahir do Hospital , tendo ordenado sangria a algum enfermo , e a este lhe sobrevier algum suor , vomitos grandes , ou cursos , com estes symptomas o naõ mande sangrar , sem que o Medico novamente o determine ; porque ha muitas vezes febres com cursos , e sem embargo destes se manda sangrar ; e a muitos enfermos lhes daõ suores pela cara , e peito no principio da enfermidade , e naõ obstante os mandaõ sangrar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Advirta o Enfermeiro, que depois que o Médico sair do Hospital, tendo ordenado sangria a algum enfermo, e a este lhe sobrevier algum suor, vômitos grandes, ou cursos, com estes sintomas o não mande sangrar, sem que o Médico novamente o determine; porque há muitas vezes febres com cursos, e sem embargo destes se manda sangrar; e a muitos enfermos lhes dão suores pela cara, e peito no princípio da enfermidade, e não obstante os mandam sangrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Porèm para que o Enfermeiro obre com acerto , he preciso reserve para o Medico eftas determinações .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154705Z">
+        <seg>Porém para que o Enfermeiro obre com acerto, é preciso reserve para o Médico estas determinações.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

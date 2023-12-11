@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLIII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>CAPÍTULO XLIII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Agoa como , e quando se ha de dar ao enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>Água como, e quando se há de dar ao enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>257</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>257</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>HE muito preciso que o Enfermeiro tenha particular cuidado em dar agoa aos enfermos , naõ quando a pedirem , mas sim quando della necessitarem , e a muitos sem a pedirem , principalmente aos delirantes , e aos que estaõ fóra da sua propria advertencia ; que muitas vezes em enfermos de differentes enfermidades , principalmente nas malignas , taõ prejudicial he tirar-lhes a agoa a seu tempo , como dar-lha fóra delle , sem antever lhes he , ou naõ precisa .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>É muito preciso que o Enfermeiro tenha particular cuidado em dar água aos enfermos, não quando a pedirem, mas sim quando dela necessitarem, e a muitos sem a pedirem, principalmente aos delirantes, e aos que estão fora da sua própria advertência; que muitas vezes em enfermos de diferentes enfermidades, principalmente nas malignas, tão prejudicial é tirar-lhes a água a seu tempo, como dar-lha fora dele, sem antever lhes é, ou não precisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>258</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>258</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A hora mais propria para dar agoa a hum enfermo , he na declinaçaõ da febre , ou seja de terçã , ou de outra qualquer qualidade .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>A hora mais própria para dar água a um enfermo, é na declinação da febre, ou seja de terçã, ou de outra qualquer qualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A muitos Medicos tenho ouvido dizer , que para melhor se conhecer a declinaçaõ da febre , he quando o calor desce aos pés , e ficaõ mais quentes , que as mãos , e que he doutrina de Avicena .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>A muitos Médicos tenho ouvido dizer, que para melhor se conhecer a declinação da febre, é quando o calor desce aos pés, e ficão mais quentes, que as mãos, e que é doutrina de Avicena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>259</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>259</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O prudente Enfermeiro deve fazer esta , e outras observações , que a experiencia , e continuaçaõ do exercicio mostra , para naõ dar ao enfermo agoa fóra de tempo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>O prudente Enfermeiro deve fazer esta, e outras observações, que a experiência, e continuação do exercício mostra, para não dar ao enfermo água fora de tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos que tem malignas se lhes deve dar agoa em mais abundancia , principalmente nas horas de comer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>Aos que tem malignas se lhes deve dar água em mais abundância, principalmente nas horas de comer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>260</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>260</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos enfermos , que forem trigueiros , colericos , sanguineos , e secos , se lhes ha de dar agoa mais largamente , que aos que forem gordos , e claros ; e he pratica de graves Medicos , com quem tenho visitado , e praticado neste particular .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>Aos enfermos, que forem trigueiros, coléricos, sanguíneos, e secos, se lhes há de dar água mais largamente, que aos que forem gordos, e claros; e é pratica de graves Médicos, com quem tenho visitado, e praticado neste particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>261</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>261</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nos mezes de Junho , Julho , Agosto , e Setembro , se deve dar aos enfermos mais agoa , e bem fria ; e nos mais mezes se deve dar menos , conforme a necessidade o pedir .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>Nos meses de Junho, Julho, Agosto, e Setembro, se deve dar aos enfermos mais água, e bem fria; e nos mais meses se deve dar menos, conforme a necessidade o pedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>De Inverno se lhes ha de dar morna , principalmente aos que tiverem achaque no peito , ou pleuriz .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154620Z">
+        <seg>De Inverno se lhes há de dar morna, principalmente aos que tiverem achaque no peito, ou pleuris.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

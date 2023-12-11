@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLVII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>CAPÍTULO XLVII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Suor como se conhece se he bom , ou máo , e embarramentos , que se costumaõ fazer aos que saõ diaforeticos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Suor como se conhece se é bom, ou mau, e embarramentos, que se costumam fazer aos que são diaforéticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>278</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>278</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>POrque em muitas febres costumaõ vir algumas vezes suores , que em alguns enfermos terminaõ bem , e em outros mal , pela boa , ou má qualidade delles ; he muito preciso que o Enfermeiro para os remediar , e suspender , ou para os ajudar a suar mais , tenha conhecimento delles .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Porque em muitas febres costumam vir algumas vezes suores, que em alguns enfermos terminam bem, e em outros mal, pela boa, ou má qualidade deles; é muito preciso que o Enfermeiro para os remediar, e suspender, ou para os ajudar a suar mais, tenha conhecimento deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>279</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>279</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Deve o bom Enfermeiro examinar todos os dias a ourina do enfermo ; e se lhe faltar a experiencia , he preciso que quando o Medico a veja , repare os termos , com que a capitula ; porque ouvindo dizer que as de hum enfermo tem perdido alguns sinaes de cozimento , e a este tal enfermo lhe vier hum suor quente , que lhe occupe todo o corpo , e que as gotas saõ redondas , deve o Enfermeiro conservar este suor ao enfermo por tempo de huma hora , se tiver forças ; e se as naõ tiver , seja menos tempo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Deve o bom Enfermeiro examinar todos os dias a urina do enfermo; e se lhe faltar a experiência, é preciso que quando o Médico a veja, repare os termos, com que a capitula; porque ouvindo dizer que as de um enfermo tem perdido alguns sinais de cozimento, e a este tal enfermo lhe vier um suor quente, que lhe ocupe todo o corpo, e que as gotas são redondas, deve o Enfermeiro conservar este suor ao enfermo por tempo de uma hora, se tiver forças; e se as não tiver, seja menos tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Deve o Enfermeiro advertir ao enfermo se naõ mova , nem se descubra , e abrigallo com a mesma roupa , que tiver , ou pouca mais , para que o enfermo se naõ fatigue , que he o principal para que o enfermo o possa conservar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Deve o Enfermeiro advertir ao enfermo se não mova, nem se descubra, e abrigá-lo com a mesma roupa, que tiver, ou pouca mais, para que o enfermo se não fatigue, que é o principal para que o enfermo o possa conservar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>280</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando ao Enfermeiro lhe parecer conveniente , lhe limpará o suor com huma toalha por baixo da roupa , de fórma , que o enfermo naõ receba algum ar frio : logo lhe vestirá camiza limpa , bem enxovalhada nas mãos , quente , e defumada com alecrim .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Quando ao Enfermeiro lhe parecer conveniente, lhe limpará o suor com uma toalha por baixo da roupa, de forma, que o enfermo não receba algum ar frio: logo lhe vestirá camisa limpa, bem enxovalhada nas mãos, quente, e defumada com alecrim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se depois de ter a camiza limpa vestida continuar o suor , tendo forças o enfermo , lho póde conservar mais algum tempo , e lhe dará algumas gotas de caldo , porque destas evacuações resulta muita fraqueza ao enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Se depois de ter a camisa limpa vestida continuar o suor, tendo forças o enfermo, lho pode conservar mais algum tempo, e lhe dará algumas gotas de caldo, porque destas evacuações resulta muita fraqueza ao enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>No principio destes suores he muito conveniente dar ao enfermo seis onças de agoa de lingua de boy , ou de escorcioneira , com pedra bazar , do tamanho de hum graõ de comer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>No princípio destes suores é muito conveniente dar ao enfermo seis onças de água de língua de boi, ou de escorcioneira, com pedra bazar, do tamanho de um grão de comer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>281</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>281</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ainda que estes suores sejaõ bons , e approvados , podem matar , se forem demasiados ; e assim deve o prudente Enfermeiro ver com particular attençaõ se o enfermo se vay enfraquecendo muito , que em tal caso lho deve logo evitar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Ainda que estes suores sejam bons, e aprovados, podem matar, se forem demasiados; e assim deve o prudente Enfermeiro ver com particular atenção se o enfermo se vai enfraquecendo muito, que em tal caso lho deve logo evitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>282</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>282</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Outras vezes costumaõ ser os suores differentes , a que os Medicos chamaõ diaforeticos , os quaes começaõ por hum suor frio , e pegajoso , a cujo enfermo se lhe vaõ logo enfraquecendo os pulsos , os quaes se põem como untados de azeite, quando este suor principia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Outras vezes costumam ser os suores diferentes, a que os Médicos chamam diaforéticos, os quais começam por um suor frio, e pegajoso, a cujo enfermo se lhe vão logo enfraquecendo os pulsos, os quais se põem como untados de azeite, quando este suor principia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>283</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>283</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A estes taes enfermos he muito preciso que o Enfermeiro duplique o cuidado , para lhe evitar logo o suor , naõ deixando dormir o enfermo , e fazendo-o mudar , e voltar na cama de huma para outra parte , e aliviallo da roupa , de fórma , que lhe fique muy pouca .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>A estes tais enfermos é muito preciso que o Enfermeiro duplique o cuidado, para lhe evitar logo o suor, não deixando dormir o enfermo, e fazendo-o mudar, e voltar na cama de uma para outra parte, e aliviá-lo da roupa, de forma, que lhe fique muito pouca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Logo se atará hum pano grosso em hum páo por fórma de bandeira , molhado em agoa , e vinagre rosado , e com o tal instrumento estará huma pessoa abanando o enfermo continuamente da cabeça atè aos pés ; e o melhor he com hum chapeo velho , molhado no mesmo , para que o ar seja mais violento , que he o mais conveniente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Logo se atará um pano grosso em um pão por forma de bandeira, molhado em água, e vinagre rosado, e com o tal instrumento estará uma pessoa abanando o enfermo continuamente da cabeça até aos pés; e o melhor é com um chapéu velho, molhado no mesmo, para que o ar seja mais violento, que é o mais conveniente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>284</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>284</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Saõ estes suores em muitas occasiões taõ copiosos , que nem com estas diligencias querem parar ; e como naõ saõ sussicientes para impedillos , costumaõ os Medicos mandar embarrar o tal enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>São estes suores em muitas ocasiões tão copiosos, que nem com estas diligências querem parar; e como não são suficientes para impedi-los, costumam os Médicos mandar embarrar o tal enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para executar este embarramento , mandareis pôr o enfermo de lado , e tomando nos dedos o barro , ou emplasto , que o Medico tiver receitado , lhe untareis todo o espinhaço , o qual está situado desde a nuca atè o fim das costellas mendozas , e logo se lhe ha de embarrar todo o peito , e mais partes do corpo , se o Medico o determinar , que as essenciaes sao só as referidas ; e se lhe hirá fazendo vento na fórma , que está dito , sem deixar dormir o enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Para executar este embarramento, mandareis pôr o enfermo de lado, e tomando nos dedos o barro, ou emplasto, que o Médico tiver receitado, lhe untareis todo o espinhaço, o qual está situado desde a nuca até o fim das costelas mendosas, e logo se lhe há de embarrar todo o peito, e mais partes do corpo, se o Medico o determinar, que as essenciais são só as referidas; e se lhe irá fazendo vento na forma, que está dito, sem deixar dormir o enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>285</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>285</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para estes enfermos naõ he proveitosa a pedra bazar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Para estes enfermos não é proveitosa a pedra bazar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o Medico naõ vier de pressa , mandará o Enfermeiro vir logo da botica pós de terra figillada , bolo armenio , margaritas preparadas , de cada cousa hum escrupulo , xarope de rosas secas , e marmellos , de cada hum huma onça , agoa de cerejas quatro onças ; e lhe dará esta bebida , porque he conveniente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154753Z">
+        <seg>Se o Médico não vier depressa, mandará o Enfermeiro vir logo da botica pós de terra sigilada, bolo armênio, margaritas preparadas, de cada cousa um escrúpulo, xarope de rosas secas, e marmelos, de cada um uma onça, água de cerejas quatro onças; e lhe dará esta bebida, porque é conveniente.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

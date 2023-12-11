@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XXXIII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090836Z">
+        <seg>CAPÍTULO XXXIII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Pedra bazar como se ha de dar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090836Z">
+        <seg>Pedra bazar como se há de dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>226</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090836Z">
+        <seg>226</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>SE o Medico mandar dar ao enfermo pedra bazar , enchereis huma colher de caldo de galinha , ou de agoa cordial , cuja colher será de prata , ou de outro metal , e nella lançareis a pedra em pó , a quantidade de hum , ou dous grãos de comer , ou a quantidade , que o Medico determinar ; e se for possivel , naõ chegue aos dentes do enfermo , quando a tomar ; e logo lhe dareis huma gota de caldo, ou de agoa cordial , para que leve toda para baixo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090836Z">
+        <seg>Se o Médico mandar dar ao enfermo pedra bazar, enchereis uma colher de caldo de galinha, ou de água cordial, cuja colher será de prata, ou de outro metal, e nela lançareis a pedra em pó, a quantidade de um, ou dois grãos de comer, ou a quantidade, que o Médico determinar; e se for possível, não chegue aos dentes do enfermo, quando a tomar; e logo lhe dareis uma gota de caldo, ou de água cordial, para que leve toda para baixo.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

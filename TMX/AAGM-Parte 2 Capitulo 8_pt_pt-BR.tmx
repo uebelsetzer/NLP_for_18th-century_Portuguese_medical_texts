@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO VIII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>CAPÍTULO VIII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Das Febres podres , e remittentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Das Febres podres, e remitentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>AS Febres podres , e remittentes saõ produzidas por materias corruptas , que se achaõ demoradas no estomago , e nos intestinos ou tripas , no figado , no pancreas , nas glandulas , que entraõ na textura do mesenterio , e em huma palavra em rodas as partes do baixo ventre , ou barriga .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>As Febres podres, e remitentes são produzidas por matérias corruptas, que se acham demoradas no estômago, e nos intestinos ou tripas, no fígado, no pâncreas, nas glândulas, que entram na textura do mesentério, e em uma palavra em todas as partes do baixo ventre, ou barriga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Os alimentos de má qualidade com que os Marinheiros se sustentaõ , a má agoa , que bebem , e muitas outras causas , que eu ja descrevi no Capitulo precedente , fazem esta especie de febre muito commua entre as Equipagens dos Navios Mercantes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Os alimentos de má qualidade com que os Marinheiros se sustentam, a má água, que bebem, e muitas outras causas, que eu já descrevi no Capítulo precedente, fazem esta espécie de febre muito comum entre as Equipagens dos Navios Mercantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Esta doença muitas vezes se manifesta muitos dias anticipadamente por incómmodos , pouca vontade de comer , bocca mal saborosa , dôres de rins , lassidões , pezo nos braços , e nas pernas , dôres de cabeça , fraquezas , agonias &amp;c. &amp;c.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Esta doença muitas vezes se manifesta muitos dias antecipadamente por incômodos, pouca vontade de comer, boca mal saborosa, dores de rins, lassidões, peso nos braços, e nas pernas, dores de cabeça, fraquezas, agonias etc. etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Algumas vezes ella vem de repente , e começa por hum tremor , qae dura mais , ou menos tempo, que passa , torna a vir , ou que os doentes naõ sentem senaõ interiormente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Algumas vezes ela vem de repente, e começa por um tremor, que dura mais, ou menos tempo, que passa, torna a vir, ou que os doentes não sentem senão interiormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois do tremor seguese muitas vezes hum grande calôr ; o pullo he ligeiro , sem ser duro , menos que estas febres se naõ achem complicadas com alguma disposiçaõ in flammatoria ; e isto he o à que se deve fazer huma attençaõ seria , examinando o estado do pulso ; porque se elle he duro , e cheio , convém sangrar , até que fique mais molle , em lugar que se elle naõ he nem duro , nem cheio , quasi que naõ saõ necessarias as sangrias : huma , ou duas ordinariamente bastaõ ; e até mesmo se pode passar sem ellas muitissimas vezes , ao menos se as dôres de cabeça naõ forem violentas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Depois do tremor segue-se muitas vezes um grande calor; o pulo é ligeiro, sem ser duro, menos que estas febres se não achem complicadas com alguma disposição inflamatória; e isto é o à que se deve fazer uma atenção seria, examinando o estado do pulso; porque se ele é duro, e cheio, convém sangrar, até que fique mais mole, em lugar que se ele não é nem duro, nem cheio, quase que não são necessárias as sangrias: uma, ou duas ordinariamente bastão; e até mesmo se pode passar sem elas muitíssimas vezes, ao menos se as dores de cabeça não forem violentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Algumas vezes tem os doentes desejos de vomitar , e vomitaõ mesmo espontaneamente ; tem sede , amarga-lhe a bocca , sua lingua he saburrosa , tema pelle secca , e ourinaõ muito pouco .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Algumas vezes tem os doentes desejos de vomitar, e vomitam mesmo espontaneamente; tem sede, amarga-lhe a boca, sua língua é saburrosa, tem a pele seca, e urinam muito pouco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O calôr da febre dura muitas horas , continua toda a noite , e acaba pela manhã ; entaõ elles experimentaõ hum pequeno suôr ; e neste estado se achaõ menos mal ; mas esta situaçaõ , que parece cómmoda , naõ dura muito tempo ; a febre continúa , augmenta-se mesmo para de tarde ; este augmento , que se chama crescimento , manifeita-se algumas vezes pór hum tremor ; outras vezês sobrevém sem ter sido precedido de tremor algum ; observa-se em certos doentes , que o crescimento naõ vem todos os dias á mesma hora ; ao mesmo tempo que em outros elle he ; para assim dizer , regulado ; muitos experimentaõ dous crescimentos no espaço de vinte e quatro horas , de que hum he mais violento , que o outro ; de tal sorte que aquelle do primeiro dia corresponde na força , e na duraçaõ ao do terceiro , ao mesmo tempo que o segundo crescimento corresponde ao do quarto dia;  esta correspondencia de crescimentos parece estabelecer huma especie de analogia entre estas febres , e as intermittentes , ou sezões ; muitas vezes succede haver mesmo entre o primero , e o segundo crescimento huma especie de trarquilidade , ou de repouso , em que os doentes parecem estar sem febre , posto que o pulso naõ seja totalmente limpo ; o que faz dar a estas especies de febres o nome de remittentes ; he precizo pois attender á duraçaõ , ao acometamento , e á variaçaõ dos crescimentos , naõ para variar o tratamento , que he quasi o mesmo , mas para conhecer o tempo de ordenar os differentes remedios .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>O calor da febre dura muitas horas, continua toda a noite, e acaba pela manhã; então eles experimentam um pequeno suor; e neste estado se acham menos mal; mas está situação, que parece cômoda, não dura muito tempo; a febre continua, aumenta-se mesmo para de tarde; este aumento, que se chama crescimento, manifesta-se algumas vezes por um tremor; outras vezes sobrevém sem ter sido precedido de tremor algum; observa-se em certos doentes, que o crescimento não vem todos os dias à mesma hora; ao mesmo tempo que em outros ele é; para assim dizer, regulado; muitos experimentam dois crescimentos no espaço de vinte e quatro horas, de que um é mais violento, que o outro; de tal sorte que aquele do primeiro dia corresponde na força, e na duração ao do terceiro, ao mesmo tempo que o segundo crescimento corresponde ao do quarto dia;  esta correspondência de crescimentos parece estabelecer uma espécie de analogia entre estas febres, e as intermitentes, ou sezões; muitas vezes sucede haver mesmo entre o primeiro, e o segundo crescimento uma espécie de tranquilidade, ou de repouso, em que os doentes parecem estar sem febre, posto que o pulso não seja totalmente limpo; o que faz dar a estas espécies de febres o nome de remitentes; é preciso pois atender à duração, ao acometimento, e à variação dos crescimentos, não para variar o tratamento, que é quase o mesmo, mas para conhecer o tempo de ordenar os diferentes remédios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se as febres podres saõ abandonadas a si mesmas , se saõ mal tratadas , ou se saõ superiores á força dos remedios : eis-aqui qual he pouco mais , ou menos a sua marcha ordinaria .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Se as febres podres são abandonadas a si mesmas, se são mal tratadas, ou se são superiores à força dos remédios: eis-aqui qual é pouco mais, ou menos a sua marcha ordinária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A febre se vai augmentando de hum dia para outro ; os crescimentos se fazem mais fortes , mais compridos , mais irregulares ; o ventre dos doentes se faz duro , e tezo ; fallaõ dormindo ; seu pulso se faz pequeno , intermittente ; entraõ movimentos convulsivos , e morrem de oito até quatorze dias da doença .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>A febre se vai aumentando de um dia para outro; os crescimentos se fazem mais fortes, mais compridos, mais irregulares; o ventre dos doentes se faz duro, e teso; falam dormindo; seu pulso se faz pequeno, intermitente; entram movimentos convulsivos, e morrem de oito até quatorze dias da doença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando estas febres bem tratadas , entaõ seguem ordinariamente huma marcha differente ; a febre persiste cinco para seis dias no primeiro estado , que eu tenho descrito , sem augmentar muito , nem diminuir ; ao setimo começaõ os crescimentos a diminuir ; a lingua se vai limpando de hum dia para outro ; e a doença termina-se dos onze para os quatorze por descargas de ventre .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Quando estas febres bem tratadas, então seguem ordinariamente uma marcha diferente; a febre persiste cinco para seis dias no primeiro estado, que eu tenho descrito, sem aumentar muito, nem diminuir; ao sétimo começam os crescimentos a diminuir; a língua se vai limpando de um dia para outro; e a doença termina-se dos onze para os quatorze por descargas de ventre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Eis-aqui pois o tratamento , que se deve seguir para curar as febres podres , e remittentes : se se conhecer pela dureza do pulso , pela vermelhidaõ do rosto , e principalmente pela constituiçaõ sanguinea do doente , que he moço , robusto , e vigoroso , se se conhecer , digo , que ha alguma disposiçaõ infammatoria junta com a febre podre , entaõ he precizo , como eu ja disse , fazer huma , ou duas sangrias , que se faraô immediatamente depois do tremor , e no maior impeto do primeiro , ou do segundo crescimento ; estas podem-se estender até tres , se a febre , e a dureza do pulso subsistirem no mesmo grão , ou se augmentarem ; com tudo he raro , que cada hum se veja obrigado a fazer mais , e esta quantidade ordinariamente basta para fazer amollecer o pulso , evacuar os vasos , e diminuir a febre ; se e o pulso pelo contrario naõ fòr duro , se o doente fôr de huma constituiçaõ fraca ; finalmente se se naõ puder suspeitar symptoma algum de inflammaçaõ , entaõ póde cada hum , e até mesmo deve abster-se da sangria , porque esta em tal caso seria nociva , diminuindo as forças do doente , desenchendo as vêas , o que daria lugar a passarem as materias corruptas das primeiras vias para o sangue .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Eis-aqui pois o tratamento, que se deve seguir para curar as febres podres, e remitentes: se se conhecer pela dureza do pulso, pela vermelhidão do rosto, e principalmente pela constituição sanguínea do doente, que é moço, robusto, e vigoroso, se se conhecer, digo, que há alguma disposição infamatória junta com a febre podre, então é preciso, como eu já disse, fazer uma, ou duas sangrias, que se farão imediatamente depois do tremor, e no maior ímpeto do primeiro, ou do segundo crescimento; estas podem-se estender até três, se a febre, e a dureza do pulso subsistirem no mesmo grão, ou se aumentarem; com tudo é raro, que cada um se veja obrigado a fazer mais, e esta quantidade ordinariamente basta para fazer amolecer o pulso, evacuar os vasos, e diminuir a febre; se e o pulso pelo contrário não for duro, se o doente for de uma constituição fraca; finalmente se se não puder suspeitar não algum de inflamação, então pôde cada um, e até mesmo deve abster-se da sangria, porque esta em tal caso seria nociva, diminuindo as forças do doente, desenchendo as veias, o que daria lugar a passarem as matérias corruptas das primeiras vias para o sangue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ou se sangre , ou se naõ sangre , pôr-se-ha o doente nos primeiros dous , ou tres dias no uso de huma das tisanas do N.º 5. , e tomará de manhã ; e de tarde , ou depois de cada crescimento huma mezinha feita do cozimento emolliente do N. 4. , ou simplesmente de agoa quente , a que se ajuntará huma , ou duas colheres de azeite , e outro tanto de vinagre , ainda que o doente mesmo obre naturalmente , tomara de quatro em quatro horas hum cópo de creme de arrôz , ou de panada , eu prefiro o creme de arrôz , e o paõ lavado , ou panada , ao caldo ; isto naõ he sem razaõ ; porque todos os Professores hoje em dia estaõ convencidos , de que os succos , que se extrahem da carne , se corrompem com mais facilidade no estomago de huma pessoa , que tem febre , do que os que saõ extrahidos dos vegetaes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Ou se sangre, ou se não sangre, pôr-se-á o doente nos primeiros dois, ou três dias no uso de uma das tisanas do N.º 5., e tomará de manhã; e de tarde, ou depois de cada crescimento uma mesinha feita do cozimento emoliente do N. 4., ou simplesmente de água quente, a que se ajuntará uma, ou duas colheres de azeite, e outro tanto de vinagre, ainda que o doente mesmo obre naturalmente, tomara de quatro em quatro horas um copo de creme de arroz, ou de panada, eu prefiro o creme de arroz, e o pão lavado, ou panada, ao caldo; isto não é sem razão; porque todos os Professores hoje em dia estão convencidos, de que os sucos, que se extraem da carne, se corrompem com mais facilidade no estômago de uma pessoa, que tem febre, do que os que são extraídos dos vegetais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois que o doente tiver observado por dous , ou tres dias o regime humectante , capaz de diluir , e fazer despegar as materias corruptas , que se achaõ no estomago , e nos intestinos , ou tripas , aproveitar-se-ha entaõ cada hum do socego , que se segue a hum crescimento , para dar o vomitorio do N. 21. , ou o do N. 11. , que se deverá preferir se houver diarrhéa ; estes remedios estaõ tanto mais bem indicados , quanto o doente tem ordinariamente nauseas , desejos de vomitar , a bocca amargosa , a lingua pastacea , e saburrosa ; provecar-se-ha a acçaõ do vomitorio com huma larga bebida de agoa quente , de que se beberaõ muitos cópos depois de cada vez , que se tiver vomitado .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Depois que o doente tiver observado por dois, ou três dias o regime umectante, capaz de diluir, e fazer despegar as matérias corruptas, que se acham no estômago, e nos intestinos, ou tripas, aproveitar-se-á então cada um do sossego, que se segue a um crescimento, para dar o vomitório do N. 21., ou o do N. 11., que se deverá preferir se houver diarreia; estes remédios estão tanto mais bem indicados, quanto o doente tem ordinariamente náuseas, desejos de vomitar, a boca amargosa, a língua pastacea, e saburrosa; provocar-se-á a ação do vomitório com uma larga bebida de água quente, de que se beberão muitos copos depois de cada vez, que se tiver vomitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ha entre os Marinheiros huma preoccupaçaõ contra perigosa contra o tartaro emetico , e contra todos os outros remedios , que se daõ para fazer vomitar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Há entre os Marinheiros uma preocupação perigosa contra o tártaro emético, e contra todos os outros remédios, que se dão para fazer vomitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Só este nome de vomitorio os faz irritar ; e desde que se lhes propõe , para logo ficaõ a tremer sem saber o porque , mas eu gostaria com tudo de os poder desenganar huma vez por todas , e de lhes fazer comprehender , que elles naõ tem nada que recear , tomando o tartaro emetico preparado segundo a formula , ou receita do N. 21. , a agoa em que este remedio esta , para assim dizer , affogado , modera a sua acçaõ , fa-la mais suave , faz que aquelles que o tomaõ se naõ fatiguem , e naõ vomitem se naõ tanto quanto quizerem , e tanto quanto lhes fôr necessario : eu concordo em que o tartaro emetico , e todos os remedios , que fazem vomitar , naõ saõ sem perigo se se daô a hum doente , que tem huma febre muito violenta , o pulso chêo , e duro , e por consequencia alguma disposiçaõ inflammatoria no estomago , ou no baixo ventre ; do mesmo modo se naõ pódem tambem dar sem perigo , ainda que naõ haja esta disposiçaõ inflammatoria , a hum doente , cujo ventre está carregado , e por assim dizer , recheado de materias corruptas , ou porque se tenha tardado muito em administrar estes remedios , porque o doente he taõ fraco , que se julgue, que naõ está em estado de supportar as concussões , ou choques , que os remedios produzem .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Só este nome de vomitório os faz irritar; e desde que se lhes propõe, para logo ficam a tremer sem saber o porquê, mas eu gostaria contudo de os poder desenganar uma vez por todas, e de lhes fazer compreender, que eles não tem nada que recear, tomando o tártaro emético preparado segundo a fórmula, ou receita do N. 21., a água em que este remédio está, para assim dizer, afogado, modera a sua ação, fá-la mais suave, faz que aqueles que o tomam se não fatiguem, e não vomitem se não tanto quanto quiserem, e tanto quanto lhes for necessário: eu concordo em que o tártaro emético, e todos os remédios, que fazem vomitar, não são sem perigo se se dão a um doente, que tem uma febre muito violenta, o pulso cheio, e duro, e por consequência alguma disposição inflamatória no estômago, ou no baixo ventre; do mesmo modo se não podem também dar sem perigo, ainda que não haja esta disposição inflamatória, a um doente, cujo ventre está carregado, e por assim dizer, recheado de matérias corruptas, ou porque se tenha tardado muito em administrar estes remédios, porque o doente é tão fraco, que se julgue, que não está em estado de suportar as concussões, ou choques, que os remédios produzem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Assim pois o verdadeiro tempo de os dár , quando naõ ha cousa alguma , que se lhe opponha , he o da tranquilidade , que se segue ao crescimento do segundo , ou do terceiro dia da doenças ; elles evacuaõ muito bem , e sem muita fadiga tanto por cima , como por baixo ; o que allivia muito o doente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Assim pois o verdadeiro tempo de os dar, quando não há coisa alguma, que se lhe oponha, é o da tranquilidade, que se segue ao crescimento do segundo, ou do terceiro dia da doença; eles evacuam muito bem, e sem muita fadiga tanto por cima, como por baixo; o que alivia muito o doente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sustentar-se-haõ estas evacuações por meio das mezinhas , e purgando hum dia sim outro naõ com o remedio do N. 14.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Sustentar-se-ão estas evacuações por meio das mesinhas, e purgando um dia sim outro não com o remédio do N. 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Antes de dar estes laxantes se se suspeitar , que o estomago naõ está ainda assás evacuado , o que se conhece pelo máo sabor de bocca , pelos desejos de vomitar , que sempre continuaõ , e principalmente pelo pouco effeito , que tiver produzido o primeiro vomitorio , entaõ he precizo repeti-lo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Antes de dar estes laxantes se se suspeitar, que o estômago não está ainda assaz evacuado, o que se conhece pelo mau sabor de boca, pelos desejos de vomitar, que sempre continuam, e principalmente pelo pouco efeito, que tiver produzido o primeiro vomitório, então é preciso repeti-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ha com tudo algumas circunstancias , que impedem o dar segundo vomitorio , ainda que se conheça que seria necessario , que o doente fosse evacuado por cima , e por baixo , nem seria mesmo prudente dar entaõ algum simples purgante ; estas circunstancias , saõ o meteorismo , ou elevaçaõ do baixo ventre , que está inchado ; e hum pouco tezo , os sobresaltos dos tendões dos pulsos , que se sentem , quando se toma o pulso ao doente ; o que annuncia ordinariamente huma abundancia das materias corruptas , e viscosas , que se accumulaõ nos intestinos , ou tripas ; he precizo entaõ supprir os vomitorios , e os purgantes pelas mezinhas , e pelo uso dos pós do N. 17.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Há com tudo algumas circunstâncias, que impedem o dar segundo vomitório, ainda que se conheça que seria necessário, que o doente fosse evacuado por cima, e por baixo, nem seria mesmo prudente dar então algum simples purgante; estas circunstâncias, são o meteorismo, ou elevação do baixo ventre, que está inchado; e um pouco teso, os sobressaltos dos tendões dos pulsos, que se sentem, quando se toma o pulso ao doente; o que anuncia ordinariamente uma abundância das matérias corruptas, e viscosas, que se acumula nos intestinos, ou tripas; é preciso então suprir os vomitórios, e os purgantes pelas mezinhas, e pelo uso dos pós do N. 17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tomará o doente quatro porções destes põs no espaço do dia metendo huma hora , ou huma hora e meia de intervallo entre cada porçaõ , até que se moderem todos estes symptomas , e que o ventre se ponha bastantemente amollecido , para poder dar o purgante do N. 14.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Tomará o doente quatro porções destes pôs no espaço do dia metendo uma hora, ou uma hora e meia de intervalo entre cada porção, até que se moderem todos estes sintomas, e que o ventre se ponha bastantemente amolecido, para poder dar o purgante do N. 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estes pós naõ evacuaõ , he verdade , tanto como hum laxante , mas elles conservaõ o ventre livre , desfazem , e despegaõ as materias ; e a pouca evacuaçaõ , que produzem , allivia infinitamente o doente , diminue a tesura , e a elevaçaõ do ventre , e prepara os humores para o remedio purgante .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Estes pós não evacuam, é verdade, tanto como um laxante, mas eles conservam o ventre livre, desfazem, e despegam as matérias; e a pouca evacuação, que produzem, alivia infinitamente o doente, diminui a tesura, e a elevação do ventre, e prepara os humores para o remédio purgante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Eu tambem me tenho achado muito bem em similhantes circunstancias , com o deitar hum grão de tartaro emetico em tres , ou quatro libras de agoa , e fazer beber ao doente esta , agoa assim preparada em ar de vomitotio , tomada em forma de tisana .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Eu também me tenho achado muito bem em semelhantes circunstâncias, com o deitar um grão de tártaro emético em três, ou quatro libras de água, e fazer beber ao doente esta água assim preparada em ar de vomitório, tomada em forma de tisana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Este remedio fundia , e fazia evacuar as materias por baixo , e produzia o effeito de hum laxante , ou com pouca diferença , sem ter os seus inconvenientes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Este remédio fundia, e fazia evacuar as matérias por baixo, e produzia o efeito de um laxante, ou com pouca diferença, sem ter os seus inconvenientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando a febre tiver diminuido sensivelmente , purgar-se-ha o doente todos os dous , ou tres dias , com o laxante do N. 14. , e nos dias em que se naõ purgar dar-se-lhe-haõ os pós do N. 17.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Quando a febre tiver diminuído sensivelmente, purgar-se-á o doente todos os dois, ou três dias, com o laxante do N. 14., e nos dias em que se não purgar dar-se-lhe-ão os pós do N. 17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Usando destes meios , cessará a febre lá para os treze , ou quatorze dias da doença ; tornar-se-ha entaõ a purgar o doente com o laxante do N. 14. , e quando a febre tiver parado , pôr-se-ha na dieta dos convalescentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Usando destes meios, cessará a febre lá para os treze, ou quatorze dias da doença; tornar-se-á então a purgar o doente com o laxante do N. 14., e quando a febre tiver parado, pôr-se-á na dieta dos convalescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se no tempo da convalescença se naõ restabelecer a vontade de comer , se o doente tiver trabalho em recobrar suas forças , isto he huma prova de que ainda lhe resta hum fermento de materias podres nas primeiras vias ; repetir-se-ha pois o laxante do N. 14. , e no dia seguinte pela manhã tomará o doente huma oitava de boa quina em pó , e comerá logo immediatamente huma sopa ; o que irá continuando por tres dias seguidos , ou hum dia fim outro naõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Se no tempo da convalescença se não restabelecer a vontade de comer, se o doente tiver trabalho em recobrar suas forças, isto é uma prova de que ainda lhe resta um fermento de matérias podres nas primeiras vias; repetir-se-á pois o laxante do N. 14., e no dia seguinte pela manhã tomará o doente uma oitava de boa quina em pó, e comerá logo imediatamente uma sopa; o que irá continuando por três dias seguidos, ou um dia sim outro não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>He certo , que este remedio lhe tornará a dar vontade de comer , lhe fará recobrar suas forças , e impedirá o recahir ; por que he precizo observar , que os convalescentes , que naõ saõ reservados , ou acautelados sobre a quantidade , ou sobre a qualidade dos alimentos que tomaõ , que se expõem muito fedo ao frio , à chuva , ou á humidade , e que desprezaõ o tomar alguma porçaõ de Quina , recahem muitissimas vezes , ou pelo menos saõ atacados de febres intermittentes , principalmente se a febre , de que elles eraõ atacados , fôr da especie daquellas , que se chamaõ remittentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>É certo, que este remédio lhe tornará a dar vontade de comer, lhe fará recobrar suas forças, e impedirá o recair; por que é preciso observar, que os convalescentes, que não são reservados, ou acautelados sobre a quantidade, ou sobre a qualidade dos alimentos que tomam, que se expõem muito cedo ao frio, à chuva, ou à humidade, e que desprezam o tomar alguma porção de Quina, recaem muitíssimas vezes, ou pelo menos são atacados de febres intermitentes, principalmente se a febre, de que eles eram atacados, for da espécie daquelas, que se chamam remitentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O melhor meio , que eu posso indicar aos Marinheiros para se preservarem de febres podres , e remittentes , he o evitar todos os excessos no beber , e no comer , abster-se de fructos , que naõ saõ maduros , ou que saõ pouco sadios ; taes como a maior parte daquelles , que se achaõ em abundancia em certos paizes pantanosos , aonde elles aportaõ ; fugiraõ sobre tudo de os naõ colher , nem comer pela manhã,  quando elles se achaõ ainda molhados pelo orvalho , nem quando estaõ quentes por terem estado ao sol por muito tempo ; o verdadeiro tempo de os colher he huma hora , quando muito , depois de nascer o sol ; abster-se-haõ tambem de todo o outro sustento , que fôr capaz de gerar corrupções no estomago , principalmente no tempo dos grandes calores do Veraõ , tempo em que os melhores estomagos digerem mui difficultosamente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>O melhor meio, que eu posso indicar aos Marinheiros para se preservarem de febres podres, e remitentes, é o evitar todos os excessos no beber, e no comer, abster-se de frutos, que não são maduros, ou que são pouco sadios; tais como a maior parte daqueles, que se acham em abundância em certos países pantanosos, aonde eles aportam; fugiram sobre tudo de os não colher, nem comer pela manhã, quando eles se acham ainda molhados pelo orvalho, nem quando estão quentes por terem estado ao sol por muito tempo; o verdadeiro tempo de os colher é uma hora, quando muito, depois de nascer o sol; abster-se-ão também de todo o outro sustento, que for capaz de gerar corrupções no estômago, principalmente no tempo dos grandes calores do Verão, tempo em que os melhores estômagos digerem muito dificultosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A attençaõ mais essencial , que os Marinheiros devem ter para evitar as febres podres , e remittentes , he o vigiar sobre a sua transpiraçaõ ; porque he de facto , que estas febres na atacaõ senaõ por occasiaõ de huma transpiraçaõ embaraçada ; he verdade , que a saburra predispõe a faze-las mais fumestas , mas sempre he verdade o dizer , que o humor da transpiraçaõ embaraçada he a principal causa dellas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>A atenção mais essencial, que os Marinheiros devem ter para evitar as febres podres, e remitentes, é o vigiar sobre a sua transpiração; porque é de fato, que estas febres na atacam senão por ocasião de uma transpiração embaraçada; é verdade, que a saburra predispõe a fazê-las mais funestas, mas sempre é verdade o dizer, que o humor da transpiração embaraçada é a principal causa delas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se os Marinheiros por ter faltado a estes preceitos se sentirem com o estomago demaziadamente carregado ; se tem perdido a vontade de comer , pôr-se-haõ de cama , conservar-se-haõ o mais quente que puderem por dous , ou tres dias , bebéraõ agoa pura em abundancia , e limonada ; e se o suôr se declarar beberáõ algumas chicaras da insusaõ das vulnerarias de Suissia em forma de chá , abster-se-haõ de todo o alimento , ainda mesmo de caldo : se esta abstinencia naõ bastar para desembaraçar o estomago , se elles tiverem a bocca amargosa , saburrosa , a lingua carregada , se lhe naõ tornar a vir a vontade de comer , tomaráõ dous , ou tres cópos do vomitorio N. 21. , que desembaraçará o seu estomago , prevenirá as febres podres , ou qualquer outra doença .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T151646Z">
+        <seg>Se os Marinheiros por ter faltado a estes preceitos se sentirem com o estômago demasiadamente carregado; se tem perdido a vontade de comer, pôr-se-ão de cama, conservar-se-ão o mais quente que puderem por dois, ou três dias, beberão água pura em abundância, e limonada; e se o suor se declarar beberão algumas xícaras da infusão das vulnerárias de Suíça em forma de chá, abster-se-ão de todo o alimento, ainda mesmo de caldo: se esta abstinência não bastar para desembaraçar o estômago, se eles tiverem a boca amargosa, saburrosa, a língua carregada, se lhe não tornar a vir a vontade de comer, tomarão dois, ou três copos do vomitório N. 21., que desembaraçará o seu estômago, prevenirá as febres podres, ou qualquer outra doença.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

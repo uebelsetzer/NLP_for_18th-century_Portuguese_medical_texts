@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XXXIV.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>CAPÍTULO XXXIV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Purgas , quando , e como se devem dar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Purgas, quando, e como se devem dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>227</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>227</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>DEve ter muito grande cuidado o Enfermeiro , quando houver de dar a purga ao enfermo , perguntando-lhe primeiro a que hora lhe costuma vir o crescimento , ou cezaõ , para o advertir ao Medico , e elle determine a hora , em que o enfermo ha de tomar a purga , porque nisto resulta a mayor parte da saude do enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Deve ter muito grande cuidado o Enfermeiro, quando houver de dar a purga ao enfermo, perguntando-lhe primeiro a que hora lhe costuma vir o crescimento, ou sezão, para o advertir ao Médico, e ele determine a hora, em que o enfermo há de tomar a purga, porque nisto resulta a maior parte da saúde do enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>228</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>228</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ obstante esta advertencia , saiba o Enfermeiro , que sempre as purgas se daõ na declinaçaõ do crescimento , ou sejaõ dobres , ou naõ sejaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Não obstante esta advertência, saiba o Enfermeiro, que sempre as purgas se dão na declinação do crescimento, ou sejam dobres, ou não sejam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se a purga se der ao enfermo no principio do crescimento , ou cezaõ , lhe póde resultar gravissimo dano .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Se a purga se der ao enfermo no princípio do crescimento, ou sezão, lhe pode resultar gravíssimo dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sempre que o enfermo tome a purga , ha de estar em jejum ; e porque ha casos , em que a mandaõ dar de tarde , he preciso tenhaõ passado quatro , ou sinco horas depois de ter comido .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Sempre que o enfermo tome a purga, há de estar em jejum; e porque há casos, em que a mandam dar de tarde, é preciso tenham passado quatro, ou cinco horas depois de ter comido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tambem he muito conveniente perguntar ao enfermo se tem feito curso no dia antecedente ; e se o naõ tiver feito , he preciso lançar lhe huma ajuda, para que a purga faça melhor o seu effeito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Também é muito conveniente perguntar ao enfermo se tem feito curso no dia antecedente; e se o não tiver feito, é preciso lançar-lhe uma ajuda, para que a purga faça melhor o seu efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para o Enfermeiro se livrar deste cuidado no dia da purga , póde lançar huma ajuda ao enfermo na tarde antecedente , se naõ tiver obrado .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Para o Enfermeiro se livrar deste cuidado no dia da purga, pode lançar uma ajuda ao enfermo na tarde antecedente, se não tiver obrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>229</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>229</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>He tambem muito , e muito preciso, que o Enfermeiro antes de dar a purga ao enfermo , lhe tome o pulso , e saiba como passou a noite ; porque muitas vezes succede mudarem-se as cezões , ou crescimento , e na hora , que o Medico tem determinado , e he costume , naõ ser conveniente , ou pela causa referida , ou por outros accidentes diversos de desmayo , suor , fraqueza , &amp;c.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>É também muito, e muito preciso, que o Enfermeiro antes de dar a purga ao enfermo, lhe tome o pulso, e saiba como passou a noite; porque muitas vezes sucede mudarem-se as sezões, ou crescimento, e na hora, que o Médico tem determinado, e é costume, não ser conveniente, ou pela causa referida, ou por outros acidentes diversos de desmaio, suor, fraqueza, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>que costumaõ sobrevir de repente ; e importa mais à vida do enfermo suspender a purga , que o dar-lha ; e neste caso de suspender a purga , dirá o Enfermeiro ao Medico , assim que chegar , a razaõ , que teve para o fazer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>que costumam sobrevir de repente; e importa mais à vida do enfermo suspender a purga, que o dar-lha; e neste caso de suspender a purga, dirá o Enfermeiro ao Médico, assim que chegar, a razão, que teve para o fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>230</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estando a purga preparada , mandareis sentar o enfermo em sima da cama , com as costas arrimadas na almofada , para que a cabeça lhe fique alta ; e dando a purga a beber ao enfermo , seja por hum copo de vidro escuro , ou por hum pucaro de barro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Estando a purga preparada, mandareis sentar o enfermo em cima da cama, com as costas arrimadas na almofada, para que a cabeça lhe fique alta; e dando a purga a beber ao enfermo, seja por um copo de vidro escuro, ou por um púcaro de barro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sendo de Veraõ , dareis a purga fria ; e de Inverno , quente , e naõ tibia , porque provoca a vomito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Sendo de Verão, dareis a purga fria; e de Inverno, quente, e não tíbia, porque provoca a vômito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>231</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>231</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Antes que o enfermo tome a purga , enxagoará a boca , e o mesmo fará depois de a tomar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Antes que o enfermo tome a purga, enxaguará a boca, e o mesmo fará depois de a tomar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se for com agoa , naõ he máo ; se for com vinho , he melhor ; e se for com agoa ardente , he mais singular ; porque o ardor , que lhe causa antes , e depois , faz suspender o cheiro , a doçura, e o tedio .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Se for com água, não é mão; se for com vinho, é melhor; e se for com água ardente, é mais singular; porque o ardor, que lhe causa antes, e depois, faz suspender o cheiro, a doçura, e o tédio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>232</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>232</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se ao enfermo lhe sobrevier alguma anciedade provocativa a vomito , vede se lha podeis evitar , mettendo-lhe as mãos em agoa bem fria , borrifando-lhe a cara , mettendo-lhe na boca hum bocado de marmello , limaõ, ou cidra , e cheirando o mesmo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Se ao enfermo lhe sobrevier alguma ansiedade provocativa a vômito, vede se lha podeis evitar, metendo-lhe as mãos em água bem fria, borrifando-lhe a cara, metendo-lhe na boca um bocado de marmelo, limão, ou cidra, e cheirando o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ bastando isto , lhe fareis esfregações brandas nas barrigas das pernas , cossegas nas solas dos pés , puchar-lhe pelos dedos , deitar-lhe huma ventosa no estomago , dous dedos mais assima do embigo , huma gema de ovo assado posta na concavidade , que está no fim da garganta ; a qual , pondo-se quente , se ha de conservar atè que esfrie ; mastigar azeitonas , ou outra qualquer cousa , que o enfermo apetecer , naõ lhe fazendo dano .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Não bastando isto, lhe fareis esfregações brandas nas barrigas das pernas, cócegas nas solas dos pés, puxar-lhe pelos dedos, deitar-lhe uma ventosa no estômago, dois dedos mais acima do umbigo, uma gema de ovo assado posta na concavidade, que está no fim da garganta; a qual, pondo-se quente, se há de conservar até que esfrie; mastigar azeitonas, ou outra qualquer coisa, que o enfermo apetecer, não lhe fazendo dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>233</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>233</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se todos estes remedios naõ forem equivalentes para que o enfermo naõ lance a purga por vomito , estará huma bacia , prompta para a lançar , e se guardará atè que o Medico venha , para lha mandar lançar por ajuda , se lhe parecer conveniente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Se todos estes remédios não forem equivalentes para que o enfermo não lance a purga por vômito, estará uma bacia, pronta para a lançar, e se guardará até que o Médico venha, para lha mandar lançar por ajuda, se lhe parecer conveniente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo conservar a purga , e naõ obrar com ella , tendo passado quatro horas , lhe lançareis huma ajuda .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Se o enfermo conservar a purga, e não obrar com ela, tendo passado quatro horas, lhe lançareis uma ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>234</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>234</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo recear vomitar a purga , lha dareis fria , ainda que seja de Inverno ; e em quanto o enfermo obrar , lhe naõ dareis de comer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>Se o enfermo recear vomitar a purga, lha dareis fria, ainda que seja de Inverno; e enquanto o enfermo obrar, lhe não dareis de comer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O modo de aquentar as purgas , he mettendo o vaso, que a tiver , dentro de hum taxo de agoa fria ; e pondo-se ao lume, se estará mechendo em quanto se aquenta .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091310Z">
+        <seg>O modo de aquentar as purgas, é metendo o vaso, que a tiver, dentro de um taxo de água fria; e pondo-se ao lume, se estará mexendo enquanto se aquenta.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLVIII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>CAPÍTULO XLVIII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Dar de comer aos febricitantes quando deve ser.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>Dar de comer aos febricitantes quando deve ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>286</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>286</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>MUito grande deve ser o cuidado , que o Enfermeiro deve ter com a comida , que houver de dar aos enfermos , que estaõ com crescimentos , de qualquer qualidade , que sejaõ , observando a hora , a que principiou , para que no caso que o Medico determine a hora , a que se lhe ha de dar de comer , examine os pulsos do enfermo , e o estado do crescimento primeiro que lhe dem a comida ; porque succede haver incidente , que faz dilatar mais tempo o crescimento , do que o Medico premeditou , e se lhe deve dilatar o comer atè que o enfermo esteja em termos de lhe naõ prejudicar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>Muito grande deve ser o cuidado, que o Enfermeiro deve ter com a comida, que houver de dar aos enfermos, que estão com crescimentos, de qualquer qualidade, que sejam, observando a hora, a que principiou, para que no caso que o Médico determine a hora, a que se lhe há de dar de comer, examine os pulsos do enfermo, e o estado do crescimento primeiro que lhe deem a comida; porque sucede haver incidente, que faz dilatar mais tempo o crescimento, do que o Médico premeditou, e se lhe deve dilatar o comer até que o enfermo esteja em termos de lhe não prejudicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para que o enfermo naõ experimente debilidade , deve o Enfermeiro antever a que hora lhe entra ao enfermo o crescimento , ou cezaõ , para lhe dar de comer ao menos duas horas antes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>Para que o enfermo não experimente debilidade, deve o Enfermeiro antever a que hora lhe entra ao enfermo o crescimento, ou sezão para lhe dar de comer ao menos duas horas antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>287</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>287</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tem-se visto grandes disgraças em casas particulares , aonde falta a experiencia do curativo , dando de comer ao enfermo naquella hora , que o Medico determinou , na qual ainda naõ estava livre do crefcimento; e muitas vezes pelo enfermo pedir de comer , precisado da vontade de beber .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>Tem-se visto grandes desgraças em casas particulares, aonde falta a experiência do curativo, dando de comer ao enfermo naquela hora, que o Médico determinou, na qual ainda não estava livre do crescimento; e muitas vezes pelo enfermo pedir de comer, precisado da vontade de beber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ menos com as sangrias feitas muito antes da declinaçaõ do crescimento .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>Não menos com as sangrias feitas muito antes da declinação do crescimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>He preciso que haja muito grande cuidado tanto no dar de comer ao enfermo , quanto para a applicaçaõ da sangria , e mais remedios ; que fóra de tempo podem matar ; e quando naõ matem , naõ curaõ , e dilataõ a enfermidade .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>É preciso que haja muito grande cuidado tanto no dar de comer ao enfermo, quanto para a aplicação da sangria, e mais remédios; que fora de tempo podem matar; e quando não matem, não curam, e dilatam a enfermidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>288</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>288</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Deve ter tambem grande cuidado o Enfermeiro de advertir aos enfermos , que estaõ com crescimento , estejaõ cubertos , pelo perigo de que o calor se lhe reconcentre para dentro , e se constipem os poros ; se se descobrem , de que se originaõ muitas vezes humas febres , a que os Médicos chamaõ lipirias , as quaes saõ mortaes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154848Z">
+        <seg>Deve ter também grande cuidado o Enfermeiro de advertir aos enfermos, que estão com crescimento, estejam cobertos, pelo perigo de que o calor se lhe reconcentre para dentro, e se constipem os poros; se se descobrem, de que se originam muitas vezes umas febres, a que os Médicos chamam lipírias, as quais são mortais.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

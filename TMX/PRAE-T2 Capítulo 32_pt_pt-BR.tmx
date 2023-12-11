@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XXXII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>CAPÍTULO XXXII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Cordial fresco , e purgativo , como , e quando se devem dar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Cordial fresco, e purgativo, como, e quando se devem dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>224</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>224</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>COstumaõ os Medicos mandar dar aos enfermos differentes castas de cordiaes , conforme a queixa , que padecem .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Costumam os Médicos mandar dar aos enfermos diferentes castas de cordiais, conforme a queixa, que padecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o cordial for refrigerante, se ha de dar ao enfermo meya hora antes da sangria , dendo pela manhã , ou meya hora depois de se sangrar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Se o cordial for refrigerante, se há de dar ao enfermo meia hora antes da sangria, sendo pela manhã, ou meia hora depois de se sangrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo estiver fraco , póde tomar hum caldo de galinha antes da sangria , e o cordial depois della .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Se o enfermo estiver fraco, pode tomar um caldo de galinha antes da sangria, e o cordial depois dela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Dando ao enfermo cordial de tarde , he mais conveniente depois da sangria , e das ventosas , o qual sempre se ha de dar frio .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Dando ao enfermo cordial de tarde, é mais conveniente depois da sangria, e das ventosas, o qual sempre se há de dar frio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>225</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>225</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o cordial for purgativo , se ha de dar ao enfermo , estando em jejum , a porçaõ de meyo quartilho .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Se o cordial for purgativo, se há de dar ao enfermo, estando em jejum, a porção de meio quartilho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tambem ha occasiões , em que os Medicos o mandaõ dar em sima da sangria , passada meya hora , mayormente nas febres malignas , que tem por conveniente o sangrar , e purgar ao mesmo tempo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Também há ocasiões, em que os Médicos o mandam dar em cima da sangria, passada meia hora, maiormente nas febres malignas, que tem por conveniente o sangrar, e purgar ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando deres este cordial purgativo , sendo de Inverno, seja quente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Quando deres este cordial purgativo, sendo de Inverno, seja quente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tereis cuidado de procurar ao enfermo como obrou com elle , para informares o Medico na repetiçaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154328Z">
+        <seg>Tereis cuidado de procurar ao enfermo como obrou com ele, para informares o Médico na repetição.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

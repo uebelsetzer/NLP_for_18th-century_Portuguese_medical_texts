@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>CAPÍTULO XLII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Raspar , e humedecer a lingua a hum enfermo como se deve fazer com acerto .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Raspar, e humedecer a língua a um enfermo como se deve fazer com acerto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>254</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>254</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>HE de gravissima importancia , que os Enfermeiros tenhaõ muy particular cuidado com os enfermos , que padecem febres malignas , e outras semelhantes , principalmente nas linguas dos taes enfermos , que de ordinario se lhe costumaõ secar, e encher de viscosidades , das quaes ( como diz Hipocrates ) se originaõ muitas vezes os delirios aos enfermos , e outras vezes perder o gosto da comida , e bebida , e grande fastio , que he gravissimo achaque , com que debilitaõ as forças , de que tanto necessita o enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>É de gravíssima importância, que os Enfermeiros tenham muito particular cuidado com os enfermos, que padecem febres malignas, e outras semelhantes, principalmente nas línguas dos tais enfermos, que de ordinário se lhe costumam secar, e encher de viscosidades, das quais (como diz Hipócrates) se originam muitas vezes os delírios aos enfermos, e outras vezes perder o gosto da comida, e bebida, e grande fastio, que é gravíssimo achaque, com que debilitam as forças, de que tanto necessita o enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Assim deve ser muito grande o cuidado , que deve ter o Enfermeiro com estes enfermos , refrescando-lhes a boca , e raspando-lhes a lingua .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Assim deve ser muito grande o cuidado, que deve ter o Enfermeiro com estes enfermos, refrescando-lhes a boca, e raspando-lhes a língua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>255</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para lhe raspar a lingua , lhe mandareis enxagoar a boca trez , ou quatro vezes com agoa fria , tendo-lhe deitado nella humas gotas de vinagre ; e depois de estar bem enxagoada , lhe raspareis a lingua com huma colher de metal , cuja diligencia lhe fareis duas vezes no dia , ou huma ao menos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Para lhe raspar a língua, lhe mandareis enxaguar a boca três, ou quatro vezes com água fria, tendo-lhe deitado nela umas gotas de vinagre; e depois de estar bem enxaguada, lhe raspareis a língua com uma colher de metal, cuja diligência lhe fareis duas vezes no dia, ou uma ao menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>256</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>256</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para conservares ao enfermo a lingua fresca , lhe tereis prompta huma zaragatoa .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Para conservares ao enfermo a língua fresca, lhe tereis pronta uma zaragatoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Embrulhareis estas sementes em hum pano fino , que fique redondo , mayor que huma avelã , e atando hum paozinho nesta cabeça de pano , ficará em fórma de se poder usar della para o dito ministerio .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Embrulhareis estas sementes em um pano fino, que fique redondo, maior que uma avelã, e atando um pãozinho nesta cabeça de pano, ficará em forma de se poder usar dela para o dito ministério.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando naõ haja as sementes de zaragatoa , podem supprir as pevides de marmello .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Quando não haja as sementes de zaragatoa, podem suprir as pevides de marmelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Advirto , que na agoa , em que se molhar a zaragatoa , se lhe haõ de lançar humas pingas de vinagre .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154530Z">
+        <seg>Advirto, que na água, em que se molhar a zaragatoa, se lhe hão de lançar umas pingas de vinagre.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XIII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>CAPÍTULO XIII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Das Febres Malignas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Das Febres Malignas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>QUando hum Marinheiro da Equipagem de hum Navio Mercantil he ataco de febre maligna , he raro que os outros o naõ sejaõ successivamente : eu tenho visto mais de huma vez navios desarmados pela quantidade de doentes , que foraõ atacados dellas ; este mal he tanto mais perigoso , quanto os symptomas , que o acompanhaõ no seu principio parecem muitas vezes de pouca consequencia ; o que faz que ellas se desprezem , e que os doentes cheguem muitas vezes a estar nos ultimos extremos antes que se tenha percebido , que estáõ doentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Quando um Marinheiro da Equipagem de um Navio Mercantil é atacado de febre maligna, é raro que os outros o não sejam sucessivamente: eu tenho visto mais de uma vez navios desarmados pela quantidade de doentes, que foram atacados delas; este mal é tanto mais perigoso, quanto os sintomas, que o acompanham no seu princípio parecem muitas vezes de pouca consequência; o que faz que elas se desprezem, e que os doentes cheguem muitas vezes a estar nos últimos extremos antes que se tenha percebido, que estão doentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ha com tudo febres malignas , que saõ annunciadas muitos dias antes por hum numero de symptomas , que saõ correios , que vem diante dellas , taes como hum pulso lento , opprimido , huma lassidaõ acompanhada de tristeza , de fastio , hum pezo na bocca do estomago , a bocca grossa , a lingua , as gingivas , e os dentes cobertos de huma materia amarellada , glutinosa , e verdoenga ; assim se vaõ arrastando muitos dias os Marinheiros , tendo fastio a todo o alimento , até que chegaõ em fim a succumbir .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Há com tudo febres malignas, que são anunciadas muitos dias antes por um número de sintomas, que são correios, que vem diante delas, tais como um pulso lento, oprimido, uma lassidão acompanhada de tristeza, de fastio, um peso na boca do estômago, a boca grossa, a língua, as gengivas, e os dentes cobertos de uma matéria amarelada, glutinosa, e verdoenga; assim se vão arrastando muitos dias os Marinheiros, tendo fastio a todo o alimento, até que chegam enfim a sucumbir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Poder-se-hiaõ pois prevenir estas doenças , obrigando-os a observar a dieta , a tomar ár sobre o convez , dando-lhes o vomitorio do N. 21. , fazendo-lhes tomar depois duas , ou tres porções por dia dos pós do N.º I7. , limonada , ou agoa com vinagre ; porque se elles ficaõ debaixo dos convezes , aonde estaõ amontoados confusamente , principalmente quando a Equipagem he hum pouco numerosa , eis-ahi começaõ as emanações mefiticas , de que o ár , que elles respiraõ nestes lugares , está carregado , a inficionar toda a membrana pituitaria do nariz , dos seios da face , e dos bronquios ; dahi ellas se transportaõ para as tunicas do estomago ; o que causa em pouco tempo febres malignas , que se propagão , e pegaõ como por huma verdadeira innoculaçaõ , ou enxertia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Poder-se-iam pois prevenir estas doenças, obrigando-os a observar a dieta, a tomar ar sobre o convés, dando-lhes o vomitório do N. 21., fazendo-lhes tomar depois duas, ou três porções por dia dos pós do N.º I7., limonada, ou água com vinagre; porque se eles ficam debaixo dos conveses, aonde estão amontoados confusamente, principalmente quando a Equipagem é um pouco numerosa, eis-aí começam as emanações mefíticas, de que o ar, que eles respiram nestes lugares, está carregado, a inficionar toda a membrana pituitária do nariz, dos seios da face, e dos brônquios; daí elas se transportam para as túnicas do estômago; o que causa em pouco tempo febres malignas, que se propagam, e pegam como por uma verdadeira inoculação, ou enxertia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A prostracçaõ , o abatimento , ou a perda total de forças desde o principio do mal , saõ signaes , que caracterezaõ as febres maligas , e que as distinguem das outras especies de febres podres .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>A prostração, o abatimento, ou a perda total de forças desde o princípio do mal, são sinas, que caracteriza as febres malignas, e que as distinguem das outras espécies de febres podres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Este symptoma particular parece indicar , que a causa destas febres consiste tanto na corrupçaõ , e na depravaçaõ total dos humores , e do sangue , como no enfraquecimento das partes organicas , e sólidas , que naõ podem mais desempenhar suas funções ; ajuntai a isto hum miasma , ou hum principio insensivel heterogeneo , e subtil , hum certo veneno espalhado pelo ár , que ataca os nervos , como na peste , que se póde ver como huma especie de febre maligna , elevada ao seu mais alto grão , e vós tereis a verdadeira causa das febres malignas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Este sintoma particular parece indicar, que a causa destas febres consiste tanto na corrupção, e na depravação total dos humores, e do sangue, como no enfraquecimento das partes orgânicas, e sólidas, que não podem mais desempenhar suas funções; ajuntai a isto um miasma, ou um princípio insensível heterogêneo, e subtil, um certo veneno espalhado pelo ar, que ataca os nervos, como na peste, que se pode ver como uma espécie de febre maligna, elevada ao seu mais alto grão, e vós tereis a verdadeira causa das febres malignas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Esta corrupção , e esta depravaçaõ de humores he produzida nos Marinheiros pelas carnes , legumes , peixes , e outros alimentos corruptos , de que elles se sustentaõ muitissimas vezes ; pela má qualidade de agoa , que bebem ; pelo ár humido , e muito quente , que respiraõ no Veraõ , e principalmente debaixo dos convezes , pela pouca limpeza , pelo pouco exercicio , e muitas vezes ainda por huma constituiçaõ epidemica , e maligna espalhada no ár de certos paizes pantanosos , aonde elles aportaõ ; he precizo pois mais para corromper seu sangue , seus humores , para enfraquecer os orgãos , em que elles circulaõ , e dar lugar ás febres malignas ?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Esta corrupção, e esta depravação de humores é produzida nos Marinheiros pelas carnes, legumes, peixes, e outros alimentos corruptos, de que eles se sustentam muitíssimas vezes; pela má qualidade de água, que bebem; pelo ar úmido, e muito quente, que respiram no Verão, e principalmente debaixo dos conveses, pela pouca limpeza, pelo pouco exercício, e muitas vezes ainda por uma constituição epidêmica, e maligna espalhada no ar de certos países pantanosos, aonde eles aportam; é preciso pois mais para corromper seu sangue, seus humores, para enfraquecer os órgãos, em que eles circulam, e dar lugar às febres malignas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Além do abatimento , que eu ja disse ser o signal caracteristico , e distinctivo das febres malignas , experimentaõ os doentes ainda outros , que he precizo examina-los miudamente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Além do abatimento, que eu já disse ser o sinal característico, e distintivo das febres malignas, experimentam os doentes ainda outros, que é preciso examiná-los miudamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Elles saõ insensiveis a tudo , seu rosto , e seus olhos estaõ totalmente mudados ; elles sentem dentro de si mesmos , e muitas vezes por muitos dias seguidos , horripilações , o que significa , tremores interiores , quero dizer , tremores irregulares entre o couro , e a carne ; estes tremores saõ seguidos de algum calôr , em cujo tempo o estado do pulso naõ tem mudança notavel , que indique , ou mostre febre ; algumas vezes elles se queixaõ de hum pezo , e de huma grande dôr na cabeça , nos rins , e em outras partes do corpo ; muitas vezes elles naõ sentem especie alguma de dòr , mas estaõ moidos , e quebrantados , como se tivessem levado pancadas , tem seus desmaios por vezes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Eles são insensíveis a tudo, seu rosto, e seus olhos estão totalmente mudados; eles sentem dentro de si mesmos, e muitas vezes por muitos dias seguidos, horripilações, o que significa, tremores interiores, quero dizer, tremores irregulares entre o couro, e a carne; estes tremores são seguidos de algum calor, em cujo tempo o estado do pulso não tem mudança notável, que indique, ou mostre febre; algumas vezes eles se queixam de um peso, e de uma grande dor na cabeça, nos rins, e em outras partes do corpo; muitas vezes eles não sentem espécie alguma de dor, mas estão moídos, e quebrantados, como se tivessem levado pancadas, tem seus desmaios por vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>( Este symptoma he sempre de máo agouro , e os doentes , que o experimentaõ , raras vezes escapaõ das febres malignas . ) Tem agonias de coraçaõ , convulsões nos braços , nas mãos ; todos os seus sentidos parecem entorpecidos ; sua lingua he carregada de huma codea , de hum vermelho escuro ; mas ella he em geral menos secca , menos arida , do que nas outras especies de febre ; algumas vezes , e as mais das vezes nos primeiros dias da doença ella he como no estado de saúde , e naõ se faz secca , e denegrida senaõ lá para o fim ; finalmente alguns tem huma dôr fixa em alguma parte do baixo ventre ; e os cadaveres dos que se tem aberto , e que se tinhaõ queixado deita dôr fixa , tem manefestado , que a parte que esta dôr atacava , estava gangrenada .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>(Este sintoma é sempre de mau agouro, e os doentes, que o experimentam, raras vezes escapam das febres malignas.) Tem agonias de coração, convulsões nos braços, nas mãos; todos os seus sentidos parecem entorpecidos; sua língua é carregada de uma côdea, de um vermelho escuro; mas ela é em geral menos seca, menos árida, do que nas outras espécies de febre; algumas vezes, e as mais das vezes nos primeiros dias da doença ela é como no estado de saúde, e não se faz seca, e denegrida senão lá para o fim; finalmente alguns tem uma dor fixa em alguma parte do baixo ventre; e os cadáveres dos que se tem aberto, e que se tinham queixado deita dor fixa, tem manifestado, que a parte que esta dor atacava, estava gangrenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O pulso no decurso das febres malignas he ordinariamente pequeno , e fraco , mas mais ligeiro que no estado natural ; elle he muito accelerado naquelles que tem o ventre tezo ; a pelle se cobre tambem no decurso da molestia de nodoas vermelhas , e escuras , que se assimilhaõ a mordeduras de pulgas , e que se chamaõ pintas : estas nodoas saõ muitas vezes taõ grandes , taõ impressas , e assignaladas , que parece que os doentes tem recebido , e levado chicotadas : aquellas que saõ circumscriptas ; ou redondas , annunciaõ menos perigo , do que aquellas , que saõ espalhadas por huma parte , e por outra ; estas ultimas denotaõ maior corrupção nos humores .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>O pulso no decurso das febres malignas é ordinariamente pequeno, e fraco, mas mais ligeiro que no estado natural; ele é muito acelerado naqueles que têm o ventre teso; a pele se cobre também no decurso da moléstia de nódoas vermelhas, e escuras, que se assimilam a mordeduras de pulgas, e que se chamam pintas: estas nódoas são muitas vezes tão grandes, tão impressas, e assinaladas, que parece que os doentes têm recebido, e levado chicotadas: aquelas que são circunscritas; ou redondas, anunciam menos perigo, do que aquelas, que são espalhadas por uma parte, e por outra; estas últimas denotam maior corrupção nos humores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>As ourinas saõ claras como agoa pura , e naõ depõe couza alguma no fundo do valo ; os doentes tem algumas vezes solturas de ventre , e as materias , que lançaõ saõ amarellas , verdes , ou negras , e exhalaõ hum cheiro cadaverico ; as verdes saõ mais más , que as amarellas , e as negras saõ mais más , que as verdes ; se este fluxo de ventre os naõ allivia , entaõ acabaõ bem depressa os tristes dias de sua vida .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>As urinas são claras como água pura, e não depõe coisa alguma no fundo do valo; os doentes têm algumas vezes solturas de ventre, e as matérias, que lançam são amarelas, verdes, ou negras, e exalam um cheiro cadavérico; as verdes são mais más, que as amarelas, e as negras são mais más, que as verdes; se este fluxo de ventre os não alivia, então acabam bem depressa os tristes dias de sua vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Eu disse , que a febre maligna tinha muito parentesco com a febre da peste , e com effeito observaõ-se em huma , e outra doença depositos criticos , que ordinariamente saõ salutiferos , se chegaõ a suppurar ; as febres malignas tambem se terminaõ algumas vezes como a peste por hemorrhagias , e dysenterias mortaes , que provaõ a grande dissoluçaõ de sangue , que ha nestas duas doenças : finalmente a cabeça , e o peito entraõ a embaraçar-se humas vezes mais cedo , outras mais tarde ; mas desde que este symptoma se manifesta , ha pouco que esperar dos doentes ; e he raro , que elles sobrevivaõ mais de quarenta e oito horas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Eu disse, que a febre maligna tinha muito parentesco com a febre da peste, e com efeito observam-se em uma, e outra doença depósitos críticos, que ordinariamente são salutíferos, se chegam a supurar; as febres malignas também se terminam algumas vezes como a peste por hemorragias, e disenterias mortais, que provam a grande dissolução de sangue, que há nestas duas doenças: finalmente a cabeça, e o peito então a embaraçar-se umas vezes mais cedo, outras mais tarde; mas desde que este sintoma se manifesta, há pouco que esperar dos doentes; e é raro, que eles sobrevivam mais de quarenta e oito horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ se pode determinar nada de certo , e fixo sobre o decurso , e a duraçaõ das febres malignas ; esta doença corre muitas vezes os seus periodos muito depressa , e os doentes morrem antes do setimo , ou oitavo dia ; algumas vezes chega aos quatorze , e se extende mesmo além do vinte e hum , segundo a força do mal , e compleiçaõ do doente , o bom , ou o máo tratamento .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Não se pode determinar nada de certo, e fixo sobre o decurso, e a duração das febres malignas; esta doença corre muitas vezes os seus períodos muito depressa, e os doentes morrem antes do sétimo, ou oitavo dia; algumas vezes chega aos quatorze, e se estende mesmo além do vinte e um, segundo a força do mal, e compleição do doente, o bom, ou o mau tratamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Observa-se , que certos doentes se fazem surdos no decurso da doença ; se tornaõ a recobrar o ouvido , isto he ordinariamente hum bom signal , do mesmo modo que se a doença se prolongar até além dos quatorze dias ; pois entaõ pode-se esperar muito pela cura da molestia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Observa-se, que certos doentes se fazem surdos no decurso da doença; se tornam a recobrar o ouvido, isto é ordinariamente um bom sinal, do mesmo modo que se a doença se prolongar até além dos quatorze dias; pois então pode-se esperar muito pela cura da moléstia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Attendendo a tudo aquillo , que eu tenho dito a respeito das febres malignas , será facil , penso eu , distigui-las das outras febres continuas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Atendendo a tudo aquilo, que eu tenho dito a respeito das febres malignas, será fácil, penso eu, distingui-las das outras febres contínuas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>He verdade , que todos os symptomas que caracterizaõ aquellas primeras , e que eu tenho examinado miudamente , se naõ encontraõ todos juntos , e todos ao mesmo tempo em todos os doentes : mas basta , que haja hum certo numero delles ; he precizo pois tratar de os combinar com prudencia , para cada hum se naõ enganar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>É verdade, que todos os sintomas que caracterizam aquelas primeiras, e que eu tenho examinado miudamente, se não encontram todos juntos, e todos ao mesmo tempo em todos os doentes: mas basta, que haja um certo número deles; é preciso pois tratar de os combinar com prudência, para cada um se não enganar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A sangria he inutil , e mesmo perniciosa nas febres malignas , ao menos que ellas se naõ achem acompanhadas de algum symptoma inflammatorio , que se conhecerá pelos signaes particulares que eu ja mostrei no Capitulo precedente ; se houvesse estes signaes , e que o cerebro estivesse com seus vasos muito cheios , entaõ seria conveniente fazer a sangria no pé com preferencia á do braço ; muitas vezes esta sangria serve de prevenir , ou curar o delirio ; que he a consequencia de similhante accumulaçaõ de sangue ; em qualquer outro caso a sangria he contraria .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>A sangria é inútil, e mesmo perniciosa nas febres malignas, ao menos que elas se não achem acompanhadas de algum sintoma inflamatório, que se conhecerá pelos sinais particulares que eu já mostrei no Capítulo precedente; se houvesse estes sinais, e que o cérebro estivesse com seus vasos muito cheios, então seria conveniente fazer a sangria no pé com preferência a do braço; muitas vezes esta sangria serve de prevenir, ou curar o delírio; que é a consequência de semelhante acumulação de sangue; em qualquer outro caso a sangria é contrária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Os doentes devem observar huma dieta rigorosa , abster-se mesmo de caldos , e tomar em lugar delles o creme de arrôz , ou o paõ lavado ; sua bebida será agoa pura misturada com hum pouco de vinagre , ou com alguma gotas do espirito de enxofre , ou de vitriolo , ou limonada , se se puderem procurar limões ; tomaráõ cada dia duas , ou tres mezinhas com o cozimento do N. 4.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Os doentes devem observar uma dieta rigorosa, abster-se mesmo de caldos, e tomar em lugar deles o creme de arroz, ou o pão lavado; sua bebida será água pura misturada com um pouco de vinagre, ou com alguma gotas do espírito de enxofre, ou de vitríolo, ou limonada, se se puderem procurar limões; tomarão cada dia duas, ou três mesinhas com o cozimento do N. 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois do segundo , ou do terceiro dia saz-se-haõ vomitar com o remedio do N. 11. , se houver diarrhéa , ou com o do N. 21. , se naõ houver diarrhéa .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Depois do segundo, ou do terceiro dia far-se-ão vomitar com o remédio do N. 11., se houver diarreia, ou com o do N. 21., se não houver diarreia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>He necessario naõ esperar , para dar estes vomitorios , que as accumulações de materias tenha chegado ao seu mais alto grão , que se tenha formado alguma estagnaçaõ , quero dizir , alguma collecçaõ de humores , algum embaraço no cerebro , no figado , no baixo ventre , ou no peito ; ou que os doentes tenhaõ perdido todas as suas forças , e se tenhaõ reduzido aos ultimos extremos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>É necessário não esperar, para dar estes vomitórios, que as acumulações de matérias tenha chegado ao seu mais alto grão, que se tenha formado alguma estagnação, quero dizer, alguma coleção de humores, algum embaraço no cérebro, no fígado, no baixo ventre, ou no peito; ou que os doentes tenham perdido todas as suas forças, e se tenham reduzido aos últimos extremos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se da primeira vez que se daõ estes vomitorios , elles naõ fizerem bastante efeito , e se os doentes conservarem as suas forças , podem-se repetir no dia seguinte .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Se da primeira vez que se dão estes vomitórios, eles não fizerem bastante efeito, e se os doentes conservarem as suas forças, podem-se repetir no dia seguinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois do effeito do vomitorio dar-se-ha cada dia huma porçaõ do remedio do N. 31. , que evacuará as materias nocivas , sem fatigar muito os doentes , impedirá a corrupçaõ , destruirá os vermes , se os houver , fortificará as tripas sem prejudicar ás evacuações necessarias .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Depois do efeito do vomitório dar-se-á cada dia uma porção do remédio do N. 31., que evacuará as matérias nocivas, sem fatigar muito os doentes, impedirá a corrupção, destruirá os vermes, se os houver, fortificará as tripas sem prejudicar às evacuações necessárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Algumas vezes do decurso , ou continuaçaõ das febres maligmas sobrevém huma diarrhéa , que esgota , e enfraquece os doentes em lugar de os alliviar ; neste estado elles tem a pelle aspera , e secca , o pulso pequeno , e concentrado ; entaõ he conveniente moderar esta evacuaçaõ , e procurar aos doentes huma transpiraçaõ saudavel : algumas vezes se chega a conseguir isto pelo uso do bolo do N. 25. , e da bebida do N. 26.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Algumas vezes do decurso, ou continuação das febres malignas sobrevém uma diarreia, que esgota, e enfraquece os doentes em lugar de os aliviar; neste estado eles tem a pele áspera, e seca, o pulso pequeno, e concentrado; então é conveniente moderar esta evacuação, e procurar aos doentes uma transpiração saudável: algumas vezes se chega a conseguir isto pelo uso do bolo do N. 25., e da bebida do N. 26.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Dar-se-haõ estes remedios alternativamente , de duas em duas horas , quero dizer , huma porçaõ de bolo , passadas duas horas huma colher da bebida , até que os doontes acabem de tomar estes remedios ; e se no tempo em que usaõ delles se acharem muito fracos , entaõ far-se-lhe-ha tomar por duas vezes sómente de quatro em quatro horas em lugar da bebida do N. 26. , huma oitava de theriaga , ou de diascordio misturada com hum pouco de vinho bom ; se a diarrhéa fosse forte , preferir-se-hia o diascordio á theriaga .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Dar-se-ão estes remédios alternativamente, de duas em duas horas, quero dizer, uma porção de bolo, passadas duas horas uma colher da bebida, até que os doentes acabem de tomar estes remédios; e se no tempo em que usam deles se acharem muito fracos, então far-se-lhe-á tomar por duas vezes somente de quatro em quatro horas em lugar da bebida do N. 26., uma oitava de teriaga, ou de diascórdio misturada com um pouco de vinho bom; se a diarreia fosse forte, preferir-se-ia o diascórdio à teriagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se a pezar do uso destes remedios continuassem os doentes a estar no mesmo estado de fraqueza , se o seu pulso fosse concentrado , e se se percebesse , que ae formava algum embaraço no cerebro , no peito , ou no baixo ventre , entaõ seria necessario sem perder tempo dár todos as quartos de hora huma colher da bebida do N. 27. , e applicar ás barrigas das pernas , ás côxas , e á nuca emplastros vesicatorios .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Se apesar do uso destes remédios continuassem os doentes a estar no mesmo estado de fraqueza, se o seu pulso fosse concentrado, e se se percebesse, que se formava algum embaraço no cérebro, no peito, ou no baixo ventre, então seria necessário sem perder tempo dar todos os quartos de hora uma colher da bebida do N. 27., e aplicar às barrigas das pernas, às coxas, e à nuca emplastros vesicatórios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se os doentes estiverem adormentados , ou somnolentos , poder-se-hiaõ mesmo applicar sobre todo o couro cabelludo , depois de o ter rapado , se se visse que elles tinhaõ huma especie de delirio surdo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Se os doentes estiverem adormentados, ou sonolentos, poder-se-iam mesmo aplicar sobre todo o couro cabeludo, depois de o ter rapado, se se visse que eles tinham uma espécie de delírio surdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>( Vêde o Capitulo das Cantharidas , ou Vesicatorios ) .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>(Vede o Capítulo das Cantáridas, ou Vesicatórios).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Deve-se conservar com todo o cuidado a evacuaçaõ , e a suppuraçaõ destes vesicatorios , supposto , que elles tenhaõ mordido , e formado boas empollas , ou bexigas , restabelece-las , se ellas diminuirem , pela applicaçaõ de novos emplastros , ou misturando no unguento basilicaõ , com que elles se curaõ , algumas pitadas de cantharidas em pó .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Deve-se conservar com todo o cuidado a evacuação, e a supuração destes vesicatórios, suposto, que eles tenham mordido, e formado boas empolas, ou bexigas, restabelecê-las, se elas diminuírem, pela aplicação de novos emplastros, ou misturando no unguento basilicão, com que eles se curam, algumas pitadas de cantáridas em pó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A prática quotidiana tem provado aos Professores , que tem tratado , e que trataõ muitas vezes febres malignas , que todos os remedios espirituosos , volateis , e alexiterios , que o povo , e os charlatães gabaõ tanto , e elhaõ como especificos para lançar fóra , dizem elles , a malignidade , devem ser proscritos , ou de nenhum uso ; que os bezoarticos tanto orientaes ; como occidentaes , saõ inuteis ; que os verdadeiros bezoarticos , se ha alguns , tem pouca , ou nenhuma virtude ; e que se elles naõ fossem taõ caros , e taõ raros como saõ , ninguem se lembraria de fazer uso delles ; mas por infelicidade nossa todos os homens tem mais confiança em hum remedio raro , e que se naô póde procurar senaõ com grandes gastos , do que naquelle que se acha com facilidade , e que está , por assim dizer , debaixo da sua maõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>A prática cotidiana tem provado aos Professores, que têm tratado, e que tratam muitas vezes febres malignas, que todos os remédios espirituosos, voláteis, e alexetérios, que o povo, e os charlatães gabam tanto, e olham como específicos para lançar fora, dizem eles, a malignidade, devem ser proscritos, ou de nenhum uso; que os bezoárticos tanto orientais; como ocidentais, são inúteis; que os verdadeiros bezoárticos, se há alguns, têm pouca, ou nenhuma virtude; e que se eles não fossem tão caros, e tão raros como são, ninguém se lembraria de fazer uso deles; mas por infelicidade nossa todos os homens têm mais confiança em um remédio raro, e que se não pôde procurar senão com grandes gastos, do que naquele que se acha com facilidade, e que está, por assim dizer, debaixo da sua mão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>He demonstrado ja , que os verdadeiros bezoarticos saõ inuteis para a cura das febres malignas , e pestilenciaes ; que se pode esperar pois daquelles que se nos trazem debaixo deste nome , que naõ saõ senaõ huma composiçaõ artificial , aonde entra o almiscar , e o ambar , em huma palavra a obra dos miseraveis Judeos , que os vendem muito caro aos ignorantes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>É demonstrado já, que os verdadeiros bezoárticos são inúteis para a cura das febres malignas, e pestilenciais; que se pode esperar pois daqueles que se nos trazem debaixo deste nome, que não são senão uma composição artificial, aonde entra o almíscar, e o âmbar, em uma palavra a obra dos miseráveis Judeus, que os vendem muito caro aos ignorantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O applicar-se sobre a cabeça certos animaes vivos abertos , taes como Gatos , Gallos , Pombos , tem sido reconhecido ao menos como inutil , e eu até mesmo me atrevo a assegurar , que isto faz mais mal , do que bem , aos doentes ; elles raras vezes recebem daqui consolaçaõ alguma ; porque se se deixaõ estes animaes por hum certo tempo sobre a cabeça , em lugar de attrahir a malignidade , como o vulgo pensa commummente , elles a augmentaõ , porque se estaõ ahi corrompendo ; o cheiro cadaverico , que exhalaõ , naõ he o veneno da doença , que elles tem attralido para fóra do corpo , antes he ao contrario huma verdadeira podridaõ , que elles tem adquirido pelo calor da parte , sobre que estavaõ applicados , e que teriaõ igualmente adquirido em qualquer outro lugar , que fosse taõ quente , e taõ humido , se os deixassem ficar nelle o mesmo espaço de tempo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>O aplicar-se sobre a cabeça certos animais vivos abertos, tais como Gatos, Galos, Pombos, tem sido reconhecido ao menos como inútil, e eu até mesmo me atrevo a assegurar, que isto faz mais mal, do que bem, aos doentes; eles raras vezes recebem daqui consolação alguma; porque se se deixam estes animais por um certo tempo sobre a cabeça, em lugar de atrair a malignidade, como o vulgo pensa comumente, eles a aumentam, porque se estão aí corrompendo; o cheiro cadavérico, que exalam, não é o veneno da doença, que eles tem atraído para fora do corpo, antes é ao contrário uma verdadeira podridão, que eles têm adquirido pelo calor da parte, sobre que estavam aplicados, e que teriam igualmente adquirido em qualquer outro lugar, que fosse tão quente, e tão úmido, se os deixassem ficar nele o mesmo espaço de tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Pode-se fazer esta experiencia sobre a cabeça de hum homem saõ , e logo ficará cada hum convencido , que estes animaes contrahiráõ tanto do máo cheiro em hum igual espaço de tempo , como sobre a de hum doente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Pode-se fazer esta experiência sobre a cabeça de um homem são, e logo ficará cada um convencido, que estes animais contrairão tanto do mau cheiro em um igual espaço de tempo, como sobre a de um doente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O calôr brando , e moderado , que exhalaõ as entranhas destes animaes , naõ he capaz de attrahir o veneno , elle só póde , quando muito agitar o fluido nervoso entorpecido , e tornar a dar por hum instante o sentimento aos doentes , que começaõ a perde-lo : eis-aqui todo o bem , que podem produzir estas aplicações ; e para tirar dellas alguma pouca de utilidade , seria necessario naõ as deixar demorar muito tempo sobre a parte , com o medo de que estes animass naõ adquiraõ alguma podridaõ , que naõ pode deixar de ser nociva , salvo se se repetir a sua applicaçaõ muitissimas vezes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>O calor brando, e moderado, que exalam as entranhas destes animais, não é capaz de atrair o veneno, ele só pôde, quando muito agitar o fluido nervoso entorpecido, e tornar a dar por um instante o sentimento aos doentes, que começam a perdê-lo: eis-aqui todo o bem, que podem produzir estas aplicações; e para tirar delas alguma pouca de utilidade, seria necessário não as deixar demorar muito tempo sobre a parte, com o medo de que estes animais não adquiram alguma podridão, que não pode deixar de ser nociva, salvo se se repetir a sua aplicação muitíssimas vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se todos os remedios , que eu tenho indicado obrarem para bem , achar-se-haõ cada vez
+melhor de hum dia para outro ; assim desde que se conhecer esta melhora , dar-se-lhe-ha por todo o remedio cada dia huma porçaõ dos pós do N.31. , até que a febre tenha parado ; entaõ purgar-se-haõ os doentes com o laxante do N. 14. , e depois por-se-haõ na dieta dos convalescentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Se todos os remédios, que eu tenho indicado obrarem para bem, achar-se-ão cada vez melhor de um dia para outro; assim desde que se conhecer esta melhora, dar-se-lhe-á por todo o remédio cada dia uma porção dos pós do N.31., até que a febre tenha parado; então purgar-se-ão os doentes com o laxante do N. 14., e depois pôr-se-ão na dieta dos convalescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se no tempo da convalescença tardar em tornar a vir a vontade de comer , entaõ dar-se-ha por tres , ou quatro dias , hum dia fim , outro naõ , huma porçaõ de boa quina : ( vê-de a formula , ou receita do N.º 23. , ) esta casca salutifera fortifica o estomago , restitue ás tripas a elasticidade , e o tom , que ellas tinhaõ perdido no tempo da doença , e faz prevenir muitas vezes huma recahida .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Se no tempo da convalescença tardar em tornar a vir a vontade de comer, então dar-se-á por três, ou quatro dias, um dia fim, outro não, uma porção de boa quina: (vede a fórmula, ou receita do N.º 23.,) esta casca salutífera fortifica o estômago, restitui às tripas a elasticidade, e o tom, que elas tinham perdido no tempo da doença, e faz prevenir muitas vezes uma recaída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Finalmente os doentes deveriõ portar-se sempre bem até que se restabeleçaõ , e observaráõ tudo aquillo , que foi determinado no Capitulo precedente das febres podres , e intermittentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153031Z">
+        <seg>Finalmente os doentes deveriam portar-se sempre bem até que se restabeleçam, e observarão tudo aquilo, que foi determinado no Capítulo precedente das febres podres, e intermitentes.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

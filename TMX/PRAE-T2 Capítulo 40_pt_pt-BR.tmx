@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XL .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>CAPÍTULO XL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Lambedor como se ha de dar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>Lambedor como se há de dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>247</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>247</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Lambedor se deve dar de fórma , que naõ chegue ao estomago , e de quarto a quarto de hora .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>Lambedor se deve dar de forma, que não chegue ao estômago, e de quarto a quarto de hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sendo de Veraõ , será frio ; e de Inverno , quente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>Sendo de Verão, será frio; e de Inverno, quente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>248</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>248</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para se tomar com facilidade , e que possa aproveitar ao enfermo , lhe poreis ao enfermo junto da cama o vaso , que tiver o lambedor , com huma raiz de alcaçus machocada na ponta , e chupando nella de quarto a quarto de hora , lhe fará proveito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>Para se tomar com facilidade, e que possa aproveitar ao enfermo, lhe poreis ao enfermo junto da cama o vaso, que tiver o lambedor, com uma raiz de alcaçus machucada na ponta, e chupando nela de quarto a quarto de hora, lhe fará proveito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Sendo de Inverno , lhe poreis junto da cama hum brazeiro com pouco lume , para que se possa conservar quente , recomendando ao enfermo naõ tome mais vezes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091408Z">
+        <seg>Sendo de Inverno, lhe poreis junto da cama um braseiro com pouco lume, para que se possa conservar quente, recomendando ao enfermo não tome mais vezes.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

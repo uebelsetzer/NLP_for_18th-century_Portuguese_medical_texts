@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLI .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>CAPÍTULO XLI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Advertencias muito importantes para a saude do enfermo , que o Enfermeiro deve observar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Advertências muito importantes para a saúde do enfermo, que o Enfermeiro deve observar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>249</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>249</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>REcomendareis ao enfermo , que tiver febre aguda , naõ esteja de costas , e muito mais àquelles , que estiverem com crescimento , ainda que seja de cezaõ , que entre com frio ; porque se esquentaõ as costas , e rins , de que resulta ao enfermo grave dano .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Recomendareis ao enfermo, que tiver febre aguda, não esteja de costas, e muito mais àqueles, que estiverem com crescimento, ainda que seja de sezão, que entre com frio; porque se esquentam as costas, e rins, de que resulta ao enfermo grave dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>250</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos enfermos , que estiverem delirantes , fareis a cabeceira alta , que como os humores estaõ propendendo para a cabeça , se augmenta a queixa , estando baixa , e está mais disposta para receber a malignidade da doença .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Aos enfermos, que estiverem delirantes, fareis a cabeceira alta, que como os humores estão propendendo para a cabeça, se aumenta a queixa, estando baixa, e está mais disposta para receber a malignidade da doença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O mesmo observareis com os enfermos , que tiverem achaque no peito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>O mesmo observareis com os enfermos, que tiverem achaque no peito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>251</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>251</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nas enfermidades malignas , bexigas , e outras semelhantes , he muito conveniente , tendo a camiza çuja , vestirlhe outra limpa , enxovalhada , e defumada primeiro ; porque se esta tal camiza se vestisse a outra qualquer pessoa , estando boa , se lhe pegaria a queixa com muita facilidade , se a vestisse çuja .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Nas enfermidades malignas, bexigas, e outras semelhantes, é muito conveniente, tendo a camisa suja, vestir-lhe outra limpa, enxovalhada, e defumada primeiro; porque se esta tal camisa se vestisse a outra qualquer pessoa, estando boa, se lhe pegaria a queixa com muita facilidade, se a vestisse suja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ será muito que ao enfermo , estando melhor , se lhe torne a augmentar a queixa , se no corpo conservar a camiza çuja , a qual se naõ ha de mudar em dia de purga .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Não será muito que ao enfermo, estando melhor, se lhe torne a aumentar a queixa, se no corpo conservar a camisa suja, a qual se não há de mudar em dia de purga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>252</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>252</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A todo o enfermo , que tiver algum suor , no fim delle naõ só lhe mudareis a camiza , mas tambem os lançoes ; e para fazer mais proveito ao enfermo , será melhor que a camiza , e lançoes tenhaõ servido huma noite a outra pessoa ; e se repentinamente for necessario huma , e outra cousa , se enxovalhe nas mãos , de fórma , que pareça tem jà servido em outra pessoa .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>A todo o enfermo, que tiver algum suor, no fim dele não só lhe mudareis a camisa, mas também os lençóis; e para fazer mais proveito ao enfermo, será melhor que a camisa, e lençóis tenham servido uma noite a outra pessoa; e se repentinamente for necessário uma, e outra coisa, se enxovalhe nas mãos, de forma, que pareça tem já servido em outra pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>253</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>253</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando se mudarem os lançoes , e camiza ao enfermo , estaráõ as janellas fechadas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Quando se mudarem os lençóis, e camisa ao enfermo, estarão as janelas fechadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ he preciso que se levante o enfermo da cama para se lhe mudarem os lançoes , despir , e vestir outra camiza , que na prudencia do Enfermeiro deixo reservada a fórma , por evitar o extenso .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154441Z">
+        <seg>Não é preciso que se levante o enfermo da cama para se lhe mudarem os lençóis, despir, e vestir outra camisa, que na prudência do Enfermeiro deixo reservada a forma, por evitar o extenso.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

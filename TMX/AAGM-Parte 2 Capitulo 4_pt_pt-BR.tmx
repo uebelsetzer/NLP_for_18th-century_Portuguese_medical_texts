@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO IV.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>CAPÍTULO IV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Da Peripneumonia , e do Pleuriz .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Da Peripneumonia, e do Pleuris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A Peripneumonia he huma inflammaçaõ do peito , e do bofe mui commua entre a Gente do mar ; a incostancia do ár , a passagem repentina do quente para o frio , o máo costume , em que esta Gente está de naõ mudar os seus vestidos , quando estaõ molhados , de se deitar a dormir neste estado exposta a todas as injurias do ar , &amp;c .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>A Peripneumonia é uma inflamação do peito, e do bofe muito comum entre a Gente do mar; a inconstância do ar, a passagem repentina do quente para o frio, o mau costume, em que esta Gente está de não mudar os seus vestidos, quando estão molhados, de se deitar a dormir neste estado exposta a todas as injúrias do ar, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>saõ as causas ordinarias desta doença ; em consequencia destas causas , e de muitas outras da mesma especie , demora-se o sangue nos pequenos vasos do bofe ; o maior , ou menor espaço , que elle occupa , faz esta doença mais , ou menos perigosa .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>são as causas ordinárias desta doença; em consequência destas causas, e de muitas outras da mesma espécie, demora-se o sangue nos pequenos vasos do bofe; o maior, ou menor espaço, que ele ocupa, faz esta doença mais, ou menos perigosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A peripneumonia começa ordinariamente por hum tremor ; o calor segue-se logo ao frio , e algumas vezes combatem-se alternativamente o calor , e o frio ; o pulso he forte , apressado , duro , e regular , quando o mal naõ he de huma natureza , que caminhe a fazer-se violento ; ao contrario he pequeno , e desigual , quando a doença deve ser de hum máo caracter ; para logo se queixaõ os doentes de huma dôr em alguma parte do peito ; a dôr he , como lá se diz , gravativa , quero dizer , que se póde comparar com aquella que elles padeceriaõ , se tivessem hum pezo considerável sobre esta parte ; por consequencia estaõ opprimidos , e respiraõ com dificuldade ; a respiraçaõ he curta , e laboriosa , porque o bofe se naõ pode dilatar para receber a mesma quantidade de ár , que recebia no estado de saüde ; o que os obriga a estar deitados de costas , porque padecem menos nesta situaçaõ , do que em qualquer outra .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>A peripneumonia começa ordinariamente por um tremor; o calor segue-se logo ao frio, e algumas vezes combatem-se alternativamente o calor, e o frio; o pulso é forte, apressado, duro, e regular, quando o mal não é de uma natureza, que caminhe a fazer-se violento; ao contrário é pequeno, e desigual, quando a doença deve ser de um mau caráter; para logo se queixam os doentes de uma dor em alguma parte do peito; a dor é, como lá se diz, gravativa, quero dizer, que se pode comparar com aquela que eles padeceriam, se tivessem um peso considerável sobre esta parte; por consequência estão oprimidos, e respiram com dificuldade; a respiração é curta, e laboriosa, porque o bofe se não pode dilatar para receber a mesma quantidade de ar, que recebia no estado de saúde; o que os obriga a estar deitados de costas, porque padecem menos nesta situação, do que em qualquer outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>elles tem hum bafo quente , todo o corpo ardente , huma tosse secca , e dolorosa , e agonias do coraçaõ , escarraõ com trabalho , e os poucos escarros , que sahem , saõ sanguinolentos , e muitas vezes escarraõ sangue puro ; queixaõ-se de huma grande dôr de cabeça , seu rosto he vermelho , e inflammado , ou abrazado ; ás vezes he pallido ; e entaõ tem os doentes hum ar taciturno , triste , e consternado ; o que he de máo agouro nesta doença .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Eles têm um bafo quente, todo o corpo ardente, uma tosse seca, e dolorosa, e agonias do coração, escarram com trabalho, e os poucos escarros, que saem, são sanguinolentos, e muitas vezes escarram sangue puro; queixam-se de uma grande dor de cabeça, seu rosto é vermelho, e inflamado, ou abrasado; às vezes é pálido; e então tem os doentes um ar taciturno, triste, e consternado; o que é de mau agouro nesta doença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Para a tarde augmenta-se a febre , a tosse he mais viva , mais secca , mais frequente , os escarros sahem com menos facilidade ; se todos estes symptomas durarem por alguns dias , entaõ naõ podem os doentes mais estar deitados de costas , e saõ obrigados a estarem sentados ; o pulso se faz entaõ mais pequeno , mais ligeiro ; o rosto toma huma côr livida , a lingua se faz denegrida , os olhos se põe espantados , elles deliraõ ; a respiraçaõ se faz mais difficultosa de huma hora para a outra , elles estaõ atormentados , e naõ achaõ situaçaõ alguma , que lhe seja boa , finalmente morrem em agonias .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Para a tarde aumenta-se a febre, a tosse é mais viva, mais seca, mais frequente, os escarros saem com menos facilidade; se todos estes sintomas durarem por alguns dias, então não podem os doentes mais estar deitados de costas, e são obrigados a estarem sentados; o pulso se faz então mais pequeno, mais ligeiro; o rosto toma uma cor lívida, a língua se faz denegrida, os olhos se põe espantados, eles deliram; a respiração se faz mais dificultosa de uma hora para a outra, eles estão atormentados, e não acham situação alguma, que lhe seja boa, finalmente morrem em agonias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Taes saõ os symptomas , que offerece a peripneumonia , quando he de máo caracter , ou quando os doentes naõ saõ soccorridos a proposito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Tais são os sintomas, que oferece a peripneumonia, quando é de mau caráter, ou quando os doentes não são socorridos a propósito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Esta pintura he na verdade horrorosa , mas com tudo he natural : he precizo pois remediar bem cedo todos estes symptomas , e antes que a doença tenha feito hum certo progresso ; assim logo que tiver cessado o frio da febre , far-se-ha huma sangria larga ; principalmente se os doentes forem moços , e vigorosos ; porque se observa , que huma só sangria sendo hum pouco forte allivia mais os doentes , do que duas , ou tres pequenas , feitas por differentes vezes : repetir-se-ha a sangria todas as vezes que a tosse , a dôr , a oppressaõ se elevarem a hum certo gráo de violencia : he raro , que tres ou quatro sangrias feitas no espaço de vinte e quatro horas , naõ ponhaõ os doentes em melhor estado , e em via se curarem ; porque se esta quantidade de sangrias os naõ allivia , entaõ deve-se ter todo o medo á molestia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Esta pintura é na verdade horrorosa, mas com tudo é natural: é preciso pois remediar bem cedo todos estes sintomas, e antes que a doença tenha feito um certo progresso; assim logo que tiver cessado o frio da febre, far-se-á uma sangria larga; principalmente se os doentes forem moços, e vigorosos; porque se observa, que uma só sangria sendo um pouco forte alivia mais os doentes, do que duas, ou três pequenas, feitas por diferentes vezes: repetir-se-á a sangria todas as vezes que a tosse, a dor, a opressão se elevarem a um certo grão de violência: é raro, que três ou quatro sangrias feitas no espaço de vinte e quatro horas, não ponham os doentes em melhor estado, e em via se curarem; porque se esta quantidade de sangrias os não alivia, então deve-se ter todo o medo á moléstia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em quanto se fazem as sangrias , he necessario naõ desprezar os outros remedios , taes como os banhos quentes das pernas ; deixar-se-haõ estar os doentes nelle por meia hora , e até mesmo mais tempo , se se acharem bem nelle ; attender-se-ha sómente a te-los bem enbrulhados , e cobertos , para que o frio naõ faça parar o suôr , que este banho ordinariamente excita , e faça assim perder o fructo , que delle se devia tirar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Enquanto se fazem as sangrias, é necessário não desprezar os outros remédios, tais como os banhos quentes das pernas; deixar-se-ão estar os doentes nele por meia hora, e até mesmo mais tempo, se se acharem bem nele; atender-se-á somente a tê-los bem embrulhados, e cobertos, para que o frio não faça parar o suor, que este banho ordinariamente excita, e faça assim perder o fruto, que dele se devia tirar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se pelo quinto , até ao setimo dia de doença substistir a oppressaõ , e se os dontes se sentirem suffocados com escarros viscosos , que elles naõ possaõ expectorar , entaõ nada he mais proprio para lhes facilitar a sahida , do que o vapor do vinagre ; para isto faz-se ferver huma certa quantidade do vinagre mais forte em huma panella de barro ; e depois de ter tapado os olhos do doente , e estendido hum guardanapo sobre a sua cabeça , chega-se-lhe à panella , para que o fumo , que della sahe , se introduza pela bocca ; para o que se deve encaminhar para ella por meio de hum funil voltado ás avessas , que se põe sobre a panella (a) .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se pelo quinto, até ao sétimo dia de doença subsistir a opressão, e se os doentes se sentirem sufocados com escarros viscosos, que eles não possam expectorar, então nada é mais próprio para lhes facilitar a saída, do que o vapor do vinagre; para isto faz-se ferver uma certa quantidade do vinagre mais forte em uma panela de barro; e depois de ter tapado os olhos do doente, e estendido um guardanapo sobre a sua cabeça, cega-se-lhe à panela, para que o fumo, que dela sai, se introduza pela boca; para o que se deve encaminhar para ela por meio de um funil voltado às avessas, que se põe sobre a panela (a).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em todo o decurso da peripneumonia devem-se applicar continuamente sobre o peito pedaços de pannos , ou barretes de lã , de que se servem os Marinheiros , ensopados no cozimento emolliente do N.º 4 .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Em todo o decurso da peripneumonia devem-se aplicar continuamente sobre o peito pedaços de panos, ou barretes de lã, de que se servem os Marinheiros, ensopados no cozimento emoliente do N.º 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Repetir-se-haõ estas applicações de hum instante a outro , taõ quentes , quanto o doente as puder supportar , tendo o cuidado de espremer bem com ambas as mãos o panno de lã , ou os barretes , para naõ molharem muito a cama do doente : poder-se-lhe-haõ fazer tomar nos primeiros quatro , ou cinco dias algumas mezinhas com o mesmo cozimento do N.º 4 principalmente se elles , para as tomar , se puderem pôr em huma situaçaõ , que os naõ fatigue muito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Repetir-se-ão estas aplicações de um instante a outro, tão quentes, quanto o doente às puder suportar, tendo o cuidado de espremer bem com ambas as mãos o pano de lã, ou os barretes, para não molharem muito a cama do doente: poder-se-lhe-ão fazer tomar nos primeiros quatro, ou cinco dias algumas mesinhas com o mesmo cozimento do N.º 4 principalmente se eles, para as tomar, se puderem pôr em uma situação, que os não fatigue muito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quanto aos remedios internos daõ-se poucos na peripneumonia , por todo o tempo em quanto a febre he forte , e deve cada hum contentar-se com o fazer beber em abundancia os doentes da primeira tifana do N.º 5. ; a terceira , que he huma panada nutriente servirá de caldo ; e para facilitar a sahida dos escarros , dar-se-ha de huma hora a outra huma colher da bebida indicadaem o N.º 6 .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Quanto aos remédios internos dão-se poucos na peripneumonia, por todo o tempo enquanto a febre é forte, e deve cada um contentar-se com o fazer beber em abundância os doentes da primeira tisana do N.º 5.; a terceira, que é uma panada nutriente servirá de caldo; e para facilitar a saída dos escarros, dar-se-á de uma hora a outra uma colher da bebida indicada em o N.º 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nos primeiros dias da molestia , ou ella se augmente , ou ella esteja sempre no mesmo estado , devem-se dar ao doente só os remedios acima ditos , que ordinariamente bastaõ para lhe fazer tomar huma volta , ou mudança favoravel .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Nos primeiros dias da moléstia, ou ela se aumente, ou ela esteja sempre no mesmo estado, devem-se dar ao doente só os remédios acima ditos, que ordinariamente bastam para lhe fazer tomar uma volta, ou mudança favorável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Esta chega-se a reconhecer em que pelo quarto , ou o mais tardar pelo quinto dia , começaõ os crescimentos de tarde a ser menos violentos , a tosse , e a oppressaõ se diminuem , a respiraçaõ he menos dificultosa , a cabeça mais desembaraçada ; os escarros mais grossos , mais abundantes , menos sanguinolentos , sahem com mais facilidade , e começaõ a assimilhar-se aos  que se escarraõ no catarrho ordinario , quando elle começa a estar maduro , ou cozido .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Esta cega-se a reconhecer em que pelo quarto, ou o mais tardar pelo quinto dia, começam os crescimentos de tarde a ser menos violentos, a tosse, e a opressão se diminuem, a respiração é menos dificultosa, a cabeça mais desembaraçada; os escarros mais grossos, mais abundantes, menos sanguinolentos, saem com mais facilidade, e começam a assimilar-se aos que se escarram no catarro ordinário, quando ele começa a estar maduro, ou cozido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando a doença toma huma tal mudança , devemos ter toda a esperança , e entaõ naõ pede outros remedios , senaõ a tisana , algumas colheres do lambedor do N.º 7. , e a dieta .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Quando a doença toma uma tal mudança, devemos ter toda a esperança, e então não pede outros remédios, senão a tisana, algumas colheres do lambedor do N.º 7., e a dieta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos sete , aos nove , ou aos onze abate a febre , e a doença entra a diminuir por huma expectoraçaõ , ou sahida abundante de escarros , ou pelo suôr ; facilita-se a primeira pelo uso do lambedor N.º 7. , e ajuda-se a segunda pela bebida de algumas chicaras da infusaõ, ou chá das flores de sabugo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Aos sete, aos nove, ou aos onze abate a febre, e a doença entra a diminuir por uma expectoração, ou saída abundante de escarros, ou pelo suor; facilita-se a primeira pelo uso do lambedor N.º 7., e ajuda-se a segunda pela bebida de algumas xícaras da infusão, ou chá das flores de sabugo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tanto tem os suores de nocivos ; e máos nos primeiros dias da doença , quanto tem de favoraveis , e salutiferos nos ultimos ; mas he precizo notar , que esta evacuaçaõ , que com razaõ se respeita como critica , porque termina a doença , e a muda para melhor , algumas vezes he precedida de certos accidentes , ou symptomas , que metem medo aos doentes , e aos que trataõ delles ; humas vezes saõ fraquezas , desmaios , suores frios , palpitações , oppressões , agonias de coraçaõ , movimentos convulsivos , ou outros symptomas , que parecem pôr a vida dos doentes em perigo ; he precizo pois fugir cada hum de mudar de methodo , e recorrer a remedios particulares ; porque he constante , e certo , que todos estes symptomas naõ saõ produzidos senaõ pelos esforços , que a natureza faz para combater a doença , e livrar-se della ; assim os remedios , que entaõ se dellem , seriaõ capazes de a perturbar nas suas operações , de embaraçar a crise , e de fazer transportar a materia morbifica , que hia ja a sahir pelos suôres , pelos escarros , ou pelas dejecções do ventre , de a fazer transportar , digo , para alguma outra parte , aonde formal se hum deposito , que matasse o doente , suppondo que elle se fizesse sobre alguma parte interna necessaria á vida , como v. gr. o figado , o cerebro &amp;c. , ou que produzisse hum abscesso perigoso , e dificil de curar , se o transporte se fizesse para alguma parte exterior .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Tanto tem os suores de nocivos; e maus nos primeiros dias da doença, quanto tem de favoráveis, e salutíferos nos últimos; mas é preciso notar, que está evacuação, que com razão se respeita como critica, porque termina a doença, e a muda para melhor, algumas vezes é precedida de certos acidentes, ou sintomas, que metem medo aos doentes, e aos que tratam deles; umas vezes são fraquezas, desmaios, suores frios, palpitações, opressões, agonias de coração, movimentos convulsivos, ou outros sintomas, que parecem pôr a vida dos doentes em perigo; é preciso pois fugir cada um de mudar de método, e recorrer a remédios particulares; porque é constante, e certo, que todos estes sintomas não são produzidos senão pelos esforços, que a natureza faz para combater a doença, e livrar-se dela; assim os remédios, que então se dessem, seriam capazes de a perturbar nas suas operações, de embaraçar a crise, e de fazer transportar a matéria morbífica, que ia já a sair pelos suores, pelos escarros, ou pelas dejecções do ventre, de a fazer transportar, digo, para alguma outra parte, aonde formal se um deposito, que matasse o doente, supondo que ele se fizesse sobre alguma parte interna necessária à vida, como v. gr. o fígado, o cérebro etc., ou que produzisse um abscesso perigoso, e difícil de curar, se o transporte se fizesse para alguma parte exterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos treze , ou aos quatorze dias pára totalmente a febre : se os doentes tiverem ainda a cabeça pezada , e carregada , se tiverem falta de appetite , purgar-se-haõ com o remedio do N.º 14. ; depois disso pôr-se-haõ na dieta dos convalescentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Aos treze, ou aos quatorze dias para totalmente a febre: se os doentes tiverem ainda a cabeça pesada, e carregada, se tiverem falta de apetite, purgar-se-ão com o remédio do N.º 14.; depois disso pôr-se-ão na dieta dos convalescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tal he pouco mais , ou menos o decurso da peripneumonia inflammatoria , quando ella he tratada , como deve ser ; mas muitas vezes a pezar do bom tratamento , succedem , em quanto dura esta molestia , certos casos , que pedem huma attençaõ particular .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Tal é pouco mais, ou menos o decurso da peripneumonia inflamatória, quando ela é tratada, como deve ser; mas muitas vezes a pesar do bom tratamento, sucedem, enquanto dura está moléstia, certos casos, que pedem uma atenção particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se depois das sangrias , por exemplo , os doentes ainda que se achem ja melhor , com tudo-se se ficarem ainda queixando de grandes dôres de cabeça ; se tiverem os olhos vivos , e reluzentes , o nariz , e as maçãas do rosto de hum vermelho resplandecente , este symptoma pelo ordinario annuncia huma hemorrhagia de nariz : muito mais , se a maçã do rosto da parte da venta , por onde se deve fazer esta evacuaçaõ , estiver mais vermelha , do que a que lhe he opposta ; se ellas estiverem igualmente vermelhas , entaõ sahe o sangue por ambas as ventas : o pulso neste estado he duro , e dicroto , isto he , que bate duas vezes em huma mesma pulsaçaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se depois das sangrias, por exemplo, os doentes ainda que se achem já melhor, com tudo se se ficarem ainda queixando de grandes dores de cabeça; se tiverem os olhos vivos, e reluzentes, o nariz, e as maçãs do rosto de um vermelho resplandecente, este sintoma pelo ordinário anuncia uma hemorragia de nariz: muito mais, se a maçã do rosto da parte da venta, por onde se deve fazer esta evacuação, estiver mais vermelha, do que a que lhe é oposta; se elas estiverem igualmente vermelhas, então sai o sangue por ambas as ventas: o pulso neste estado é duro, e dícroto, isto é, que bate duas vezes em uma mesma pulsação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Os que attenderem bem a todos eftes signaes , poderáõ seguramente prognosticar a hemorrhagia , e vê-la chegar a ponto dado com grande admiraçaõ dos assistentes , como ja me tem succedido muitas vezes ; se ella chegar , naõ se deve ter o trabalho de a fazer parar ; por grande que pareça , porque he salutifera , e faz terminar bem depressa a doença .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Os que atenderem bem a todos estes sinais, poderão seguramente prognosticar a hemorragia, e vê-la chegar a ponto dado com grande admiração dos assistentes, como já me tem sucedido muitas vezes; se ela chegar, não se deve ter o trabalho de a fazer parar; por grande que pareça, porque é salutífera, e faz terminar bem depressa a doença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Do mesmo modo tambem succede no tratamento da peripncumonia , que os escarros ; que sahiaõ com facilidade , se diminuem de repente , e paraõ mesmo de todo ; se naõ sobrevém logo alguma outra evacuaçaõ , que os suppra , entaõ incorrem os doentes no maior perigo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Do mesmo modo também sucede no tratamento da peripneumonia, que os escarros; que saiam com facilidade, se diminuem de repente, e param mesmo de todo; se não sobrevém logo alguma outra evacuação, que os supra, então incorrem os doentes no maior perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Este accidente he muitas vezes produzido por algum erro , que os doentes tenhaõ feito contra a dieta ; o que naõ he raro entre os Marinheiros , ou por se terem exposto fóra de proposito a hum ar frio, por ter tomado imprudentemente , e sem conselho de quem os trata , algum laxante , ou qualquer outro remedio para excitar o suôr , ou finalmente por se terem entregado a alguma paixaõ violenta capaz de alterar , e revoltar o sangue .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Este acidente é muitas vezes produzido por algum erro, que os doentes tenham feito contra a dieta; o que não é raro entre os Marinheiros, ou por se terem exposto fora de propósito a um ar frio, por ter tomado imprudentemente, e sem conselho de quem os trata, algum laxante, ou qualquer outro remédio para excitar o suor, ou finalmente por se terem entregado a alguma paixão violenta capaz de alterar, e revoltar o sangue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>De qualquer modo que a couza succeda , deve-se logo pôr tudo em uso para provocar , e tornar a chamar a evacuaçaõ dos escarros ; eis-aqui porque se a doença : naõ estiver muito adiantada , quero dizer , se naõ estiver além do setimo dia ; e os doentes forem moços , robustos , se os ultimos escarros , que elles lançaraõ , eraõ ainda tinctos de sangue ; finalmente se o pulso airda fôr assás forte , póde-se ; e mesmo deve-se fazer huma , e ainda duas sangrias , ordenar ao mesmo tempo huma bebida copiosa de tisana bem que , repetir as fomentações emollientes sobre o peito , e recorrer á inspizaçaõ do fumo do vinagre ; estes remedios administrados promptamente restabelecem , e tornaõ a fazer continuar a evacuaçaõ dos escarros algunas vezes , e a doença torna entaõ a tomar o seu curso ordinario .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>De qualquer modo que a coisa suceda, deve-se logo pôr tudo em uso para provocar, e tornar a chamar a evacuação dos escarros; eis-aqui porque se a doença: não estiver muito adiantada, quero dizer, se não estiver além do sétimo dia; se os doentes forem moços, robustos, se os últimos escarros, que eles lançaram, eram ainda tintos de sangue; finalmente se o pulso ainda for assaz forte, pode-se; e mesmo deve-se fazer uma, e ainda duas sangrias, ordenar ao mesmo tempo uma bebida copiosa de tisana bem que, repetir as fomentações emolientes sobre o peito, e recorrer à inspiração do fumo do vinagre; estes remédios administrados prontamente restabelecem, e tornam a fazer continuar a evacuação dos escarros algumas vezes, e a doença torna então a tomar o seu curso ordinário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se pelo contrario a doença estiver muito adiantada , se os doentes forem fracos , e idosos , se tiverem sido muito sangrados , finalmente se o pulso fór fraco , e pequeno , entaõ naõ se deve recorrer a novas sangrias ; mas fim contentar-se cada hum de os fazer tomar bebidas quentes , e em abundancia , dando-lhe por muitas vezes pouco mais de huma colher do lambedôr N. 7. , a que se ajuntaraõ dous grãos de Kermes mineral : deve-se applicar ao mesmo tempo ás barrigas das pernas hum emplastro de cantharidas da largura da palma da maõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se pelo contrário a doença estiver muito adiantada, se os doentes forem fracos, e idosos, se tiverem sido muito sangrados, finalmente se o pulso for fraco, e pequeno, então não se deve recorrer a novas sangrias; mas sim contentar-se cada um de os fazer tomar bebidas quentes, e em abundância, dando-lhe por muitas vezes pouco mais de uma colher do lambedor N. 7., a que se ajuntarão dos grãos de Kermes mineral: deve-se aplicar ao mesmo tempo às barrigas das pernas um emplastro de cantarias da largura da palma da mão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>( Vède a formula, ou receita do N.º 24. ) .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>(Vede a fórmula, ou receita do N.º 24.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Todos os dias se estaõ vendo doentes sahirem , por assim dizer , das bordas da sepultura pelo uso do lambeder com o kermes , e do emplastro vesicatorio ; assim em taes circunstancias naõ posso deixar de recommendar muito a prática destes remedios .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Todos os dias se estão vendo doentes saírem, por assim dizer, das bordas da sepultura pelo uso do lambedor com o kermes, e do emplastro vesicatório; assim em tais circunstâncias não posso deixar de recomendar muito a prática destes remédios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ me estenderei sobre à terminaçaõ da peripneumonia pela suppuraçaõ , nem sobre as diferentes vomicas , que saõ as confequencias dellas ; estes symptomas fizem prolongar muito a doença , e daõ tempo aos Marinheiros de chegarem a algum porto ; aonde possaõ recorrer a Medicos illuminados , que os guiaráõ no tratamento destas doenças ; que pedem muito cuidado , attençaõ , e soccorro , o que seria impossivel , que elles procurassem nos Navios .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Não me estenderei sobre à terminação da peripneumonia pela supuração, nem sobre as diferentes vômicas, que são as consequências delas; estes sintomas fazem prolongar muito a doença, e dão tempo aos Marinheiros de chegarem a algum porto; aonde possam recorrer a Médicos iluminados, que os guiarão no tratamento destas doenças; que pedem muito cuidado, atenção, e socorro, o que seria impossível, que eles procurassem nos Navios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tambem se conhece outra especie de peripneumonia , que se chama podre , ou biliosa ; quando ella he acompanhada de dôr , ou de pontada no lado , entaõ chama-se Pleuriz podre , ou bilioso .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Também se conhece outra espécie de peripneumonia, que se chama podre, ou biliosa; quando ela é acompanhada de dor, ou de pontada no lado, então chama-se Pleuris podre, ou bilioso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>T'ratando de huma , trato ao mesmo tempo do outro ; porque estas duas doenças naõ saõ outra couza , senaõ huma febre podre com accumulaçaõ , e demora de escarros no bofe .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Tratando de uma, trato ao mesmo tempo do outro; porque estas duas doenças não são outra coisa, senão uma febre podre com acumulação, e demora de escarros no bofe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A primeira chama-se peripneumonia , porque naõ he acompanhada de dôr , ou pontada no lado , para a distinguir da segunda , em que os doentes se queixaõ mais , ou menos de huma dôr no lado : por isso huma , e outra se distinguem da peripneumonia , e do pleuriz inflammatorio , em que o pulfo nos podres he menos duro , menos forte , ainda que mais ligeiro ; a bocca he amarga , e saburrosa ; o calôr de todo o corpo he acre , secco , sem humidade ; os doentes sentem hum pezo , e hum incommodo nos arredores do estomago ; tem desejos de vomitar ; seu rosto he menos vermelho , do que no pleuriz , ou peripneunonia infammatoria ; mas he hum pouco amarello ; seu ar he desfigurado ; os escarros saõ menos tinctos de sangue , mas mui viscosos , e tinctos de cólera ; as ourinas saõ claras , e muitas vezes tem os doentes huma pequena diarrhéa biliosa mui ferida .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>A primeira chama-se peripneumonia, porque não é acompanhada de dor, ou pontada no lado, para a distinguir da segunda, em que os doentes se queixam mais, ou menos de uma dor no lado: por isso uma, e outra se distinguem da peripneumonia, e do Pleuris inflamatório, em que o pulso nos podres é menos duro, menos forte, ainda que mais ligeiro; a boca é amarga, e saburrosa; o calor de todo o corpo é acre, seco, sem umidade; os doentes sentem um peso, e um incômodo nos arredores do estômago; tem desejos de vomitar; seu rosto é menos vermelho, do que no Pleuris, ou peripneunonia inflamatória; mas é um pouco amarelo; seu ar é desfigurado; os escarros são menos tintos de sangue, mas muito viscosos, e tintos de cólera; as urinas são claras, e muitas vezes tem os doentes uma pequena diarreia biliosa muito ferida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O tratamento he quasi o mesmo , que o das febres podres .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>O tratamento é quase o mesmo, que o das febres podres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>( Vêde aqui adiante o Capitulo , que trata desta doença . ) Com tudo tomo he raro , que a peripneumonia ; ou o pleuriz podre , e bilioso , venhaõ sem alguma inflammaçaõ , o que se conhecerá pela força , e dureza de pulso , por isso cuidar-se-ha de a combater com huma , ou duas sangrias , feitas nos primeiros dias da doença ; estas naõ se devem fazer taõ largas , como se costuma fazer na peripneumonia , ou plenriz inflammatorio , pelo receio de occasionar maior accumalaçaõ de humores no bofe ; mas só em vista de alliviar os vasos sanguíneos , e de amollecer o pulo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>(Vede aqui adiante o Capítulo, que trata desta doença.) Com tudo como é raro, que a peripneumonia; ou o Pleuris podre, e bilioso, venham sem alguma inflamação, o que se conhecerá pela força, e dureza de pulso, por isso cuidar-se-á de a combater com uma, ou duas sangrias, feitas nos primeiros dias da doença; estas não se devem fazer tão largas, como se costuma fazer na peripneumonia, ou Pleuris inflamatório, pelo receio de ocasionar maior acumulação de humores no bofe; mas só em vista de aliviar os vasos sanguíneos, e de amolecer o pulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois de ter feito huma , ou duas sangrias , far-se-ha beber aos doentes em abundancia a primeira tisana do N.º 5 . ; dar-se-lhe-haõ algumas mezinhas , e algumas porções de huma oitava e meia de cremor de tartaro , que se fará ferver em hum vaso de agoa até que se derreta , ou que se misturará com hum pouco de mel .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Depois de ter feito uma, ou duas sangrias, far-se-á beber aos doentes em abundância a primeira tisana do N.º 5.; dar-se-lhe-ão algumas mesinhas, e algumas porções de uma oitava e meia de cremor de tártaro, que se fará ferver em um vaso de água até que se derreta, ou que se misturará com um pouco de mel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estes remedios serviraõ de preparo nos primeiros dous , ou tres dias de doença ; entaõ se o pulso tiver amollecido , aproveitar-nos-hemos da declinaçaõ da febre para dar o vomitorio do N.º 21 .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Estes remédios servirão de preparo nos primeiros dois, ou três dias de doença; então se o pulso tiver amolecido, aproveitar-nos-emos da declinação da febre para dar o vomitório do N.º 21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se houver diarrhéa o do N 11 .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se houver diarreia o do N. 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Estes vomitorios fazem ordinariamente tomar huma boa volta , ou mudança á doença , com tanto que se attenda a da-los , quando todos os symptomas inflammatorios se tiverem dissipado ; porque he certo , que se naõ póde dar qualquer vomitorio a huma pessoa , que tem o bofe inflammado , e nimiamente cheio de sangue , e cujos vasos estouraõ sómente pelo esforço da tosse , como eu tenho visto praticar a muitos Cirurgiões de Navios , sem pôrem os doentes em perigo de morte , e serem reputados por homicidas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Estes vomitórios fazem ordinariamente tomar uma boa volta, ou mudança à doença, com tanto que se atenda a dá-los, quando todos os sintomas inflamatórios se tiverem dissipado; porque é certo, que se não pode dar qualquer vomitório a uma pessoa, que tem o bofe inflamado, e nimiamente cheio de sangue, e cujos vasos estouram somente pelo esforço da tosse, como eu tenho visto praticar a muitos Cirurgiões de Navios, sem porém os doentes em perigo de morte, e serem reputados por homicidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Depois que o vomitorio tiver produzido o effeito desejado , achar-se-haõ os doentes muito melhor ; passado o dia seguinte purgar-se-ha logo no outro com o remedio do N. 14.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Depois que o vomitório tiver produzido o efeito desejado, achar-se-ão os doentes muito melhor; passado o dia seguinte purgar-se-á logo no outro com o remédio do N. 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se a pezar do uso do remedio subsistir a oppressaõ , e abundancia de humor no bofe , repetir-se-ha outra vez , e applicar-se-haõ emplastros vesicatorios ás barrigas das pernas ; este he o unico meio de fazer parar os progressos do mal , e de evitar as funestas consequencias desta especie de peripneumonia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se a pesar do uso do remédio subsistir a opressão, e abundância de humor no bofe, repetir-se-á outra vez, e aplicar-se-ão emplastros vesicatórios às barrigas das pernas; este é o único meio de fazer parar os progressos do mal, e de evitar as funestas consequências desta espécie de peripneumonia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Do Pleuriz .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Do Pleuris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>EU reuni no mesmo Capitulo o Pleuriz , e a Peripneumonia , porque estas duas doenças naõ differem muito entre si , reconhecem a mesma causa , e se curaõ quasi com os mesmos remedios .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Eu reuni no mesmo Capítulo o Pleuris, e a Peripneumonia, porque estas duas doenças não diferem muito entre si, reconhecem a mesma causa, e se curam quase com os mesmos remédios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Até mesmo he raro , que ellas venhaõ huma sem a outra , e se naõ compliquem juntamente ; a unica diferença , que acha , he , que no pleuriz sentem os doentes sobre hum dos lados do peito por cima , ou por baixo da mamma , huma dôr muito viva , aguda , ou punctoria , que se chama pontada do lado .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Até mesmo é raro, que elas venham uma sem a outra, e se não compliquem juntamente; a única diferença, que acha, é, que no Pleuris sentem os doentes sobre um dos lados do peito por cima, ou por baixo da mama, uma dor muito viva, aguda, ou punctória, que se chama pontada do lado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Esta dôr augmenta-se , e redobra , quando elles respiraõ , ou quando tossem , porque nestes movimentos , como o peito está muito cheio de sangue , faz-se entaõ mais distendido ; e parece , que se lhe fura com huma espada ; os outros symptomas saó quasi os mesmos , que na peripneumonia , mais, ou menos violentos segundo a força do mal ; assim o tratamento deve ser o mesmo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Esta dor aumenta-se, e redobra, quando eles respiram, ou quando tossem, porque nestes movimentos, como o peito está muito cheio de sangue, faz-se então mais distendido; e parece, que se lhe fura com uma espada; os outros sintomas são quase os mesmos, que na peripneumonia, mais, ou menos violentos segundo a força do mal; assim o tratamento deve ser o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ha com tudo certos casos particulares , no que propriamente se chama Pleuriz , que se naõ observaõ na peripneumonia , e que eu agora vou a examinar miudamente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Há com tudo certos casos particulares, no que propriamente se chama Pleuris, que se não observam na peripneumonia, e que eu agora vou a examinar miudamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se elles naô variaõ muito o tratamento , daraõ mais conhecimento , e clareza , para conduzir methodicamente os doentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se eles não variam muito o tratamento, darão mais conhecimento, e clareza, para conduzir metodicamente os doentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Direi pois em primeiro lugar , que no pleuriz succede muitas vezes , que a dôr , ou a pontada no lado se naõ faz sentir logo des-de o acomettimento da doença , e que este symptoma tarda muitas horas , hum dia , e algumas vezes dous , ou tres para se manifestar , muitas vezes sentem os doentes duas pontadas ao mesmo tempo , huma de cada lado do peito , ou huma só , que passa alternativamente do lado direito para o esquerdo , ou do esquerdo para o direito : muitas vezes a dôr , ainda que fique no mesmo lado , muda de lugar , sóbe mais acima de que a mamma , encaminha-se para traz da espadoa ; he necessario pois attender a todas estas mudanças differentes , e observar , se os doentes se achaõ melhor com isso ; se succeder porém o contrário , isto he huma proxa , que a doença he de muito máo caracter , e deu huma volta muito má ; he precizo pois em tal caso dobrar cada hum a attençaõ , e não poupar as sangrias , e os outros auxilios .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Direi pois em primeiro lugar, que no Pleuris sucede muitas vezes, que a dor, ou a pontada no lado se não faz sentir logo desde o acometimento da doença, e que este sintoma tarda muitas horas, um dia, e algumas vezes dois, ou três para se manifestar, muitas vezes sentem os doentes duas pontadas ao mesmo tempo, uma de cada lado do peito, ou uma só, que passa alternativamente do lado direito para o esquerdo, ou do esquerdo para o direito: muitas vezes a dor, ainda que fique no mesmo lado, muda de lugar, sobe mais acima de que a mama, encaminha-se para trás da espádua; é necessário pois atender a todas estas mudanças diferentes, e observar, se os doentes se acham melhor com isso; se suceder porém o contrário, isto é uma prova, que a doença é de muito mau caráter, e deu uma volta muito má; é preciso pois em tal caso dobrar cada um a atenção, e não poupar as sangrias, e os outros auxílios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Tambem succede algumas vezes , que a dôr depois de ter durado quatro , ou cinco dias , se modere , e que a pontada cesse totalmente , sem que os doentes por islo se achem melhor ; antes ao contrario ficaõ mais opprimidos , vêm-se tristes , e abatidas , fazem-se pallidos , ficaõ quebrantados , e apenas se pódem mexer na sua cama : o pulso , que nesta doença ordinariamerte he mui forte , e mui duro , se faz entaô pequeno , fraco, e intermittente ; o cerebro he atacado ; os doentes tem hum pequeno delirio , alguns disparates , quero dizer , que naõ respondem exactamente ás perguntas , que se lhe fazem ; dizem elles mesmos couzas , que naõ tem ligaçaõ entre si ; este estado he mui perigoso , e os doentes bem depressa morrem suffocados , ao menos se se naõ chegar a fazer tornar a apparecer a pontada do lado , e a reanimar o pulso .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Também sucede algumas vezes, que a dor depois de ter durado quatro, ou cinco dias, se modere, e que a pontada cesse totalmente, sem que os doentes por isso se acém melhor; antes ao contrário ficam mais oprimidos, vêm-se tristes, e abatidas, fazem-se pálidos, ficam quebrantados, e apenas se podem mexer na sua cama: o pulso, que nesta doença ordinariamente é muito forte, e muito duro, se faz então pequeno, fraco, e intermitente; o cérebro é atacado; os doentes têm um pequeno delírio, alguns disparates, quero dizer, que não respondem exatamente às perguntas, que se lhe fazem; dizem eles mesmos coisas, que não tem ligação entre si; este estado é muito perigoso, e os doentes bem depressa morrem sufocados, ao menos se se não chegar a fazer tornar a aparecer a pontada do lado, e a reanimar o pulso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O melhor meio para chegar a conseguir isto , he applicar sobre a parte , aonde estava a pontada huma cataplasma acre , e estimulante com o fermento , pimenta , e mostarda , ou a do N.º 9.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>O melhor meio para chegar a conseguir isto, é aplicar sobre a parte, aonde estava a pontada uma cataplasma acre, e estimulante com o fermento, pimenta, e mostarda, ou a do N.º 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se estes emplastros naõ procuraõ logo o effeito desejado , he precizo sem mais demora tira-los , e pôr em seu lugar o das cantharidas N.º 24.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se estes emplastros não procuram logo o efeito desejado, é preciso sem mais demora tirá-los, e pôr em seu lugar o das cantarias N.º 24.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Nos principios do pleuriz eu me tenho muitas vezes achado satisfeito da applicaçaõ do emplastro N.º 10.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Nos princípios do Pleuris eu me tenho muitas vezes achado satisfeito da aplicação do emplastro N.º 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se nos primeiros dias da doença , depois de se ter feito duas , ou tres sangrias , parar a dôr , e naõ tornar mais a vir , e se os doentes se acharem alliviados , posto que a febre ainda subsista , he necessario naõ as multiplicar sem necessidade , como eu tenho visto praticar a muitos Cirurgiões de Navios , que esgotaõ os doentes com multiplicadas sangrias , e daõ para razaõ disto o dizer , que se naõ pódem curar senaõ pela sangria , e que he precizo , que elles se curem , ou que morraõ debaixo da lanceta ; eu convenho , que em quanto a dôr, e a pontada persistirem , he precizo sangrar , com tanto que o  pulso se conserve forte ; eu sou mesmo de voto , que vale mais fazer huma sangria de mais , principalmente se os doentes forem moços , robustos , e vigorosos , do que expo-los a morrer , fazendo huma de menos ; mas he precizo tambem naõ ser excessivo em as fazer , nem sangrar sem necessidade ; porque sempre tenho observado , que quatro , ou cinco sangrias largas , e copiosas , e chegadas humas ao pé das outras , tem acalmado sempre a inflammaçaõ ; e que mui raras vezes me tenho achado no caso de fazer maior quantidade dellas ; muitissimas vezes mesmo , quando o pleuriz he leve , e pequeno , duas , ou tres sangrias feitas no principio , huma bebida abundante de tisana melada , a applicaçaõ do emplastro N. 10. , bastaõ para o curar em poucos dias .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Se nos primeiros dias da doença, depois de se ter feito duas, ou três sangrias, parar a dor, e não tornar mais a vir, e se os doentes se acharem aliviados, posto que a febre ainda subsista, é necessário não as multiplicar sem necessidade, como eu tenho visto praticar a muitos Cirurgiões de Navios, que esgota os doentes com multiplicadas sangrias, e dão para razão disto o dizer, que se não podem curar senão pela sangria, e que é preciso, que eles se curem, ou que morram debaixo da lanceta; eu convenho, que em quanto a dor, e a pontada persistirem, é preciso sangrar, com tanto que o  pulso se conserve forte; eu sou mesmo de voto, que vale mais fazer uma sangria de mais, principalmente se os doentes forem moços, robustos, e vigorosos, do que expô-los a morrer, fazendo uma de menos; mas é preciso também não ser excessivo em as fazer, nem sangrar sem necessidade; porque sempre tenho observado, que quatro, ou cinco sangrias largas, e copiosas, e chegadas umas ao pé das outras, tem acalmado sempre a inflamação; e que muito raras vezes me tenho achado no caso de fazer maior quantidade delas; muitíssimas vezes mesmo, quando o Pleuris é leve, e pequeno, duas, ou três sangrias feitas no princípio, uma bebida abundante de tisana melada, a aplicação do emplastro N. 10., bastão para o curar em poucos dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando elle he violento , he precizo multiplicar as sangrias , e avizinha-las humas ás outras , quando a febre , a dôr de cabeça , e a pontada forem muito vivas ; quando o pulso fôr duro , cheio , a pelle secca , e que os doentes saõ moços , e robustos , he necessario neste caso naõ desprezar nunca a applicaçaõ das fomentações emollientes quentes sobre a parte , aonde se faz sentir a dôr ; os banhos de pés , que muitas vezes alliviaõ as dôres de cabeça , quando ellas saõ violentas ; finalmente todos os outros remedios pequenos , que eu ja indiquei , e mostrei para a peripneumonia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Quando ele é violento, é preciso multiplicar as sangrias, e avizinhá-las umas às outras, quando a febre, a dor de cabeça, e a pontada forem muito vivas; quando o pulso for duro, cheio, a pele seca, e que os doentes são moços, e robustos, é necessário neste caso não desprezar nunca a aplicação das fomentações emolientes quentes sobre a parte, aonde se faz sentir a dor; os banhos de pés, que muitas vezes alivia as dores de cabeça, quando elas são violentas; finalmente todos os outros remédios pequenos, que eu já indiquei, e mostrei para a peripneumonia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ha tambem huma segunda especie de pleuriz , que se chama falso , para o distinguir do verdadeiro , puramente inflammatorio , que tem o seu assento no bofe ; em lugar , que este naõ ataca ordinariamente se naõ a pelle , e os musculos do peito ; isto he a fallar propriamente huma dôr rheumatica , que se lança sobre estas partes , e que produz nellas dôres muito vivas ; deve-se tratar pois esta especie , como o rheumatismo ; eis-aqui porque se a febre fôr forte , o pulso cheio , he precizo começar o tratamento por huma , ou duas sangrias assás largas , e applicar logo immediatamente sobre a parte dorida fomentações quentes feitas com o cozimento emolliente do N. 4. ; o que ordinariamente basta para moderar a dôr , e curar a doença , que se termina as mais das vezes ao quarto , ou ao quinto dia por hum suôr abundante ; porque he raro que esta doença passe além do setimo dia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Há também uma segunda espécie de Pleuris, que se chama falso, para o distinguir do verdadeiro, puramente inflamatório, que tem o seu assento no bofe; em lugar, que este não ataca ordinariamente se não a pele, e os músculos do peito; isto é a falar propriamente uma dor reumática, que se lança sobre estas partes, e que produz nelas dores muito vivas; deve-se tratar pois esta espécie, como o reumatismo; eis-aqui porque se a febre for forte, o pulso cheio, é preciso começar o tratamento por uma, ou duas sangrias assaz largas, e aplicar logo imediatamente sobre a parte dorida fomentações quentes feitas com o cozimento emoliente do N. 4.; o que ordinariamente basta para moderar a dor, e curar a doença, que se termina as mais das vezes ao quarto, ou ao quinto dia por um suor abundante; porque é raro que esta doença passe além do sétimo dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Com tudo se a dôr continuar , a pezar das sangrias ; e das fomentações, depois que o pulso tiver amollecido , e a febre diminuido , applicar-se-ha sobre a parte dorida o emplastro do N. 10. , como que eu me tenho achado muito bem em taes casos , ou o emplastro de cantharidas N. 24.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T152633Z">
+        <seg>Com tudo se a dor continuar, a pesar das sangrias; e das fomentações, depois que o pulso tiver amolecido, e a febre diminuído, aplicar-se-á sobre a parte dorida o emplastro do N. 10., como que eu me tenho achado muito bem em tais casos, ou o emplastro de cantáridas N. 24.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

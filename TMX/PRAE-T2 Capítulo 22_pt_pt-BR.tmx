@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XXII.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>CAPÍTULO XXII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Banhos como se devem fazer.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Banhos como se devem fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>178</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>178</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>SEndo os banhos muitos , e de differentes agoas, e cozimentos, e em differentes partes do corpo , porque huns saõ geraes , outros particulares, he preciso advertir alguma cousa em geral , para que com perfeição se appliquem , ainda que se naõ póde permeditar o genero de enfermidade, que se poderá offerecer.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Sendo os banhos muitos, e de diferentes águas, e cozimentos, e em diferentes partes do corpo, porque uns são gerais, outros particulares, é preciso advertir alguma coisa em geral, para que com perfeição se apliquem, ainda que se não pode premeditar o gênero de enfermidade, que se poderá oferecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>179</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>179</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o banho for geral em todo o corpo , e for de cozimento de ervas , de agoa fria, ou quente , procurareis ter instromento, aonde possa o enfermo estar de sorte , que o banho o cubra todo , ou atè à parte, onde o Medico mandar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Se o banho for geral em todo o corpo, e for de cozimento de ervas, de água fria, ou quente, procurareis ter instrumento, aonde possa o enfermo estar de sorte, que o banho o cubra todo, ou até à parte, onde o Médico mandar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o cozimento for quente, em que o enfermo tomar o banho , seja de fórma , que o naõ queime: se for de agoa quente, seja a quentura muy moderada; e sendo de agoa fria, naõ seja muito.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Se o cozimento for quente, em que o enfermo tomar o banho, seja de forma, que o não queime: se for de água quente, seja a quentura muito moderada; e sendo de água fria, não seja muito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>180</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o banho for pela manha , estará o enfermo em jejum ; e se for de tarde, se fará o banho cinco horas depois de jantar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Se o banho for pela manha, estará o enfermo em jejum; e se for de tarde, se fará o banho cinco horas depois de jantar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ dareis de comer ao enfermo logo que sahir do banho , que he preciso seja depois delle huma hora, que sendo antes lhe naõ serviria o banho de proveito; porèm se o enfermo estiver fraco, lhe podereis dar somente assim que sahir hum caldo de galinha.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Não dareis de comer ao enfermo logo que sair do banho, que é preciso seja depois dele uma hora, que sendo antes lhe não serviria o banho de proveito; porém se o enfermo estiver fraco, lhe podereis dar somente assim que sair um caldo de galinha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>181</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>181</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Perguntareis ao Medico, que tempo ha de o enfermo estar no banho ; e se for muito , e a agoa, ou cozimento se esfriar, tereis prevençaõ de mais cozimento, ou agoa quente , para se lhe hir lançando no banho, e se conserve o calor até completar o tempo, que o Medico determinar.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Perguntareis ao Médico, que tempo há de o enfermo estar no banho; e se for muito, e a água, ou cozimento se esfriar, tereis prevenção de mais cozimento, ou água quente, para se lhe ir lançando no banho, e se conserve o calor até completar o tempo, que o Médico determinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em quanto o enfermo estiver no banho, ou esteja sentado , ou deitado , o naõ haveis de desamparar; porque succede muitas vezes ter hum desmayo , e corre perigo o enfermo dentro do banho; razaõ, porque he conveniente que o banho seja junto da cama, assim por este incidente, como porque acabado o tempo, que nelle houver de estar, se possa o enfermo logo metter nella depois de enxuto, tendo ao mesmo tempo as janellas fechadas, por estarem os poros abertos.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Enquanto o enfermo estiver no banho, ou esteja sentado, ou deitado, o não haveis de desamparar; porque sucede muitas vezes ter um desmaio, e corre perigo o enfermo dentro do banho; razão, porque é conveniente que o banho seja junto da cama, assim por este incidente, como porque acabado o tempo, que nele houver de estar, se possa o enfermo logo meter nela depois de enxuto, tendo ao mesmo tempo as janelas fechadas, por estarem os poros abertos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>182</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>182</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o Medico determinar façais ao enfermo hum banho dos joelhos para baixo, a que chamaõ semicupio, o mandareis sentar na cama; e tendo os pés dentro da bacia, lhe hireis lançando agoa com hum jarro de bico, de fórma, que naõ escalde, por espaço de hum quarto de hora; e acabado o dito tempo , o enxugareis muito bem, para se deitar na cama.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Se o Médico determinar façais ao enfermo um banho dos joelhos para baixo, a que chamam semicúpio, o mandareis sentar na cama; e tendo os pés dentro da bacia, lhe ireis lançando água com um jarro de bico, de forma, que não escalde, por espaço de um quarto de hora; e acabado o dito tempo, o enxugareis muito bem, para se deitar na cama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o banho for nos braços , ou nas mãos , observareis a mesma regra , que nos semicupios.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T085409Z">
+        <seg>Se o banho for nos braços, ou nas mãos, observareis a mesma regra, que nos semicúpios.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XXIX .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>CAPÍTULO XXIX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Dor de colica como se lhe ha de acudir na ausencia do Medico .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Dor de cólica como se lhe há de acudir na ausência do Médico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>209</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>209</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>DAndo ao enfermo fóra de horas huma colica , a que o Medico naõ possa acudir logo , perguntareis ao enfermo se comeo mais do costumado , e se tem o estomago azedo , e cheyo ; porèm naõ estando inclinado a vomitar , lhe lançareis algumas ajudas commuas na fórma jà referida , e logo lhe dareis hum vomitorio ; e no caso que o enfermo tenha vontade de vomitar , seraõ as ajudas depois do vomitorio .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Dando ao enfermo fora de horas uma cólica, a que o Médico não possa acudir logo, perguntareis ao enfermo se comeu mais do costumado, e se tem o estômago azedo, e cheio; porém não estando inclinado a vomitar, lhe lançareis algumas ajudas comuas na forma já referida, e logo lhe dareis hum vomitório; e no caso que o enfermo tenha vontade de vomitar, serão as ajudas depois do vomitório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Vomitorio primeiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Vomitório primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>210</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>210</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Primeiramente lhe dareis agoa tibia sómente , que estando inclinado a vomitar , he o que basta para o effeito .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Primeiramente lhe dareis água tíbia somente, que estando inclinado a vomitar, é o que basta para o efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Vomitorio segundo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Vomitório segundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>211</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>211</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Agoa cozida com erva doce , bebida quente , tambem he muy provocativa .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Água cozida com erva doce, bebida quente, também é muito provocativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Vomitorio terceiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Vomitório terceiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>212</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>212</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Escremento de ratos em pó , bebido em vinho branco , he muy singular remedio, e provocativo a vomitar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Excremento de ratos em pó, bebido em vinho branco, é muito singular remédio, e provocativo a vomitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Remedio primeiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Remédio primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>213</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>213</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Calumba , ou abuta em pó , quanto caiba em sima de trez vintens , bebida em vinho .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Calumba, ou abuta em pó, quanto caiba em cima de três vinténs, bebida em vinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Remedio segundo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Remédio segundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>214</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>214</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Fel de gallo , bebido em vinho , he muy singular remedio .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Fel de galo, bebido em vinho, é muito singular remédio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Remedio terceiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Remédio terceiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>215</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>215</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Huma ventosa no embigo , mas pouco tempo , que he melhor repetilla mais vezes , do que estar muito tempo pegada .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Uma ventosa no umbigo, mas pouco tempo, que é melhor repeti-la mais vezes, do que estar muito tempo pegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Remedio quarto .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Remédio quarto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>216</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>216</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Hum taleigo de milho quente em sima da dor tambem he bom .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Um taleigo de milho quente em cima da dor também é bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Remedio quinto .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Remédio quinto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>217</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>217</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Metter os pés em agoa bem quente , quanto o enfermo possa soffrer, tempo bastante .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Meter os pés em água bem quente, quanto o enfermo possa sofrer, tempo bastante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Remedio sexto .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Remédio sexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>218</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>218</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Muitas vezes succede proceder a colica de calor : estas se tiraõ pondo panos de agoa fria no estomago do enfermo , em que logo sente alivio ; e se o naõ sentir , se naõ deve continuar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Muitas vezes sucede proceder a cólica de calor: estas se tiram pondo panos de água fria no estômago do enfermo, em que logo sente alívio; e se o não sentir, se não deve continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ aproveitando todos estes remedios , virá o Medico para receitar outros mais efficazes , e purgar como he costume .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090504Z">
+        <seg>Não aproveitando todos estes remédios, virá o Médico para receitar outros mais eficazes, e purgar como é costume.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

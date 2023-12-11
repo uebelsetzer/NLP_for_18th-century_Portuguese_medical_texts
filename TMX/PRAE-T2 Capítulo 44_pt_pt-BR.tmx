@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XLIV .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>CAPÍTULO XLIV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Agoa a que enfermos se ha de dar mais , ou menos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Água a que enfermos se há de dar mais, ou menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>262</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>262</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>AOs feridos de pouco tempo , aos que tiverem erisipela , freneticos , e aos que tiverem cabruncos , se lhes dará agoa em abundancia , e fria ; e se for cozida com escorcioneira , melhor .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Aos feridos de pouco tempo, aos que tiverem erisipela, frenéticos, e aos que tiverem cabruncos, se lhes dará água em abundância, e fria; e se for cozida com escorcioneira, melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ainda que a estes enfermos se lhes póde dar agoa mais largamente , do que em outras enfermidades , he preciso que o Enfermeiro premedite a idade , e temperança do enfermo , e o seu comer , que sendo pouco , naõ deve a agoa ser muita , porque lhe fará dano .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Ainda que a estes enfermos se lhes pode dar água mais largamente, do que em outras enfermidades, é preciso que o Enfermeiro premedite a idade, e temperança do enfermo, e o seu comer, que sendo pouco, não deve a água ser muita, porque lhe fará dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>263</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>263</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos enfermos , que tiverem pleuriz , se lhes deve dar pouca , e quente : cozida com escorcioneira , e fria por nenhum caso .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Aos enfermos, que tiverem pleuris, se lhes deve dar pouca, e quente: cozida com escorcioneira, e fria por nenhum caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>264</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>264</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos que tiverem serampo , ou bexigas , se lhes ha de dar da mesma agoa cozida ; porèm fria sem ser com neve , e pouca , porque lhes naõ cause cursos , que nestas queixas saõ muitos perigosos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Aos que tiverem sarampo, ou bexigas, se lhes há de dar da mesma água cozida; porém fria sem ser com neve, e pouca, porque lhes não cause cursos, que nestas queixas são muitos perigosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>265</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>265</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos camarentos se lhes ha de dar a agoa ferrada com aço , ou ouro ; advertindo , que se ha de ferrar duas , ou trez vezes ; porque ferrada só huma vez , lhe causaria mais cursos ao enfermo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Aos camarentos se lhes há de dar a água ferrada com aço, ou ouro; advertindo, que se há de ferrar duas, ou três vezes; porque ferrada só uma vez, lhe causaria mais cursos ao enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A quantidade será moderada , conforme os tempos , e quantidade de cursos , que o enfermo fizer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>A quantidade será moderada, conforme os tempos, e quantidade de cursos, que o enfermo fizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se os cursos forem colericos , ou pelo Medico o dizer , ou pelo enfermo se queixar , que ao sahir do humor lhe arde o intestino , ou os cursos forem de sangue , se lhes dará a estes enfermos agoa em mais abundancia , e fresca .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Se os cursos forem coléricos, ou pelo Médico o dizer, ou pelo enfermo se queixar, que ao sair do humor lhe arde o intestino, ou os cursos forem de sangue, se lhes dará a estes enfermos água em mais abundância, e fresca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Todas as bebidas , que tomarem de Veraõ , haõ de ser frias ; e de Inverno , quentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Todas as bebidas, que tomarem de Verão, hão de ser frias; e de Inverno, quentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>266</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>266</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Aos hydropicos se lhes ha de dar agoa cozida com páo de tamargueira , ou com aquillo , que o Medico determinar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Aos hidrópicos se lhes há de dar água cozida com pau de tamargueira, ou com aquilo, que o Médico determinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Naõ deve o Enfermeiro tirarlhes a agoa de todo , mas lhes hirá todos os dias diminuindo a reçaõ , e ao mesmo tempo se lhes hirá diminuindo a sede , atè que a naõ apeteça ; e a que beber , seja fria .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Não deve o Enfermeiro tirar-lhes a água de todo, mas lhes irá todos os dias diminuindo a ração, e ao mesmo tempo se lhes irá diminuindo a sede, até que a não apeteça; e a que beber, seja fria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o enfermo se abstiver de naõ beber nenhuma , ( como tem feito muitos ) he o remedio mais seguro para sarar da queixa de hydropezia .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Se o enfermo se abstiver de não beber nenhuma, (como têm feito muitos) é o remédio mais seguro para sarar da queixa de hidropisia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se o Medico mandar dar vinho ao hydropico , seja branco , e o comer seja assado ; e se for cozido , seja com agriões , raiz de perrexil , ou grãos .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>Se o Médico mandar dar vinho ao hidrópico, seja branco, e o comer seja assado; e se for cozido, seja com agriões, raiz de perrexil, ou grãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A enfermos sem esperança de vida , vi jà sarar , bebendo a agoa cozida com agriões , e o comer cozido com elles , servindo-lhes os mesmos tambem de alimento depois de cozidos com a carne .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T091547Z">
+        <seg>A enfermos sem esperança de vida, vi já sarar, bebendo a água cozida com agriões, e o comer cozido com eles, servindo-lhes os mesmos também de alimento depois de cozidos com a carne.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

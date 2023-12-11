@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>CAPITULO XXX .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>CAPÍTULO XXX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Advertencia muito importante para quando o Medico manda fazer a hum enfermo muitos remedios juntos , qual deve ser o primeiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>Advertência muito importante para quando o Médico manda fazer a um enfermo muitos remédios juntos, qual deve ser o primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>219</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>219</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>AContece muitas vezes ordenar o Medico muitos remedios juntos , v. g. sangria , cordial , ajuda , untura , defensivo , e comer cedo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>Acontece muitas vezes ordenar o Médico muitos remédios juntos, v. g. sangria, cordial, ajuda, untura, defensivo, e comer cedo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Será bom advertir qual destes remedios se ha de fazer primeiro , para que resulte o bom fim , para que se applicaõ , que he a saude do enfermo ; e o Enfermeiro faça bem a sua obrigaçaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>Será bom advertir qual destes remédios se há de fazer primeiro, para que resulte o bom fim, para que se aplicam, que é a saúde do enfermo; e o Enfermeiro faça bem a sua obrigação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Ainda que em algumas enfermidades costumaõ variar os remedios , fazendo-se hum primeiro que outro , por serem as enfermidades graves , direy o que he mais ordinario , e commum .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>Ainda que em algumas enfermidades costumam variar os remédios, fazendo-se um primeiro que outro, por serem as enfermidades graves, direi o que é mais ordinário, e comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>220</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>220</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Quando o Medico determinar ao enfermo sangria , ajuda , cordial , untura , defensivo , e comer cedo , se deve principiar pela ajuda , e passada meya hora depois de se levantar de obrar , se sangre , e logo se lhe dará o cordial , e acabado de o tomar , se lhe applicará o defensivo , logo a untura , e passada outra meya hora , se lhe dará de comer ao enfermo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>Quando o Médico determinar ao enfermo sangria, ajuda, cordial, untura, defensivo, e comer cedo, se deve principiar pela ajuda, e passada meia hora depois de se levantar de obrar, se sangre, e logo se lhe dará o cordial, e acabado de o tomar, se lhe aplicará o defensivo, logo a untura, e passada outra meia hora, se lhe dará de comer ao enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>221</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>221</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Se acaso houver motivo mais urgente, v. g. esquinencia , pleuriz , ou outra queixa , que promptamente necessite de sangria , ou haja receyo de lhe entrar logo o crescimento , ou terçã , se lhe fará primeiro a sangria ao enfermo ; e passada meya hora , se lhe lançará a ajuda , e depois de ter obrado com ella , se lhe dará o cordial , logo se lhe fará a untura , e se lhe applicará o defensivo ; e passada meya hora , se lhe dará de comer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230912T090716Z">
+        <seg>Se acaso houver motivo mais urgente, v. g. esquinência, pleuris, ou outra queixa, que prontamente necessite de sangria, ou haja receio de lhe entrar logo o crescimento, ou terçã, se lhe fará primeiro a sangria ao enfermo; e passada meia hora, se lhe lançará a ajuda, e depois de ter obrado com ela, se lhe dará o cordial, logo se lhe fará a untura, e se lhe aplicará o defensivo; e passada meia hora, se lhe dará de comer.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

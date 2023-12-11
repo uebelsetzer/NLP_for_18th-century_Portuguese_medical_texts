@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>OBSERVAÇAM XLII .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>OBSERVAÇÃO XLII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>De huma febre causada de enchimento do estomago ; para remedio da qual se deraõ vinte sangrias , &amp; por isso degenerou a febre em maligna de tam venenosa qualidade , que o doente chegou a estar ungido , &amp; certamente morreria , se eu lhe naô acudira dandolhe o meu Bezoartico , com cuja virtude solutiva ,  &amp; cardiaca foi lentamente purgando os humores damnosos , &amp; rebatendo a qualidade venenosa , &amp; por este caminho o livrei da da morte estando quasi metido na sepultura.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>De uma febre causada de enchimento do estômago; para remédio da qual se deram vinte sangrias, e por isso degenerou a febre em maligna de tão venenosa qualidade, que o doente chegou a estar ungido, e certamente morreria, se eu lhe não acudira dando-lhe o meu Bezoártico, com cuja virtude solutiva, e cardíaca foi lentamente purgando os humores danosos, e rebatendo a qualidade venenosa, e por este caminho o livrei da morte estando quase metido na sepultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>1 . – Naõ averá Medico tam falto deciência , que ignore o muito que Galeno , ( i . ) &amp; todos os Doutores ( 2 . ) reprovaô as sangrias nas febres , &amp; doenças , que procedem de crueza , ou enchimento estomago : comtudo naõ sei com que cegueira, ou fado infelice desprezaõ alguns homens os preceitos dos Oraculos da Medicina , mandando sangrar em todas as febres , sem diferença , nem distinção das causas dellas , nem dos temperamentos , ou forças dos doentes ; &amp; o que mais he , que nem queixandose  eles que sentem o estomago pesado ; que tem vontades de vomitar ; que lhes amarga a boca ; &amp; que tem grande fastio ; naõ ; naõ bastaõ todos estes finaes , &amp; reclamos ,  para conhecerem que os taes doentes necessitaõ de ser logo purgados ; mas cega , &amp; inconsideradamente mandaõ logo sangrar , sem embargo que a experiencia 1hes mostra cada dia , que os que se sangraõ tendo os estomagos cheyos , ou morrem na contenda , ou livraõ por milagre .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>1. – Não haverá Médico tão falto de ciência, que ignore o muito que Galeno, (i. ) e todos os Doutores (2. ) reprovam as sangrias nas febres, e doenças, que procedem de crueza, ou enchimento estômago: contudo não sei com que cegueira, ou fado infeliz desprezam alguns homens os preceitos dos Oráculos da Medicina, mandando sangrar em todas as febres, sem diferença, nem distinção das causas delas, nem dos temperamentos, ou forças dos doentes; e o que mais é, que nem queixando-se eles que sentem o estômago pesado; que têm vontades de vomitar; que lhes amarga a boca; e que têm grande fastio; não; não bastam todos estes finais, e reclamos, para conhecerem que os tais doentes necessitam de ser logo purgados; mas cega, e inconsideradamente mandam logo sangrar, sem embargo que a experiência lhes mostra cada dia, que os que se sangram tendo os estômagos cheios, ou morrem na contenda, ou livram por milagre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Devem pois os Medicos principiantes advertir , que naõ commettaõ hum erro taõ absurdo , como he sangrar a alguém estando com o estomago cheyo , ou com desejos de vomitar , ou tendo grandes amargores de boca ; porque os que em semelhantes termos sangrarem aos doentes sem os purgar primeiro quando os naõ matem , os exporáõ a grandes perigos.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Devem pois os Médicos principiantes advertir, que não cometam um erro tão absurdo, como é sangrar a alguém estando com o estômago cheio, ou com desejos de vomitar, ou tendo grandes amargores de boca; porque os que em semelhantes termos sangrarem aos doentes sem os purgar primeiro quando os não matem, os exporão a grandes perigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em confirmação desta verdade pudera repetir muitos exemplos assim dos seculos passados , como dos seculos  presentes ; mas he escusado buscar exemplos de fora , quando nos sobejaõ os que temos de casa ; &amp; por naõ ser importuno , nem infinito em repetir exemplos , baste por todos o seguinte ; pelo qual mostrarei com toda a evidencia , quam errados vaõ aquelles Medicos , &amp; em que precipicios despenhaõ aos doentes , que tendo os estomagos cheyos de cruezas , ou humor, os sangraõ , sem os purgar primeiro .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Em confirmação desta verdade pudera repetir muitos exemplos assim dos séculos passados, como dos séculos presentes; mas é escusado buscar exemplos de fora, quando nos sobejam os que temos de casa; e por não ser importuno, nem infinito em repetir exemplos, baste por todos o seguinte; pelo qual mostrarei com toda a evidência, quão errados vão aqueles Médicos, e em que precipícios despenham aos doentes, que tendo os estômagos cheios de cruezas, ou humor, os sangram, sem os purgar primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>2: O Reverendo Padre Frey Antonio de Tancos , Religioso Carmelita Calçado , teve em 14 . de Agosto de 1665 . huma febre grandissima acompanhada de varios symptomas , que demostravaõ ser procedida de enchimento de estomago , porque padecia amargores de boca , dores na parte dianteira da cabeça , desejos de vomitar , &amp; fastio taõ horrendo , que nem podia comer , nem ouvir falar nisso ; &amp; o que fazia mayor prova que a febre procedia de carga do estomago era ser o dito Frade musico , costumado a andar em festas , &amp; banquetes , &amp; dado a vida sedentaria , &amp; regalona .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>2. O Reverendo Padre Frei Antonio de Tancos, Religioso Carmelita Calçado, teve em 14. de Agosto de 1665. uma febre grandíssima acompanhada de vários sintomas, que demostravam ser procedida de enchimento de estômago, porque padecia amargores de boca, dores na parte dianteira da cabeça, desejos de vomitar, e fastio tão horrendo, que nem podia comer, nem ouvir falar nisso; e o que fazia maior prova que a febre procedia de carga do estômago era ser o dito Frade músico, costumado a andar em festas, e banquetes, e dado a vida sedentária, e regalona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Bastantes indícios eraõ estes , para que o na primeira visita conhecesse que no estomago estava a causa da febre , &amp; que por esta razaõ convinha darlhe logo hum vomitorio de tres onças de agua benedicta vigorada , ou huma onça de agua Angelica , ou dous escropulos de vitriolo branco , ou huma infusaõ de duas oitavas de folhas de sene com cinco onças de assucar rosado de Alexandria ; ou , o que era mais suave , duas oitavas dos meus trociscos de Fioravanto , polvorizados , &amp; misturados com hum pouco de caldo de galinha ; porque aliviado o estomago da grande carga que tinha , se tiraria a febre , como muitas vezes succede , &amp; eu o tenho visto ; &amp; por consequencia se escusariaõ as sangrias ; ou bastariaõ poucas , &amp; naõ chegaria o doente a tanto perigo.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Bastantes indícios eram estes, para que o na primeira visita conhecesse que no estômago estava a causa da febre, e que por esta razão convinha dar-lhe logo um vomitório de três onças de água benedita vigorada, ou uma onça de água Angélica, ou dois escrópulos de vitríolo branco, ou uma infusão de duas oitavas de folhas de sene com cinco onças de açúcar rosado de Alexandria; ou, o que era mais suave, duas oitavas dos meus trociscos de Fioravanto, pulverizados, e misturados com um pouco de caldo de galinha; porque aliviado o estômago da grande carga que tinha, se tiraria a febre, como muitas vezes sucede, e eu o tenho visto; e por consequência se escusariam as sangrias; ou bastariam poucas, e não chegaria o doente a tanto perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>3. Porèm como o doente escolhesse para se curar a hum Medico , que sangraria aos defuntos depois de enterrados , quiz este a torto , &amp; a direito , ( sem  attender a outra razaõ mais que porque achou febre ) tirar sangue , ( em que a doença não pecava , ) &amp; por nenhum modo quiz darlhe hum vomitorio , ou alguma das sobreditas purgas , para despejar do estomago os humores , em que se radicava a enfermidade ; porque se persuadio o tal Medico que os desejos de vomitar , os amargores da boca , o grande fastio , as ancias , &amp; as mais queixas que o doente padecia , procediaõ de enchimento das veas ; &amp; fundado nesta falsa conjectura , julgou que as sangrias se deviaõ antepor aos vomitorios , &amp; purgas alviducas , &amp; por isso mandou sangrar vinte vezes ao desgraçado enfermo ; mas taõ infelizmente , que quanto mais sangue lhe tirava , tanto em mayores ancias , &amp; mais ardentes febres o metia: multiplicavaõse os vomitos, cresciaõ as frialdades dos extremos, perturbavaõse os sentidos , embaraçavase a língua, ourinava sem sentirse ; &amp; sobre todas estas miserias , erão tam grandes , &amp; taõ repetidos os soluços, que moviaõ compaixaõ nos corações mais penhascosos.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>3. Porém como o doente escolhesse para se curar a um Médico, que sangraria aos defuntos depois de enterrados, quis este a torto, e a direito, (sem atender a outra razão mais que porque achou febre) tirar sangue, (em que a doença não pecava,) e por nenhum modo quis dar-lhe um vomitório, ou alguma das sobreditas purgas, para despejar do estômago os humores, em que se radicava a enfermidade; porque se persuadiu o tal Médico que os desejos de vomitar, os amargores da boca, o grande fastio, as ânsias, e as mais queixas que o doente padecia, procediam de enchimento das veias; e fundado nesta falsa conjectura, julgou que as sangrias se deviam antepor aos vomitórios, e purgas alviducas, e por isso mandou sangrar vinte vezes ao desgraçado enfermo; mas tão infelizmente, que quanto mais sangue lhe tirava, tanto em maiores ânsias, e mais ardentes febres o metia: multiplicavam-se os vômitos, cresciam as frialdades dos extremos, perturbavam-se os sentidos, embaraçava-se a língua, urinava sem sentir-se; e sobre todas estas misérias, eram tão grandes, e tão repetidos os soluços, que moviam compaixão nos corações mais penhascosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>4. Neste aperto , (estando já o doente ungido , &amp; o Medico desconfiado da sua vida ) me chamou o Padre Doutor Frey Gregório de Jesus , que era entaõ Prior do Convento , &amp; dandome larga informaçaõ das queixas q o doente padecia ; ( porque ele já naõ estava capaz de me informar ) entendi que a febre, &amp; todos os symptomas referidos procediaõ de enchimento do estomago , naõ sô porque o doente o confessava, em quanto esteve em seu acordo ; mas porque os sobreditos finaes o testimunhavaõ assim : &amp; perguntando eu ao Reverendo Prior , &amp; mais Religiosos , se o doente estava purgado , me respondéraõ que naõ , porque o Medico entendèra que as queixas do doente naõ tinhaõ a sua origem no estomago , mas nas veas , &amp; que por essa causa julgàra por mais convenientes as sangrar , que a purga .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>4. Neste aperto, (estando já o doente ungido, e o Médico desconfiado da sua vida) me chamou o Padre Doutor Frei Gregório de Jesus, que era então Prior do Convento, e dando-me larga informação das queixas que o doente padecia; (porque ele já não estava capaz de me informar) entendi que a febre, e todos os sintomas referidos procediam de enchimento do estômago, não só porque o doente o confessava, em quanto esteve em seu acordo; mas porque os sobreditos finais o testemunhavam assim: e perguntando eu ao Reverendo Prior, e mais Religiosos, se o doente estava purgado, me responderam que não, porque o Médico entendera que as queixas do doente não tinham a sua origem no estômago, mas nas veias, e que por essa causa julgara por mais convenientes as sangrar, que a purgados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Confesso que naõ pude achar desculpa a este Medico , pois via que a doença se augmentava ao compasso que as sangrias se repetiaõ , &amp; devia lembrarse que Galeno ( 3 . ) aconselha que os remédios  se devem seguir , ou suspender, conforme o proveito , ou damno que fazem ; &amp; sendo isto assim , parecia cegueira do entendimento abraçar tanto as sangrias , &amp; abominar com tal excesso purgas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Confesso que não pude achar desculpa a este Médico, pois via que a doença se aumentava ao compasso que as sangrias se repetiam, e devia lembrar-se que Galeno (3. aconselha que os remédios se devem seguir, ou suspender, conforme o proveito, ou dano que fazem; e sendo isto assim, parecia cegueira do entendimento abraçar tanto as sangrias, e abominar com tal excesso purgas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Porèm como as veas estivessem sem vicio , por isso multiplicadas as sangrias , &amp; retrahidas por ellas as cruezas do estomago , cahio em huma enfermidade mortal .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Porém como as veias estivessem sem vício, por isso multiplicadas as sangrias, e retraídas por elas as cruezas do estômago, caiu em uma enfermidade mortal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Neste caso fiquei muito duvidoso sobre a resoluçaõ do que avia de obrar ; porque para purgallo , ( que era o que convinha ) era já tarde , &amp; naõ avia forças ; para sangrallo mais , era acrescentar erro a erro , pois as muitas sangrias lhe tinhaõ feito tanto damno lançarlhe sanguisugas , ( àlem de que eraõ pequeno remédio para tão grande mal ) não estavaõ indicadas da doença , pois a causa della estava no estomago , &amp; já pecava mais em qualidade venenosa occulta , do que em podridaõ manifesta dos humores ; nesta angustia naõ restava outra esperança mais que rebater , &amp; fixar a má qualidade da febre com algum remedio bezoartico , que lentamente fosse tambem purgando algum humor , em que a tal venenosa qualidade se ateava ; &amp; como estas duas virtudes juntas se achem so no meu Cordeal Bezoartico , puz nelle toda a esperança temporal , fiado nas muitas , &amp; mui prodigiosas curas , que com o tal Bezoartico tinha feito , &amp; assim lho receitei na forma seguinte.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Neste caso fiquei muito duvidoso sobre a resolução do que havia de obrar; porque para purgá-lo, (que era o que convinha) era já tarde, e não havia forças; para sangrá-lo mais, era acrescentar erro a erro, pois as muitas sangrias lhe tinham feito tanto dano lançar-lhe sanguessugas, (além de que eram pequeno remédio para tão grande mal) não estavam indicadas da doença, pois a causa dela estava no estômago, e já pecava mais em qualidade venenosa oculta, do que em podridão manifesta dos humores; nesta angústia não restava outra esperança mais que rebater, e fixar a má qualidade da febre com algum remédio bezoártico, que lentamente fosse também purgando algum humor, em que a tal venenosa qualidade se ateava; e como estas duas virtudes juntas se achem só no meu Cordial Bezoártico, pus nele toda a esperança temporal, fiado nas muitas, e muito prodigiosas curas, que com o tal Bezoártico tinha feito, e assim lho receitei na forma seguinte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>5. Tomei de pevides de cidra azeda huma oitava de raízes de escorcioneira huma onça , tudo machucado mandei se cozesse em huma panela de barro com huma canada de agua commua , até ficar em três quartilhos , &amp; que quando a panela se tirasse do fogo deitassem dentro nella quatro oitavas de folhas de sene de Lapata , &amp; seis onças de assucar rosado de Alexandria , &amp; se deixasse estar de infusão quatro horas , no fim das quaes ordenei se coasse a dita agua com forte expressaõ , &amp; nella se deitassem três oitavas do meu Bezoartico que eu faço em minha casa , &amp; o vendo feito aos boticários João Gomes Silveira , morador ao Chiado , &amp; a Fr.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>5. Tomei de pevides de cidra azeda uma oitava de raízes de escorcioneira uma onça, tudo machucado mandei se cozesse em uma panela de barro com uma canada de água comua, até ficar em três quartilhos, e que quando a panela se tirasse do fogo deitassem dentro nela quatro oitavas de folhas de sene de Lapata, e seis onças de assucar rosado de Alexandria, e se deixasse estar de infusão quatro horas, no fim das quais ordenei se coasse a dita água com forte expressão, e nela se deitassem três oitavas do meu Bezoártico que eu faço em minha casa, e o vendo feito aos boticários João Gomes Silveira, morador ao Chiado, e a Fr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Manoel de Jesus Maria boticario de Saõ Domingos , &amp; a Joaõ Baptista Leitaõ , morador a Saõ Paulo ; &amp; deste Cordeal bem vascolejado , &amp; revolvido , fiz dar ao doente meyo quartilho de seis em seis horas , &amp; visivelmente foi aliviando das grandes ancias que tinha , &amp; purgando com tal brandura , &amp; suavidade , que no discurso de vinte , &amp; quatro horas fez sete cursos , &amp; continuando com o dito cordeal duas vezes cada dia , foi aliviando com taõ conhecido proveito , &amp; tanta diminuiçaõ nos symptomas malignos , que começou a fallar , &amp; conhecer todas as pessoas que lhe assistiaõ , respondendo com grande acerto , &amp; advertencia ao que lhe perguntavão .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Manoel de Jesus Maria boticário de São Domingos, e a João Baptista Leitão, morador a São Paulo; e deste Cordial bem vascolejado, e revolvido, fiz dar ao doente meio quartilho de seis em seis horas, e visivelmente foi aliviando das grandes ânsias que tinha, e purgando com tal brandura, e suavidade, que no discurso de vinte, e quatro horas fez sete cursos, e continuando com o dito cordial duas vezes cada dia, foi aliviando com tão conhecido proveito, e tanta diminuição nos sintomas malignos, que começou a falar, e conhecer todas as pessoas que lhe assistiam, respondendo com grande acerto, e advertência ao que lhe perguntavam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>6 . E para revelir , &amp; chamar para baixo os vapores malignos , que lhe offendiaõ o coraçaõ , &amp; a cabeça , lhe mandei por nas solas dos pès dous pombos abertos , &amp; escalados pelas costas com todo o calor natural , &amp; dentro de tres horas tomàraõ os ditos pombos hum fedor tão insoportavel , que os circunstantes o naõ podiaõ sofrer ; &amp; porque reconheci com elles evidente melhoria , lhos mandei repetir de tres em tres horas com a mesma boa fortuna .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>6. E para revelir, e chamar para baixo os vapores malignos, que lhe ofendiam o coração, e a cabeça, lhe mandei por nas solas dos pés dois pombos abertos, e escalados pelas costas com todo o calor natural, e dentro de três horas tomaram os ditos pombos um fedor tão insuportável, que os circunstantes o não podiam sofrer; e porque reconheci com eles evidente melhoria, lhos mandei repetir de três em três horas com a mesma boa fortuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E porque o doente tinha grande fastio , ordenei lhe missturassem em cada hum dos caldos oito , ou nove gottas de oleo de enxofre , ou aquellas que fossem necessarias para que o caldo ficasse agradavelmente azedo : não só porque este oleo incita muito o appetite do comer , &amp; rebate a podridaõ dos humores ; mas porque corrobora muito o estomago , &amp; reprime a qualidade venenosa , como dizem graves Authores.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>E porque o doente tinha grande fastio, ordenei lhe misturassem em cada um dos caldos oito, ou nove gotas de óleo de enxofre, ou aquelas que fossem necessárias para que o caldo ficasse agradavelmente azedo: não só porque este óleo incita muito o apetite do comer, e rebate a podridão dos humores; mas porque corrobora muito o estômago, e reprime a qualidade venenosa, como dizem graves Autores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E porque naõ ficasse por fazer cousa alguma , que pudesse aproveitar ao doente , mandei que duas vezes ao dia lhe fomentassem a teta esquerda , os sovacos , &amp; os testiculos com hum lenimento feito de duas oitavas de oleo de Mathiolo ,  seis oitavas de banha de flor , &amp; meya onça de oleo de violado : &amp; foraõ todos estes remedios taõ bem succedidos , que por meyo delles livrou o doente da morte com grande credito da Arte , &amp; gosto meu ; &amp; viveo depois desta cura quarenta annos , como poderaõ certificar muitos Religiosos do mesmo Convento que hoje sam vivos , &amp; se lembraraõ deste successo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>E porque não ficasse por fazer coisa alguma, que pudesse aproveitar ao doente, mandei que duas vezes ao dia lhe fomentassem a teta esquerda, os sovacos, e os testículos com um lenimento feito de duas oitavas de óleo de Mathiolo, seis oitavas de banha de flor, e meia onça de óleo de violado: e foram todos estes remédios tão bem sucedidos, que por meio deles livrou o doente da morte com grande credito da Arte, e gosto meu; e viveu depois desta cura quarenta anos, como poderão certificar muitos Religiosos do mesmo Convento que hoje são vivos, e se lembrarão deste sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>7. Da admiravel virtude , que tem os pombos escalados postos nas solas dos pès , para affastar do coraçaõ os vapores malignos, diminuir as dores de cabeça , &amp; moderar os delirios , escrevèraõ muitos Authores .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>7. Da admirável virtude, que tem os pombos escalados postos nas solas dos pés, para afastar coração os vapores malignos, diminuir as dores de cabeça, e moderar os delírios, escreveram muitos Autores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O primeiro he Romberto Dodoneu , o qual fallando dos pombos diz as seguintes palavras : Hum pombo vivo escalado pelas costas, &amp; logo com o mesmo sangue , &amp; a toda a pressa atado nas solas dos pès , naõ só impede que os vapores malignos subaõ à cabeça , mas chama , &amp; attrahe para baixo os que jà tem subido a ella , &amp; deste modo vence grandissimas dores de cabeça , &amp; aplaca os delirios , como as experiencias o mostraraõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O primeiro é Romberto Dodoneu, o qual falando dos pombos diz as seguintes palavras: um pombo vivo escalado pelas costas, e logo com o mesmo sangue, e a toda a pressa atado nas solas dos pés, não só impede que os vapores malignos subam à cabeça, mas chama, e atrai para baixo os que já tem subido a ela, e deste modo vence grandíssimas dores de cabeça, e aplaca os delírios, como as experiências o mostraram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O segundo Author , que tambem louva muito aos pombos para remedio dos symptomas mortaes , que costumão sobrevir às febres malignas , he Agostinho de Laurentijs , como se deixa conhecer pelas suas palavras , que saõ as seguintes : Os pombos velhos escalados , &amp; postos nas plantas dos pès aproveitaõ grandemente aos doentes , que tem symptomas mortaes , que avexaõ o coraçaõ , &amp; a cabeça ; por quanto os ditos pombos com a sua grande quentura chamaraõ para si os humores depravados , &amp; venenosos , que acometem o coraçaõ , &amp; ficando elle desafogado livra do perigo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O segundo Autor, que também louva muito aos pombos para remédio dos sintomas mortais, que costumam sobrevir às febres malignas, é Agostinho de Laurentijs, como se deixa conhecer pelas suas palavras, que são as seguintes: Os pombos velhos escalados, e postos nas plantas dos pés aproveitam grandemente aos doentes, que tem sintomas mortais, que avexam o coração, e a cabeça; por quanto os ditos pombos com a sua grande quentura chamarão para si os humores depravados, e venenosos, que acometem o coração, e ficando ele desafogado livra do perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>8 . O terceiro Author , que tambem acredita muito os pombos nas doenças malignas , he Joaõ Ferreira da Rosa , dizendo as palavras seguintes : Entre os remedios revulsorios , naõ he de menos utilidade o uso dos pombos abertos , &amp; postos nas plantas dos pès com todo o seu calor natural , conservando-os tres horas , &amp; repetindo-os &amp; o que delles experimento he , que raras vezes se applicaõ , sem conhecer com elles muito alivio ; &amp; entendo ~q os taes pombos recebem em si muito vicio da doença , porque se tem experimentado naõ os quererem comer os cães , nem os gatos , &amp; exhalarem de si intoleravel fedor : sendo ~q em tres horas que estaõ postos nos pès , naõ parece tempo bastante para que se levantasse nelles aquella podridaõ , senaõ recebèraõ em si os vapores pestilentes dos humores podres , pelos quaes se dispoem em breves horas para a corrupçaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>8. O terceiro Autor, que também acredita muito os pombos nas doenças malignas, é João Ferreira da Rosa, dizendo as palavras seguintes: Entre os remédios revulsórios, não é de menos utilidade o uso dos pombos abertos, e postos nas plantas dos pés com todo o seu calor natural, conservando-os três horas, e repetindo-os e o que deles experimento é, que raras vezes se aplicam, sem conhecer com eles muito alivio; e entendo que os tais pombos recebem em si muito vício da doença, porque se tem experimentado não os quererem comer os cães, nem os gatos, e exalarem de si intolerável fedor: sendo que em três horas que estão postos nos pés, não parece tempo bastante para que se levantasse neles aquela podridão, senão receberam em si os vapores pestilentos dos humores podres, pelos quais se dispõem em breves horas para a corrupção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O quarto Author , que louva os pombos nos pès para remedio das doenças malignas , he Ricardo  Morton , o qual diz as seguintes palavras : Appliquemse nas plantas dos pès dous pombos escalados daquelle infante , &amp; se repitao outros de tres em tres horas .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O quarto Autor, que louva os pombos nos pés para remédio das doenças malignas, é Ricardo Morton, o qual diz as seguintes palavras: Apliquem-se nas plantas dos pés dois pombos escalados daquele infante, e se repitam outros de três em três horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E pouco mais acima diz o mesmo Author :  O vigor no calor dos pombos mortos daquelle infante persuade a todos os Medicos , que para attrahir o veneno se devem antepôr a todos os animaes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>E pouco mais acima diz o mesmo Autor: O vigor no calor dos pombos mortos daquele infante persuade a todos os Médicos, que para atrair o veneno se devem antepôr a todos os animais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O quinto Author que louva os pombos para rebater os vapores malignos , he Schrodero , dizendo :  Hum pombo vivo partido pelo meyo , &amp; atado nas solas dos pès enquanto está quente , he remedio convenientissimo para aplacar os frenesís, &amp; dores de cabeça .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O quinto Autor que louva os pombos para rebater os vapores malignos, é Schrodero, dizendo: Um pombo vivo partido pelo meio, e atado nas solas dos pés enquanto está quente, é remédio convenientíssimo para aplacar os frenesis, e dores de cabeça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Eu attribuo os mesmos louvores aos pombos ; porque no sobredito Religioso , &amp; em muitos doentes outros vi que fizeraõ effeitos , que parecèraõ milagrosos : &amp; tenho para mim que se os pombos se puzessem vivos com as barrigas depenadas , fariaõ muito melhores obras , que quando se aplicaõ mortos ; porque tanto que esfriaõ , naõ aproveitaõ , porque já naõ attrahem , nem chamaõ para si o veneno.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Eu atribuo os mesmos louvores aos pombos; porque no sobredito Religioso, e em muitos doentes outros vi que fizeram efeitos, que pareceram milagrosos: e tenho para mim que se os pombos se pusessem vivos com as barrigas depenadas, fariam muito melhores obras, que quando se aplicam mortos; porque tanto que esfriam, não aproveitam, porque já não atraem, nem chamam para si o veneno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>9 . Da virtude admiravel que tem o oleo de Vitriolo , &amp; de enxofre para rebater a podridão dos humores , extinguir o ardor da febre , tirar o fastio , impedir os vomitos , confortar o estomago , &amp; matar as lombrigas , escrevèraõ gravissimos Authores , hum dos quaes foi Schrodero ; diz elle , que o oleo de Vitriolo , &amp; de enxofre tem as mesmas virtudes , &amp; que saõ utilissimos contra a peste , &amp; contra a asthma , &amp; para mil queixas outras .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>9. Da virtude admirável que tem o óleo de Vitríolo, e de enxofre para rebater a podridão dos humores, extinguir o ardor da febre, tirar o fastio, impedir os vômitos, confortar o estômago, e matar as lombrigas, escreveram gravíssimos Autores, um dos quais foi Schrodero; diz ele, que o óleo de Vitríolo, e de enxofre tem as mesmas virtudes, e que são utilíssimos contra a peste, e contra a asma, e para mil queixas outras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>10 . Zacuto Lusitano diz , que o oleo de enxofre aproveita para os enjoamentos do estomago , &amp; fraquezas delle , porque o conforta muito , adelgaça os humores viscosos , &amp; grossos , que estaõ infiltrados nas tunicas do mesmo estomago ; he proveitoso nos soluços , &amp; colicas frias , abre as obstrucções do figado ,  &amp; do baço , emenda a podridaõ das febres , ardentes , &amp; a malignidade pestilencial .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>10. Zacuto Lusitano diz, que o óleo de enxofre aproveita para os enjoamentos do estômago, e fraquezas dele, porque o conforta muito, adelgaça os humores viscosos, e grossos, que estão infiltrados nas túnicas do mesmo estômago; é proveitoso nos soluços, e cólicas frias, abre as obstruções do fígado, e do baço, emenda a podridão das febres, ardentes, e a malignidade pestilencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Joaõ Beguino fallando sobre os oleos de Vitriolo , &amp; de enxofre diz o seguinte : Pode dar se o oleo de Vitriolo , ou o do enxofre misturado com aguas appropriadas , ou com xaropes adequados para as doenças , de seis gottas até oito , assim nas doenças quentes , como nas frias.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>João Beguino falando sobre os óleos de Vitríolo, e de enxofre diz o seguinte: Pode dar-se o óleo de Vitríolo, ou o do enxofre misturado com águas apropriadas, ou com xaropes adequados para as doenças, de seis gotas até oito, assim nas doenças quentes, como nas frias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Minderero fallando sobre as virtudes destes oleos diz o seguinte :  Naõ ha podridaõ de humores , que naõ obedeça à virtude destes oleos , nem humores tao depravados , &amp; corruptos , que se naõ rendaõ à efficacia deste medicamento , &amp; com toda a confiança poderei dizer ,  que se me prohibissem o uso destes oleos ,  me naõ atreveria a curar as febres malignas , &amp; pestilentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Minderero falando sobre as virtudes destes óleos diz o seguinte: Não há podridão de humores, que não obedeça à virtude destes óleos, nem humores tao depravados, e corruptos, que se não rendam à eficácia deste medicamento, e com toda a confiança poderei dizer, que se me proibissem o uso destes óleos, me não atreveria a curar as febres malignas, e pestilentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>11 . Pela parte de fora serve qualquer destes oleos para fazer os dentes alvos esfregando-os com elles ; serve para curar as feridas que procederam de gallico ; serve para as verrugas das gengivas ; serve para as fistulas do sesso ; tem virtude quase infallivel para curar os panaricios , com tal condição , que o dedo doente se ha de meter muitas , &amp; muitas vezes dentro em qualquer dos ditos oleos taõ quentes , que o dedo os naõ possa sofrer .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>11. Pela parte de fora serve qualquer destes óleos para fazer os dentes alvos esfregando-os com eles; serve para curar as feridas que procederam de gálico; serve para as verrugas das gengivas; serve para as fístulas do sesso; tem virtude quase infalível para curar os panarícios, com tal condição, que o dedo doente se há de meter muitas, e muitas vezes dentro em qualquer dos ditos óleos tão quentes, que o dedo os não possa sofrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A mesma virtude tem hũ limaõ azedo assado , se nelle muito quente meterem o panaricio , como observei felicissimamente em certa senhora , ha quem visitei estando em hũa quinta ,  &amp; porque naõ tive alli qualquer dos sobreditos oleos , lhe fiz meter o dedo no limaõ assado quasi fervendo , &amp; repetindo esse remedio muitas vezes , sarou no mesmo dia com admiraçaõ dos circunstantes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>A mesma virtude tem um limão azedo assado, se nele muito quente meterem o panarício, como observei felicissimamente em certa senhora, há quem visitei estando em uma quinta, e porque não tive ali qualquer dos sobreditos óleos, lhe fiz meter o dedo no limão assado quase fervendo, e repetindo esse remédio muitas vezes, sarou no mesmo dia com admiração dos circunstantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O dito oleo de Vitriolo he admiravel remedio para naõ tornar a sahir o sesso , com tal condiçaõ , que se misture com huma pouca de agua de tanchagem , &amp; se chapeje o sesso muitas vezes com o tal licor .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O dito óleo de Vitríolo é admirável remédio para não tornar a sair o sesso, com tal condição, que se misture com uma pouca de água de tanchagem, e se chapeje o sesso muitas vezes com o tal licor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Os remedios que uso muitas vezes , por serem quasi infalliveis , saõ os dois seguintes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Os remédios que uso muitas vezes, por serem quase infalíveis, são os dois seguintes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O primeiro he recolher o sesso com hum pedaço da camisa de qualquer defunto ; ha algumas crianças bastou fazerse isto duas vezes , &amp; nunca tornou a sahir .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O primeiro é recolher o sesso com um pedaço da camisa de qualquer defunto; há algumas crianças bastou fazer-se isto duas vezes, e nunca tornou a sair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>O segundo he lavar o sesso com agua cozida com rosas balaustias , murta , maçans de acipreste , &amp; polvorizar a parte com os pòs dos escaravelhos ; tambem me consta que os sumos da pelle de huma cobra , tomados por hũ funil , naõ só fazem recolher o sesso , mas tambem  a madre , quãdo saem fora do seu lugar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>O segundo é lavar o sesso com água cozida com rosas balaústias, murta, maçãs de acipreste, e pulverizar a parte com os pós dos escaravelhos; também me consta que os sumos da pele de uma cobra, tomados por um funil, não só fazem recolher o sesso, mas também a madre, quando saem fora do seu lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Finalmente para curar as almorreimas inchadas , ou dolorosas , naõ se achara em toda a Arte remedio mais certo , &amp; seguro , do que o oleo de Vitriolo , misturado com agua cozida com folhas de congorça , ou marcavala .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T153506Z">
+        <seg>Finalmente para curar as almorreimas inchadas, ou dolorosas, não se achara em toda a Arte remédio mais certo, e seguro, do que o óleo de Vitríolo, misturado com água cozida com folhas de congorsa, ou marcavala.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

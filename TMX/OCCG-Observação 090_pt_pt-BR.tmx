@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pt"/>
+  <body>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>OBSERVAÇAM XC</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>OBSERVAÇÃO XC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>De huma febre ardentissima taõ obstinada , que desprezou a quantos remedios lhe fizeraõ , até que conheci q a rebeldia della procedia da grande quentura da casa em que o doente estava , porque tinha por baixo hum forno de hum pasteleiro , &amp; mandando eu tirar o doente para casa mais fresca , melhorou quasi de repente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>De uma febre ardentíssima tão obstinada, que desprezou a quantos remédios lhe fizeram, até que conheci que a rebeldia dela procedia da grande quentura da casa em que o doente estava, porque tinha por baixo um forno de um pasteleiro, e mandando eu tirar o doente para casa mais fresca, melhorou quase de repente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Huma das cousas que Galeno , ( 1 . ) &amp; outros Authores encomendaõ muito , &amp; que he muito necessaria para curar as febres , he que os doentes esstejaõ em casas grandes , &amp; frescas por natureza , ou por artificio , &amp; que tenhaõ janelas ; porque se forem pequenas , quentes , ou abafadiças , necessariamente o ar das taes casas ha de ser quente , &amp; incapaz para temperar o incendio do coraçaõ , &amp; para se gerarem delle novos espiritos : &amp; faltando qualquer soccorro destes aos febricitantes , infallivelmente perigaraõ , nem as febres se tiraraõ , sem que tirem primeiro a vida .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>Uma das coisas que Galeno, (1. ) e outros Autores encomendam muito, e que é muito necessária para curar as febres, é que os doentes estejam em casas grandes, e frescas por natureza, ou por artificio, e que tenham janelas; porque se forem pequenas, quentes, ou abafadiças, necessariamente o ar das tais casas há de ser quente, e incapaz para temperar o incêndio do coração, e para se gerarem dele novos espíritos: e faltando qualquer socorro destes aos febricitantes, infalivelmente perigarão, nem as febres se tirarão, sem que tirem primeiro a vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>E porque alguem naõ cuide que isto , he encarecimento , referirei tres casos , que me passaraõ pelas mãos , com que confirmei a verdade , em que se funda o meu conselho .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>E porque alguém não cuide que isto, é encarecimento, referirei três casos, que me passaram pelas mãos, com que confirmei a verdade, em que se funda o meu conselho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>No fim de Julho de 1668 , me chamaraõ para curar ao Padre Alvaro Ferreira , morador ao Remolares : avia muitos dias que este Sacerdote padecia hũa febre terçãa continua taõ ardente , &amp; pertinaz , que tinha zombado dos remedios mais efficazes, que inventou o engenho dos homens , &amp; como eu visse a obstinaçaõ da febre , &amp; que a nenhuma diligencia obedecia , comecei a discursar qual seria a causa de taõ porfiada resistencia , &amp; vim a entender , que como o aposento , em que o doente estava , era pequeno , &amp; naõ tinha mais que huma janella sem correspondencia de outra por onde entrasse , e sahisse o ar necessario para refrigerio do coraçaõ , &amp; como juntamente soubesse , que debaixo da cama do enfermo estava hum forno de pasteleiro , facilmente entendi que todas estas cousas concorriaõ para que a febre perseverasse , &amp; o doente naõ tivesse melhoria ; pois o ar , que o enfermo respirava , era taõ quente , que parecia fogo , quando ( a respeito da febre ) devia ser mais frio , que o de que necessitaõ os que tem saude .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>No fim de Julho de 1668, me chamaram para curar ao Padre Alvaro Ferreira, morador ao Remolares: havia muitos dias que este Sacerdote padecia uma febre terçã continua tão ardente, e pertinaz, que tinha zombado dos remédios mais eficazes, que inventou o engenho dos homens, e como eu visse a obstinação da febre, e que a nenhuma diligência obedecia, comecei a discursar qual seria a causa de tão porfiada resistência, e vim a entender, que como o aposento, em que o doente estava, era pequeno, e não tinha mais que uma janela sem correspondência de outra por onde entrasse, e saísse o ar necessário para refrigério do coração, e como juntamente soubesse, que debaixo da cama do enfermo estava um forno de pasteleiro, facilmente entendi que todas estas coisas concorriam para que a febre perseverasse, e o doente não tivesse melhoria; pois o ar, que o enfermo respirava, era tão quente, que parecia fogo, quando (a respeito da febre) devia ser mais frio, que o de que necessitam os que tem saúde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Milagre pareceo , que hum homem moço atracado com huma febre artentissima em tempo muito caloroso , &amp; deitado sobre hum forno naõ morresse abrazado , tendo contra si tantos inimigos juntos , porèm como Deos tinha antevisto , que aquelle enfermo avia de escolher estado mais perfeito , fazendose Religioso de Saõ Jeronymo , se dignou darme luz para que conhecesse , que a resistencia da febre procedia do calor do forno ajudado da pequenhez da casa , &amp; da ardencia das calmas ; &amp; assentando eu que estas eraõ as causas , mandei q logo mudassem ao doente para aposento mais fresco , &amp; lavado do ar ; &amp; foy esta mudança taõ acertada , que dentro de poucos dias conseguio a saude que desejava , sem ser necessario outro remedio mais que humas ajudas de ameijoada , feitas de quatro onças de caldo de frangaõ cozido com cevada , alface , &amp; farelos lavados , a que fiz ajuntar tres onças de agua de claras de ovos bem batidas , dandolhe ao romper dos dias huns caldos de farinha de avea , feitos em agua primeiro cozida com farelos , &amp; pouquissimo assucar .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>Milagre pareceu, que um homem moço atracado com uma febre ardentíssima em tempo muito caloroso, e deitado sobre um forno não morresse abrasado, tendo contra si tantos inimigos juntos, porém como Deus tinha antevisto, que aquele enfermo havia de escolher estado mais perfeito, fazendo-se Religioso de São Jerônimo, se dignou dar-me luz para que conhecesse, que a resistência da febre procedia do calor do forno ajudado da pequenhez da casa, e da ardência das calmas; e assentando eu que estas eram as causas, mandei que logo mudassem ao doente para aposento mais fresco, e lavado do ar; e foi esta mudança tão acertada, que dentro de poucos dias conseguiu a saúde que desejava, sem ser necessário outro remédio mais que umas ajudas de ameijoada, feitas de quatro onças de caldo de frangão cozido com cevada, alface, e farelos lavados, a que fiz ajuntar três onças de água de claras de ovos bem batidas, dando-lhe ao romper dos dias uns caldos de farinha de aveia, feitos em água primeiro cozida com farelos, e pouquíssimo açúcar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Neste lugar me perguntaraõ os curiosos , que razaõ tive para naõ dar a este enfermo agua nevada , sendo eu o mayor , e mais incansavel pregoeiro dos seus louvores para extinguir semelhantes febres , mayormente em hum homem moço , robusto , &amp; em tempo dos caniculares , em cujas circunstancias Galeno ( 1 . ) manda dar agua fria com toda a confiança : &amp; Hippocrates ( 3 . ) faz tanta estimaçaõ das cousas frias para extinguir as febres , que até as purgas manda dar serenadas , salvo o doente estiver com camaras : &amp; porque razaõ naõ lhe mandei untar as costas com çumo de abobora , &amp; agraço , applicando-os eu a outros muitos febricitantes : &amp; para quando guardei as camas de folhas de golfaõ , de sabugueiro , ou de alface , de que eu muito uso : finalmente porque me naõ vali de deitar ao doente , duas horas no dia , em hũ colchaõ de odres cheyos de agua fria de cisterna , como já fiz a huma filha de Joaõ de Barros , ourives da prata , &amp; a huma netinha de Pedralves Cabral de Lacerda , a hum filho de Pedro de Araujo , &amp; a outros doentes , que ardendo em incendios de fogo , sem que algum remedio os pudesse apagar , só com os deitar nos colchões de agua de cisterna os curei felizmente .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>Neste lugar me perguntaram os curiosos, que razão tive para não dar a este enfermo água nevada, sendo eu o maior, e mais incansável pregoeiro dos seus louvores para extinguir semelhantes febres, maiormente em um homem moço, robusto, e em tempo dos caniculares, em cujas circunstâncias Galeno (1. ) manda dar água fria com toda a confiança: e Hipócrates (3. ) faz tanta estimação das coisas frias para extinguir as febres, que até as purgas manda dar serenadas, salvo o doente estiver com câmaras: e porque razão não lhe mandei untar as costas com sumo de abóbora, e agraço, aplicando-os eu a outros muitos febricitantes: e para quando guardei as camas de folhas de golfão, de sabugueiro, ou de alface, de que eu muito uso: finalmente porque me não vali de deitar ao doente, duas horas no dia, em um colchão de odres cheios de água fria de cisterna, como já fiz a uma filha de João de Barros, ourives da prata, e a uma netinha de Pedralves Cabral de Lacerda, a um filho de Pedro de Araujo, e a outros doentes, que ardendo em incêndios de fogo, sem que algum remédio os pudesse apagar, só com os deitar nos colchões de água de cisterna os curei felizmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A estas perguntas respondo , que todos estes remedios pudera fazer , porque de todos costumo usar com grande fortuna ; mas que naõ me vali delles , porque como o calor da casa , &amp; o ar , que o doente respirava , eraõ os mayores cumplices da febre , &amp; da sua renitencia , importariaõ pouco todos os outros remedios , senaõ mudasse ao doente para casa fresca , como o fiz naõ só a este , mas a hum filho de hum sombreireiro morador ao Tronco , o qual teve hũa febre taõ teimosa , que a nenhum remedio obedeceo , atè que soube que debaixo da sua cama ficava a fornalha em que se fabricavaõ os chapeos , &amp; o mesmo foy mudallo para outra casa fresca , &amp; darlhe a agua nevada , que ter logo saude ; &amp; para mayor confirmaçaõ do muito que importa , que os febricitantes estejaõ em casas frescas , &amp; lavadas dos ares , contarei a seguinte Observaçaõ .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>A estas perguntas respondo, que todos estes remédios pudera fazer, porque de todos costumo usar com grande fortuna; mas que não me vali deles, porque como o calor da casa, e o ar, que o doente respirava, eram os maiores cúmplices da febre, e da sua renitência, importariam pouco todos os outros remédios, senão mudasse ao doente para casa fresca, como o fiz não só a este, mas a um filho de um sombreireiro morador ao Tronco, o qual teve uma febre tão teimosa, que a nenhum remédio obedeceu, até que soube que debaixo da sua cama ficava a fornalha em que se fabricavam os chapéus, e o mesmo foi mudá-lo para outra casa fresca, e dar-lhe a água nevada, que ter logo saúde; e para maior confirmação do muito que importa, que os febricitantes estejam em casas frescas, e lavadas dos ares, contarei a seguinte Observação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Em casa de Antonio Luis Gonçalves da Camara , Almotacel Mòr do Reyno , succedeo , que estando hum seu criado doente com hũa febre ardente , acompanhada com muitos delirios , se levantou da cama , sendo alta noite , &amp; abrindo as portas sem ser sentido , sahio de casa , &amp; guiado pelo seu delirio ; sem saber o  que fazia , foy dar comsigo em o cano real , &amp; entrando por elle dentro cahio desmayado &amp; porque esteve cinco horas debaixo da abobada , &amp; metido na agua do dito cano , se temperou, &amp; resfriou de sorte o calor febril , que ao amanhecer se achou sem febre , &amp; sem delirio &amp; sahio do cano , causando admiraçaõ aos que o viraõ sahir, sem saber quem alli o levara .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>Em casa de Antonio Luis Gonçalves da Camara, Almotacel Mor do Reino, sucedeu, que estando um seu criado doente com uma febre ardente, acompanhada com muitos delírios, se levantou da cama, sendo alta noite, e abrindo as portas sem ser sentido, saiu de casa, e guiado pelo seu delírio; sem saber o que fazia, foi dar consigo em o cano real, e entrando por ele dentro caiu desmaiado e porque esteve cinco horas debaixo da abóbada, e metido na água do dito cano, se temperou, e resfriou de sorte o calor febril, que ao amanhecer se achou sem febre, e sem delírio e saiu do cano, causando admiração aos que o viram sair, sem saber quem ali o levara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>Destas Obserações aprendaõ os Medicos modernos , &amp; os pays de familia cinco cousas muito importantes , &amp; necessarias para curar bem aos seus doentes .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>Destas Observações aprendam os Médicos modernos, e os pais de família cinco coisas muito importantes, e necessárias para curar bem aos seus doentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A primeira he , que tenhaõ grande cuidado de ter aos doentes de febres ardentissimas em casas frescas , &amp; lavadas do ar, porque se os tiverem em casas pequenas , ou abafadiças , se tirará primeiro a vida , que a febre .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>A primeira é, que tenham grande cuidado de ter aos doentes de febres ardentíssimas em casas frescas, e lavadas do ar, porque se os tiverem em casas pequenas, ou abafadiças, se tirará primeiro a vida, que a febre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A segunda , que nunca deixem aos freneticos sós , nem sem companhia de gente esperta , &amp; cuidadosa , porque se os deixarem sós , os arriscaõ a que se deitem da janella abaixo , como já vi a duas mulheres , moradoras ambas na Tanoeria ,  que ambas morrèraõ precipitadas , porque estando freneticas as deixaraõ sós , &amp; sem companhia , porque a que tinhaõ estava dormindo .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>A segunda, que nunca deixem aos frenéticos sós, nem sem companhia de gente esperta, e cuidadosa, porque se os deixarem sós, os arriscam a que se deitem da janela abaixo, como já vi a duas mulheres, moradoras ambas na Tanoeria, que ambas morreram precipitadas, porque estando frenéticas as deixaram sós, e sem companhia, porque a que tinham estava dormindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A terceira , que na casa em que estiverem os frenéticos naõ aja espadas , nem facas , nem armas de fogo , porque facilmente pegaõ nellas , &amp; acometem aos que estaõ na sua companhia , &amp; talvez ao Medico q os vai curar , como me succedeo a mim com hum frenetico , que entrando eu no aposento em que estava , se levantou com grande furia a pegar em huma espada , &amp; foy preciso fecharlhe a porta .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>A terceira, que na casa em que estiverem os frenéticos não haja espadas, nem facas, nem armas de fogo, porque facilmente pegam nelas, e acometem aos que estão na sua companhia, e talvez ao Médico que os vai curar, como me sucedeu a mim com um frenético, que entrando eu no aposento em que estava, se levantou com grande fúria a pegar em uma espada, e foi preciso fechar-lhe a porta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A quarta he , que as sangrias dos freneticos se assegurem mui bem com duas , ou tres ataduras ; porque com os continuos movimentos , &amp; forças que fazem , se lhes póde soltar o sangue , &amp; amanhecerem esgotados , &amp; mortos , como já succedeo a hum homem morador na Pampulha .</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>A quarta é, que as sangrias dos frenéticos se assegurem muito bem com duas, ou três ataduras; porque com os contínuos movimentos, e forças que fazem, se lhes pode soltar o sangue, e amanhecerem esgotados, e mortos, como já sucedeu a um homem morador na Pampulha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="pt">
+        <seg>A quinta he , que supposto encomendo muito ( com os sobreditos Authores ) que o ar da casa em que estiver o febricitante seja fresco por natureza , ou por artificio , que isto  se deve entender do ar , que o doente ha de respirar pela boca , &amp; ventas do nariz ; mas naõ do ar , que cobrir o corpo ; porque se o corpo estiver descuberto em casa de ar frio , se fecharaõ os póros da pelle , &amp; consequentemente se prohibirá a transpiraçaõ , o que seria hum grandissimo impedimento para recuperar a saude ; por tanto encomendo muito , que o corpo do febricitante esteja sempre bem cuberto , para q os póros estejaõ abertos , &amp; se continue a transpiraçaõ , pois he mais util que as outras evacuações juntas.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" creationid="OmegaT Aligner" creationdate="20230908T154106Z">
+        <seg>A quinta é, que suposto encomendo muito (com os sobreditos Autores) que o ar da casa em que estiver o febricitante seja fresco por natureza, ou por artifício, que isto se deve entender do ar, que o doente há de respirar pela boca, e ventas do nariz; mas não do ar, que cobrir o corpo; porque se o corpo estiver descoberto em casa de ar frio, se fecharão os poros da pele, e consequentemente se proibirá a transpiração, o que seria um grandíssimo impedimento para recuperar a saúde; portanto encomendo muito, que o corpo do febricitante esteja sempre bem coberto, para que os poros estejam abertos, e se continue a transpiração, pois é mais útil que as outras evacuações juntas.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
