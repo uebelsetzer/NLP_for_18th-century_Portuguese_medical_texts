@@ -5,7 +5,7 @@ Zilio, L., Lazzari R.R., Finatto, M.J.B. (2024) NLP for historical Portuguese: A
 ## Repository content:
 This is just an overview. Please refer to the paper above to get more information about the content of each folder.
 
-> TMX: this folder contain original and normalised versions of the texts described in the paper in a TMX format (a type of XML format)
+> TMX: this folder contains original and normalised versions of the texts described in the paper in a TMX format (a type of XML format)
 
 > aligned: this folder contains the results of semi-automatic alignments between original and normalised versions of each file of the corpus
 
